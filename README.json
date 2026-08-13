@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T12:20:59Z",
+            "last_commit": "2026-08-13T07:51:07Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38526
+            "stars": 38527
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-29T06:30:19Z",
             "owner": "ZJU-REAL",
             "repo": "Relay-OPD",
-            "stars": 38
+            "stars": 39
           }
         },
         {
@@ -94,7 +94,7 @@
             "last_commit": "2026-08-09T19:37:55Z",
             "owner": "Yu-Fangxu",
             "repo": "W2S-OPD",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-05-28T15:30:35Z",
             "owner": "RUCBM",
             "repo": "G-OPD",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-10T16:03:06Z",
             "owner": "uanu2002",
             "repo": "DAPD",
-            "stars": 106
+            "stars": 108
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-11T04:48:07Z",
             "owner": "yzc-666",
             "repo": "TIDE",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -315,6 +315,20 @@
         },
         {
           "node_type": "item",
+          "title": "Simple-OPD: Demystifying Warm-up for On-policy Distillation",
+          "description": "(2026) — Teacher-generated reasoning warm-up initializes OPD for faster convergence with less out-of-domain degradation. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:15:18Z",
+            "owner": "Utaotao",
+            "repo": "Simple-OPD",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Rock Tokens — Deciphering High-Loss Tokens in On-Policy Distillation",
           "description": "(2026) — High-loss tokens (up to 18%) persist after apparent convergence; masking them streamlines alignment. (Code)",
           "children": [],
@@ -338,20 +352,6 @@
             "last_commit": "2026-08-05T07:35:42Z",
             "owner": "DBtxy",
             "repo": "DASH-OPSD",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple-OPD: Demystifying Warm-up for On-policy Distillation",
-          "description": "(2026) — Teacher-generated reasoning warm-up initializes OPD for faster convergence with less out-of-domain degradation. (Code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T13:15:18Z",
-            "owner": "Utaotao",
-            "repo": "Simple-OPD",
             "stars": 2
           }
         },
@@ -434,7 +434,7 @@
             "last_commit": "2026-04-07T20:14:25Z",
             "owner": "idanshen",
             "repo": "Self-Distillation",
-            "stars": 679
+            "stars": 680
           }
         },
         {
@@ -490,7 +490,7 @@
             "last_commit": "2026-07-03T04:30:49Z",
             "owner": "HJSang",
             "repo": "CRISP_Reasoning_Compression",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-06-15T03:35:42Z",
             "owner": "lauyikfung",
             "repo": "SDPG",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2026-03-26T05:35:50Z",
             "owner": "zhangmiaosen2000",
             "repo": "Towards-On-Policy-SFT",
-            "stars": 23
+            "stars": 25
           }
         },
         {
@@ -904,10 +904,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T07:05:47Z",
+            "last_commit": "2026-08-13T06:45:12Z",
             "owner": "ZJU-REAL",
             "repo": "SDAR",
-            "stars": 333
+            "stars": 335
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2026-07-17T05:22:51Z",
             "owner": "jinyangwu",
             "repo": "SEED",
-            "stars": 227
+            "stars": 230
           }
         },
         {
@@ -935,7 +935,7 @@
             "last_commit": "2026-07-01T09:46:48Z",
             "owner": "jinyangwu",
             "repo": "OPID",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -1128,7 +1128,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T05:55:05Z",
+            "last_commit": "2026-08-13T05:54:28Z",
             "owner": "liujunzhuo",
             "repo": "SMRC-SD",
             "stars": 1
@@ -1455,7 +1455,7 @@
             "last_commit": "2026-02-20T02:53:29Z",
             "owner": "SafeAILab",
             "repo": "EAGLE",
-            "stars": 2501
+            "stars": 2500
           }
         },
         {
@@ -1497,7 +1497,7 @@
             "last_commit": "2026-08-06T12:22:27Z",
             "owner": "Simplified-Reasoning",
             "repo": "Draft-OPD",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -1560,7 +1560,7 @@
             "last_commit": "2026-06-29T06:13:50Z",
             "owner": "thunlp",
             "repo": "OPD",
-            "stars": 919
+            "stars": 923
           }
         },
         {
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:45.993Z",
+    "last_updated": "2026-08-13T09:45:11.780Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_sha": "5b486de8829749aed7dad4700c0a271ddc085b6a",
     "enhanced_repository": "enhansome/enhansome-on-policy-distillation",
