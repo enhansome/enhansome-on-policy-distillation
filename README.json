@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38537
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4460
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-29T06:30:19Z",
             "owner": "ZJU-REAL",
             "repo": "Relay-OPD",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-05-28T15:30:35Z",
             "owner": "RUCBM",
             "repo": "G-OPD",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-10T16:03:06Z",
             "owner": "uanu2002",
             "repo": "DAPD",
-            "stars": 111
+            "stars": 118
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-07-16T15:15:15Z",
             "owner": "ShenzhiYang2000",
             "repo": "OPRD",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-14T05:35:02Z",
             "owner": "Utaotao",
             "repo": "Simple-OPD",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -385,6 +385,20 @@
         },
         {
           "node_type": "item",
+          "title": "PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation",
+          "description": "(2026) — Replaces on-policy distillation's unbounded log-ratio reward with a natively bounded Box–Cox power transformation, curbing high-variance gradients that post-hoc scaling cannot. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T13:36:15Z",
+            "owner": "EIT-NLP",
+            "repo": "PowerOPD",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Matching Supervision to the Student's Learning Capacity: A Unified Framework for On-Policy Self-Distillation",
           "description": "(2026) — Jointly adapts privileged exposure plus token weighting under a capacity budget to match evolving student learnability. (Code)",
           "children": [],
@@ -396,12 +410,6 @@
             "repo": "USD",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation",
-          "description": "(2026) — Replaces on-policy distillation's unbounded log-ratio reward with a natively bounded Box–Cox power transformation, curbing high-variance gradients that post-hoc scaling cannot. (Code)",
-          "children": []
         }
       ],
       "title": "Stability and Objective Design"
@@ -420,7 +428,7 @@
             "last_commit": "2026-07-01T13:51:47Z",
             "owner": "lasgroup",
             "repo": "SDPO",
-            "stars": 1056
+            "stars": 1058
           }
         },
         {
@@ -448,7 +456,7 @@
             "last_commit": "2026-06-13T18:53:52Z",
             "owner": "Ahren09",
             "repo": "UniSD",
-            "stars": 624
+            "stars": 631
           }
         },
         {
@@ -462,7 +470,7 @@
             "last_commit": "2026-06-16T03:00:53Z",
             "owner": "THU-BPM",
             "repo": "RLCSD",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -504,7 +512,7 @@
             "last_commit": "2026-06-15T03:35:42Z",
             "owner": "lauyikfung",
             "repo": "SDPG",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -656,7 +664,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4460
           }
         },
         {
@@ -670,7 +678,21 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Latent On-Policy Self-Distillation",
+          "description": "(2026) — Learns privileged experience context as latent tokens to self-distill agent rollouts without designer-specified artifacts. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T06:30:36Z",
+            "owner": "bingreeky",
+            "repo": "LOPD",
+            "stars": 7
           }
         },
         {
@@ -684,6 +706,20 @@
             "last_commit": "2026-08-03T13:27:46Z",
             "owner": "rrrsj",
             "repo": "SPEE",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing",
+          "description": "(2026) — Injects privileged tokens into off-topic student rollouts to internalize composable knowledge edits. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:20:02Z",
+            "owner": "lliutianc",
+            "repo": "hpse",
             "stars": 1
           }
         }
@@ -882,7 +918,7 @@
             "last_commit": "2024-05-08T05:59:37Z",
             "owner": "uclaml",
             "repo": "SPIN",
-            "stars": 1253
+            "stars": 1254
           }
         }
       ],
@@ -921,7 +957,7 @@
             "last_commit": "2026-07-17T05:22:51Z",
             "owner": "jinyangwu",
             "repo": "SEED",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -935,7 +971,7 @@
             "last_commit": "2026-07-01T09:46:48Z",
             "owner": "jinyangwu",
             "repo": "OPID",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -991,7 +1027,7 @@
             "last_commit": "2026-07-31T09:18:56Z",
             "owner": "ChenChiShui",
             "repo": "FutureBridge-OPD",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -1131,6 +1167,20 @@
             "last_commit": "2026-08-13T05:54:28Z",
             "owner": "liujunzhuo",
             "repo": "SMRC-SD",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents",
+          "description": "(2026) — Converts privileged self-teacher disagreement into step-level advantages on failed search trajectories, preserving reward direction. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:41:43Z",
+            "owner": "hkust-nlp",
+            "repo": "SSPO",
             "stars": 1
           }
         },
@@ -1317,7 +1367,7 @@
             "last_commit": "2026-07-14T01:08:53Z",
             "owner": "Lakonik",
             "repo": "LakonLab",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -1331,7 +1381,7 @@
             "last_commit": "2026-06-24T15:46:36Z",
             "owner": "CostaliyA",
             "repo": "Flow-OPD",
-            "stars": 280
+            "stars": 279
           }
         },
         {
@@ -1346,6 +1396,20 @@
             "owner": "LiJiaxing0213",
             "repo": "DistillAlign",
             "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+          "description": "(2026) — Matches long-horizon teacher scores across self-forced video rollouts to prevent drift in a few-step world model. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T10:52:01Z",
+            "owner": "AlayaLab",
+            "repo": "Evoke",
+            "stars": 49
           }
         },
         {
@@ -1388,6 +1452,20 @@
             "owner": "xingzhejun",
             "repo": "d-opsd-code",
             "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models",
+          "description": "(2026) — Anchors student video sub-trajectories to privileged teacher states for condition-matched hybrid-policy self-distillation. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-14T07:53:43Z",
+            "owner": "Bujiazi",
+            "repo": "HPSD",
+            "stars": 12
           }
         },
         {
@@ -1437,6 +1515,20 @@
             "repo": "RPD",
             "stars": 21
           }
+        },
+        {
+          "node_type": "item",
+          "title": "FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving",
+          "description": "(2026) — Routes failed driving rollouts to a hidden-future self-teacher for answer-token supervision. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T01:40:17Z",
+            "owner": "forever-free1",
+            "repo": "FIRE-VLA",
+            "stars": 0
+          }
         }
       ],
       "title": "Embodied, Robotics, and Control"
@@ -1455,7 +1547,7 @@
             "last_commit": "2026-02-20T02:53:29Z",
             "owner": "SafeAILab",
             "repo": "EAGLE",
-            "stars": 2500
+            "stars": 2499
           }
         },
         {
@@ -1494,7 +1586,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T12:22:27Z",
+            "last_commit": "2026-08-14T16:36:33Z",
             "owner": "Simplified-Reasoning",
             "repo": "Draft-OPD",
             "stars": 62
@@ -1560,7 +1652,7 @@
             "last_commit": "2026-06-29T06:13:50Z",
             "owner": "thunlp",
             "repo": "OPD",
-            "stars": 926
+            "stars": 928
           }
         },
         {
@@ -1574,7 +1666,7 @@
             "last_commit": "2026-05-10T05:46:29Z",
             "owner": "siyan-zhao",
             "repo": "OPSD",
-            "stars": 558
+            "stars": 559
           }
         },
         {
@@ -1662,9 +1754,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:41:03.243Z",
+    "last_updated": "2026-08-15T09:00:15.335Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
-    "original_repository_sha": "be5abff3e957b31a7eece91a084e9d0d7f71b53c",
+    "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
     "enhanced_repository": "enhansome/enhansome-on-policy-distillation",
     "enhanced_repository_description": null,
     "title": "⚗️ Awesome On-Policy Distillation with stars"
