@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38544
+            "stars": 38558
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4462
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-05-08T01:35:05Z",
             "owner": "Peregrine123",
             "repo": "ROPD_official",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-29T06:30:19Z",
             "owner": "ZJU-REAL",
             "repo": "Relay-OPD",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -161,20 +161,6 @@
         },
         {
           "node_type": "item",
-          "title": "DAPD: Dual-Anchored Policy Distillation",
-          "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T16:03:06Z",
-            "owner": "uanu2002",
-            "repo": "DAPD",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
           "title": "DistiLLM-2: A Contrastive Approach Boosts the Distillation of LLMs",
           "description": "(2025) — Contrastive extension of skew-KL; student-generated outputs collected per epoch. (Code)",
           "children": [],
@@ -198,7 +184,7 @@
             "last_commit": "2026-07-16T15:15:15Z",
             "owner": "ShenzhiYang2000",
             "repo": "OPRD",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -212,7 +198,7 @@
             "last_commit": "2026-06-10T17:00:35Z",
             "owner": "WenjinHou",
             "repo": "Uni-OPD",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -296,7 +282,7 @@
             "last_commit": "2026-06-24T09:00:25Z",
             "owner": "YannX1e",
             "repo": "Importance-Weighted-On-Policy-Distillation",
-            "stars": 9
+            "stars": 8
           }
         },
         {
@@ -352,6 +338,20 @@
             "last_commit": "2026-08-05T07:35:42Z",
             "owner": "DBtxy",
             "repo": "DASH-OPSD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DAPD: Dual-Anchored Policy Distillation",
+          "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:03:06Z",
+            "owner": "uanu2002",
+            "repo": "DAPD",
             "stars": 2
           }
         },
@@ -428,7 +428,7 @@
             "last_commit": "2026-07-01T13:51:47Z",
             "owner": "lasgroup",
             "repo": "SDPO",
-            "stars": 1058
+            "stars": 1059
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-06-13T18:53:52Z",
             "owner": "Ahren09",
             "repo": "UniSD",
-            "stars": 601
+            "stars": 605
           }
         },
         {
@@ -467,10 +467,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-16T03:00:53Z",
+            "last_commit": "2026-08-17T04:51:42Z",
             "owner": "THU-BPM",
             "repo": "RLCSD",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4462
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4462
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2026-08-14T06:30:36Z",
             "owner": "bingreeky",
             "repo": "LOPD",
-            "stars": 16
+            "stars": 27
           }
         },
         {
@@ -943,7 +943,7 @@
             "last_commit": "2026-08-13T06:45:12Z",
             "owner": "ZJU-REAL",
             "repo": "SDAR",
-            "stars": 340
+            "stars": 341
           }
         },
         {
@@ -957,7 +957,7 @@
             "last_commit": "2026-07-17T05:22:51Z",
             "owner": "jinyangwu",
             "repo": "SEED",
-            "stars": 236
+            "stars": 238
           }
         },
         {
@@ -985,7 +985,7 @@
             "last_commit": "2026-05-23T11:17:58Z",
             "owner": "DeepExperience",
             "repo": "HyperEyes",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -1013,7 +1013,7 @@
             "last_commit": "2026-08-14T06:51:29Z",
             "owner": "ZethWang",
             "repo": "AgentOPSD",
-            "stars": 35
+            "stars": 37
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-07-31T09:18:56Z",
             "owner": "ChenChiShui",
             "repo": "FutureBridge-OPD",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-07-31T04:12:06Z",
             "owner": "BinbZheng1",
             "repo": "GRSD",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -1255,7 +1255,7 @@
             "last_commit": "2026-07-28T15:31:47Z",
             "owner": "eVI-group-SCU",
             "repo": "V-Zero",
-            "stars": 21
+            "stars": 27
           }
         },
         {
@@ -1283,7 +1283,7 @@
             "last_commit": "2026-08-08T18:35:05Z",
             "owner": "aniri15",
             "repo": "OPD-V",
-            "stars": 13
+            "stars": 15
           }
         },
         {
@@ -1401,7 +1401,7 @@
             "last_commit": "2026-08-15T10:27:56Z",
             "owner": "AlayaLab",
             "repo": "Evoke",
-            "stars": 61
+            "stars": 89
           }
         },
         {
@@ -1454,7 +1454,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T07:53:43Z",
+            "last_commit": "2026-08-17T01:57:46Z",
             "owner": "Bujiazi",
             "repo": "HPSD",
             "stars": 12
@@ -1539,7 +1539,7 @@
             "last_commit": "2026-02-20T02:53:29Z",
             "owner": "SafeAILab",
             "repo": "EAGLE",
-            "stars": 2499
+            "stars": 2500
           }
         },
         {
@@ -1644,7 +1644,7 @@
             "last_commit": "2026-06-29T06:13:50Z",
             "owner": "thunlp",
             "repo": "OPD",
-            "stars": 930
+            "stars": 932
           }
         },
         {
@@ -1658,7 +1658,7 @@
             "last_commit": "2026-05-10T05:46:29Z",
             "owner": "siyan-zhao",
             "repo": "OPSD",
-            "stars": 561
+            "stars": 564
           }
         },
         {
@@ -1714,7 +1714,7 @@
             "last_commit": "2026-06-02T18:59:49Z",
             "owner": "SalesforceAIResearch",
             "repo": "CaOPD",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -1746,7 +1746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:01:08.472Z",
+    "last_updated": "2026-08-17T09:22:25.038Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
     "enhanced_repository": "enhansome/enhansome-on-policy-distillation",
