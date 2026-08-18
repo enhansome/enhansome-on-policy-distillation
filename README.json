@@ -24,7 +24,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38558
+            "stars": 38571
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4462
+            "stars": 4464
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-07-29T06:30:19Z",
             "owner": "ZJU-REAL",
             "repo": "Relay-OPD",
-            "stars": 43
+            "stars": 45
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-05-19T17:36:01Z",
             "owner": "hhh675597",
             "repo": "revisiting_opd",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-07-16T15:15:15Z",
             "owner": "ShenzhiYang2000",
             "repo": "OPRD",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -217,20 +217,6 @@
         },
         {
           "node_type": "item",
-          "title": "Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention",
-          "description": "(2026) — Black-box oracle edits student failures into proximal rollouts for reward-based distillation that preserves prior knowledge. (Code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-16T18:34:38Z",
-            "owner": "Visual-AI",
-            "repo": "SPoT",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
           "title": "FiRe-OPD: Filter, Then Reweight — Rethinking Optimization Granularity in On-Policy Distillation",
           "description": "(2026) — Drops low teacher-likelihood trajectories, then soft-reweights remaining tokens by teacher confidence and student confusion, replacing hard token selection. (Code)",
           "children": [],
@@ -240,6 +226,20 @@
             "last_commit": "2026-06-03T10:16:12Z",
             "owner": "YuYingLi0",
             "repo": "FiRe-OPD",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention",
+          "description": "(2026) — Black-box oracle edits student failures into proximal rollouts for reward-based distillation that preserves prior knowledge. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T18:34:38Z",
+            "owner": "Visual-AI",
+            "repo": "SPoT",
             "stars": 21
           }
         },
@@ -268,7 +268,7 @@
             "last_commit": "2026-08-14T04:47:21Z",
             "owner": "yzc-666",
             "repo": "TIDE",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2026-08-14T05:35:02Z",
             "owner": "Utaotao",
             "repo": "Simple-OPD",
-            "stars": 4
+            "stars": 6
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2026-07-01T13:51:47Z",
             "owner": "lasgroup",
             "repo": "SDPO",
-            "stars": 1059
+            "stars": 1061
           }
         },
         {
@@ -442,7 +442,7 @@
             "last_commit": "2026-04-07T20:14:25Z",
             "owner": "idanshen",
             "repo": "Self-Distillation",
-            "stars": 681
+            "stars": 683
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-06-13T18:53:52Z",
             "owner": "Ahren09",
             "repo": "UniSD",
-            "stars": 605
+            "stars": 609
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4462
+            "stars": 4464
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4462
+            "stars": 4464
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2026-08-14T06:30:36Z",
             "owner": "bingreeky",
             "repo": "LOPD",
-            "stars": 27
+            "stars": 34
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2026-03-20T10:50:45Z",
             "owner": "Simplified-Reasoning",
             "repo": "LUFFY",
-            "stars": 463
+            "stars": 464
           }
         },
         {
@@ -957,7 +957,7 @@
             "last_commit": "2026-07-17T05:22:51Z",
             "owner": "jinyangwu",
             "repo": "SEED",
-            "stars": 238
+            "stars": 242
           }
         },
         {
@@ -990,6 +990,20 @@
         },
         {
           "node_type": "item",
+          "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+          "description": "(2026) — Aggregates privileged self-teacher gaps into recursive turn-level credit, propagating sparse outcomes through long agent trajectories. (Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:39:28Z",
+            "owner": "ZethWang",
+            "repo": "AgentOPSD",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
           "title": "OPD-Evolver: Cultivating a Holistic Agent Evolver via On-Policy Distillation",
           "description": "(2026) — Distills a hindsight-privileged self-teacher into a self-evolving memory agent across the full experience lifecycle rather than execution alone. (Code)",
           "children": [],
@@ -1000,20 +1014,6 @@
             "owner": "bingreeky",
             "repo": "opd-evolver",
             "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-          "description": "(2026) — Aggregates privileged self-teacher gaps into recursive turn-level credit, propagating sparse outcomes through long agent trajectories. (Code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T06:51:29Z",
-            "owner": "ZethWang",
-            "repo": "AgentOPSD",
-            "stars": 37
           }
         },
         {
@@ -1069,7 +1069,7 @@
             "last_commit": "2026-08-05T05:24:59Z",
             "owner": "quchangle1",
             "repo": "TurnSight",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-08-06T10:03:05Z",
             "owner": "yiy1x",
             "repo": "OCSD",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -1255,7 +1255,7 @@
             "last_commit": "2026-07-28T15:31:47Z",
             "owner": "eVI-group-SCU",
             "repo": "V-Zero",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -1283,7 +1283,7 @@
             "last_commit": "2026-08-08T18:35:05Z",
             "owner": "aniri15",
             "repo": "OPD-V",
-            "stars": 15
+            "stars": 17
           }
         },
         {
@@ -1373,7 +1373,7 @@
             "last_commit": "2026-06-24T15:46:36Z",
             "owner": "CostaliyA",
             "repo": "Flow-OPD",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -1401,7 +1401,7 @@
             "last_commit": "2026-08-15T10:27:56Z",
             "owner": "AlayaLab",
             "repo": "Evoke",
-            "stars": 89
+            "stars": 111
           }
         },
         {
@@ -1440,10 +1440,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-18T06:46:50Z",
+            "last_commit": "2026-08-17T16:42:40Z",
             "owner": "xingzhejun",
             "repo": "d-opsd-code",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -1519,7 +1519,7 @@
             "last_commit": "2026-08-14T01:40:17Z",
             "owner": "forever-free1",
             "repo": "FIRE-VLA",
-            "stars": 0
+            "stars": 1
           }
         }
       ],
@@ -1539,7 +1539,7 @@
             "last_commit": "2026-02-20T02:53:29Z",
             "owner": "SafeAILab",
             "repo": "EAGLE",
-            "stars": 2500
+            "stars": 2502
           }
         },
         {
@@ -1644,7 +1644,7 @@
             "last_commit": "2026-06-29T06:13:50Z",
             "owner": "thunlp",
             "repo": "OPD",
-            "stars": 932
+            "stars": 933
           }
         },
         {
@@ -1658,7 +1658,7 @@
             "last_commit": "2026-05-10T05:46:29Z",
             "owner": "siyan-zhao",
             "repo": "OPSD",
-            "stars": 564
+            "stars": 568
           }
         },
         {
@@ -1746,7 +1746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:22:25.038Z",
+    "last_updated": "2026-08-18T09:07:02.246Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
     "enhanced_repository": "enhansome/enhansome-on-policy-distillation",
