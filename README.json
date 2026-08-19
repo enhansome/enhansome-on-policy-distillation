@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-16T18:45:46Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38578
+                "stars": 38579
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-05-08T01:35:05Z",
                 "owner": "Peregrine123",
                 "repo": "ROPD_official",
-                "stars": 78
+                "stars": 79
               }
             },
             {
@@ -269,6 +269,21 @@
             },
             {
               "node_type": "item",
+              "title": "DAPD: Dual-Anchored Policy Distillation",
+              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1321161662,
+                "language": "Python",
+                "last_commit": "2026-08-10T16:03:06Z",
+                "owner": "uanu2002",
+                "repo": "DAPD",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Mismatch Matters: On-Policy Distillation Beyond Token Agreement",
               "description": "(2026) — Routes directional mismatch through bounded excess suppression plus top-K deficit recovery to avoid degenerate agreement. (Code)",
               "children": [],
@@ -294,21 +309,6 @@
                 "last_commit": "2026-06-24T09:00:25Z",
                 "owner": "YannX1e",
                 "repo": "Importance-Weighted-On-Policy-Distillation",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DAPD: Dual-Anchored Policy Distillation",
-              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1321161662,
-                "language": "Python",
-                "last_commit": "2026-08-10T16:03:06Z",
-                "owner": "uanu2002",
-                "repo": "DAPD",
                 "stars": 8
               }
             },
@@ -496,7 +496,7 @@
                 "last_commit": "2026-08-17T04:51:42Z",
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 91
+                "stars": 92
               }
             },
             {
@@ -982,10 +982,10 @@
                 "archived": false,
                 "id": 1238996909,
                 "language": "Python",
-                "last_commit": "2026-08-13T06:45:12Z",
+                "last_commit": "2026-08-19T10:54:41Z",
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 343
+                "stars": 344
               }
             },
             {
@@ -1000,7 +1000,7 @@
                 "last_commit": "2026-07-17T05:22:51Z",
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 241
+                "stars": 243
               }
             },
             {
@@ -1045,7 +1045,7 @@
                 "last_commit": "2026-08-17T18:39:28Z",
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -1307,7 +1307,7 @@
                 "last_commit": "2026-07-28T15:31:47Z",
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 30
+                "stars": 31
               }
             },
             {
@@ -1357,6 +1357,21 @@
             },
             {
               "node_type": "item",
+              "title": "H-OPD: Confidence-Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation",
+              "description": "(2026) — Confidence-aware heterogeneous multi-teacher OPD arbitrating vision-language and text-only teachers per token along the student trajectory, replacing static per-sample teacher routing. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1252271227,
+                "language": "Python",
+                "last_commit": "2026-07-08T05:49:20Z",
+                "owner": "buptyqx",
+                "repo": "H-OPD",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
               "description": "(2026) — Grounds AI-generated image detection in on-policy self-distillation that reweights each token by the privileged teacher's corrective value. (Code)",
               "children": [],
@@ -1368,21 +1383,6 @@
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
                 "stars": 6
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "H-OPD: Confidence-Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation",
-              "description": "(2026) — Confidence-aware heterogeneous multi-teacher OPD arbitrating vision-language and text-only teachers per token along the student trajectory, replacing static per-sample teacher routing. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1252271227,
-                "language": "Python",
-                "last_commit": "2026-07-08T05:49:20Z",
-                "owner": "buptyqx",
-                "repo": "H-OPD",
-                "stars": 5
               }
             },
             {
@@ -1449,7 +1449,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 141
+                "stars": 144
               }
             },
             {
@@ -1524,7 +1524,7 @@
                 "last_commit": "2026-08-17T01:57:46Z",
                 "owner": "Bujiazi",
                 "repo": "HPSD",
-                "stars": 12
+                "stars": 13
               }
             },
             {
@@ -1628,7 +1628,7 @@
                 "last_commit": "2026-08-09T16:28:02Z",
                 "owner": "hao-ai-lab",
                 "repo": "JetSpec",
-                "stars": 176
+                "stars": 177
               }
             },
             {
@@ -1716,7 +1716,7 @@
                 "last_commit": "2026-06-29T06:13:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 935
+                "stars": 936
               }
             },
             {
@@ -1819,8 +1819,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:08:26.460Z",
+    "last_updated": "2026-08-19T12:42:43.707Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
+    "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
     "enhanced_repository": "enhansome/enhansome-on-policy-distillation",
     "enhanced_repository_description": null,
