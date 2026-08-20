@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T18:45:46Z",
+                "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38579
+                "stars": 38584
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-05-28T15:30:35Z",
                 "owner": "RUCBM",
                 "repo": "G-OPD",
-                "stars": 283
+                "stars": 284
               }
             },
             {
@@ -209,6 +209,21 @@
             },
             {
               "node_type": "item",
+              "title": "DAPD: Dual-Anchored Policy Distillation",
+              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1321161662,
+                "language": "Python",
+                "last_commit": "2026-08-10T16:03:06Z",
+                "owner": "uanu2002",
+                "repo": "DAPD",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
               "title": "HPD: Hybrid Policy Distillation for LLMs",
               "description": "(2026) — Unified reweighted-log-likelihood framework combining forward/reverse KL with off-policy and on-policy sampling. (Code)",
               "children": [],
@@ -264,21 +279,6 @@
                 "last_commit": "2026-05-24T23:56:26Z",
                 "owner": "rishabh-1086",
                 "repo": "distIL",
-                "stars": 14
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DAPD: Dual-Anchored Policy Distillation",
-              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1321161662,
-                "language": "Python",
-                "last_commit": "2026-08-10T16:03:06Z",
-                "owner": "uanu2002",
-                "repo": "DAPD",
                 "stars": 14
               }
             },
@@ -359,6 +359,21 @@
             },
             {
               "node_type": "item",
+              "title": "PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation",
+              "description": "(2026) — Replaces on-policy distillation's unbounded log-ratio reward with a natively bounded Box–Cox power transformation, curbing high-variance gradients that post-hoc scaling cannot. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1334211813,
+                "language": "Python",
+                "last_commit": "2026-08-14T13:36:15Z",
+                "owner": "EIT-NLP",
+                "repo": "PowerOPD",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
               "title": "DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models",
               "description": "(2026) — Weights self-distillation tokens by backward multi-step aggregation of divergence gaps, restoring the order dependence vanilla OPSD's uniform coefficients discard. (Code)",
               "children": [],
@@ -385,21 +400,6 @@
                 "owner": "jjjyinuo",
                 "repo": "SA-OPD",
                 "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation",
-              "description": "(2026) — Replaces on-policy distillation's unbounded log-ratio reward with a natively bounded Box–Cox power transformation, curbing high-variance gradients that post-hoc scaling cannot. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1334211813,
-                "language": "Python",
-                "last_commit": "2026-08-14T13:36:15Z",
-                "owner": "EIT-NLP",
-                "repo": "PowerOPD",
-                "stars": 1
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 683
+                "stars": 684
               }
             },
             {
@@ -481,7 +481,7 @@
                 "last_commit": "2026-06-13T18:53:52Z",
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 613
+                "stars": 618
               }
             },
             {
@@ -493,10 +493,10 @@
                 "archived": false,
                 "id": 1260025410,
                 "language": "Python",
-                "last_commit": "2026-08-17T04:51:42Z",
+                "last_commit": "2026-08-20T07:37:34Z",
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 92
+                "stars": 93
               }
             },
             {
@@ -676,7 +676,7 @@
                 "last_commit": "2026-08-09T06:09:47Z",
                 "owner": "MBZUAI-reasoninglab",
                 "repo": "OP2SD",
-                "stars": 0
+                "stars": 1
               }
             }
           ],
@@ -698,7 +698,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -713,7 +713,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -728,7 +728,7 @@
                 "last_commit": "2026-08-14T06:30:36Z",
                 "owner": "bingreeky",
                 "repo": "LOPD",
-                "stars": 40
+                "stars": 41
               }
             },
             {
@@ -985,7 +985,7 @@
                 "last_commit": "2026-08-19T10:54:41Z",
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 344
+                "stars": 345
               }
             },
             {
@@ -1000,7 +1000,7 @@
                 "last_commit": "2026-07-17T05:22:51Z",
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 243
+                "stars": 245
               }
             },
             {
@@ -1045,7 +1045,7 @@
                 "last_commit": "2026-08-17T18:39:28Z",
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
-                "stars": 50
+                "stars": 51
               }
             },
             {
@@ -1120,7 +1120,7 @@
                 "last_commit": "2026-08-06T10:03:05Z",
                 "owner": "yiy1x",
                 "repo": "OCSD",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -1312,21 +1312,6 @@
             },
             {
               "node_type": "item",
-              "title": "ViCuR: Visual Cues as Recoverable Privilege for Multimodal On-Policy Distillation",
-              "description": "(2026) — Multimodal OPD where a visual-cue-privileged teacher supervises student rollouts, using cues recoverable from the image to avoid answer-leakage shortcuts. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1256031450,
-                "language": "Python",
-                "last_commit": "2026-06-23T09:03:02Z",
-                "owner": "tiankanghui",
-                "repo": "ViCuR",
-                "stars": 19
-              }
-            },
-            {
-              "node_type": "item",
               "title": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
               "description": "(2026) — Selects on-policy tokens via a trust region between zoom-in and masked-image teachers, treating modality balance itself as the privileged signal. (Code)",
               "children": [],
@@ -1337,6 +1322,21 @@
                 "last_commit": "2026-08-08T18:35:05Z",
                 "owner": "aniri15",
                 "repo": "OPD-V",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViCuR: Visual Cues as Recoverable Privilege for Multimodal On-Policy Distillation",
+              "description": "(2026) — Multimodal OPD where a visual-cue-privileged teacher supervises student rollouts, using cues recoverable from the image to avoid answer-leakage shortcuts. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1256031450,
+                "language": "Python",
+                "last_commit": "2026-06-23T09:03:02Z",
+                "owner": "tiankanghui",
+                "repo": "ViCuR",
                 "stars": 19
               }
             },
@@ -1449,7 +1449,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 144
+                "stars": 152
               }
             },
             {
@@ -1491,7 +1491,7 @@
                 "archived": false,
                 "id": 1257886535,
                 "language": "Python",
-                "last_commit": "2026-07-31T18:55:26Z",
+                "last_commit": "2026-08-19T22:06:15Z",
                 "owner": "divelab",
                 "repo": "OPDLM",
                 "stars": 20
@@ -1716,7 +1716,7 @@
                 "last_commit": "2026-06-29T06:13:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 936
+                "stars": 937
               }
             },
             {
@@ -1731,7 +1731,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 570
+                "stars": 572
               }
             },
             {
@@ -1819,7 +1819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:42:43.707Z",
+    "last_updated": "2026-08-20T09:16:01.960Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
