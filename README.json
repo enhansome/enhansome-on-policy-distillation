@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:48:11Z",
+                "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38591
+                "stars": 38593
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-06-09T04:12:01Z",
                 "owner": "louieworth",
                 "repo": "trd",
-                "stars": 34
+                "stars": 35
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-05-28T15:30:35Z",
                 "owner": "RUCBM",
                 "repo": "G-OPD",
-                "stars": 287
+                "stars": 288
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-05-19T17:36:01Z",
                 "owner": "hhh675597",
                 "repo": "revisiting_opd",
-                "stars": 133
+                "stars": 134
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-10T16:03:06Z",
                 "owner": "uanu2002",
                 "repo": "DAPD",
-                "stars": 49
+                "stars": 55
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2026-05-24T23:56:26Z",
                 "owner": "rishabh-1086",
                 "repo": "distIL",
-                "stars": 14
+                "stars": 15
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-07-01T13:51:47Z",
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1069
+                "stars": 1070
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 685
+                "stars": 687
               }
             },
             {
@@ -481,7 +481,7 @@
                 "last_commit": "2026-06-13T18:53:52Z",
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 621
+                "stars": 623
               }
             },
             {
@@ -838,7 +838,7 @@
                 "last_commit": "2026-05-09T02:44:10Z",
                 "owner": "kmswin1",
                 "repo": "TSD-KD",
-                "stars": 12
+                "stars": 13
               }
             }
           ],
@@ -1030,7 +1030,7 @@
                 "last_commit": "2026-05-23T11:17:58Z",
                 "owner": "DeepExperience",
                 "repo": "HyperEyes",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -1045,7 +1045,7 @@
                 "last_commit": "2026-08-17T18:39:28Z",
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
-                "stars": 52
+                "stars": 54
               }
             },
             {
@@ -1065,6 +1065,21 @@
             },
             {
               "node_type": "item",
+              "title": "Look Ahead Before You Distill: Future Trajectory Validation of Teacher Guidance for Agentic On-Policy Distillation",
+              "description": "(2026) — Validates teacher interventions through student continuations, rejecting locally plausible guidance that harms downstream agent outcomes. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1318167762,
+                "language": "Python",
+                "last_commit": "2026-07-31T09:18:56Z",
+                "owner": "ChenChiShui",
+                "repo": "FutureBridge-OPD",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
               "title": "GRSD: Group-Reflective Self-Distillation for Agentic Reinforcement Learning",
               "description": "(2026) — Contrasts the policy's own reflections on successful versus failed group rollouts into guidance conditioning a self-teacher's turn-level credit. (Code)",
               "children": [],
@@ -1076,21 +1091,6 @@
                 "owner": "BinbZheng1",
                 "repo": "GRSD",
                 "stars": 21
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Look Ahead Before You Distill: Future Trajectory Validation of Teacher Guidance for Agentic On-Policy Distillation",
-              "description": "(2026) — Validates teacher interventions through student continuations, rejecting locally plausible guidance that harms downstream agent outcomes. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1318167762,
-                "language": "Python",
-                "last_commit": "2026-07-31T09:18:56Z",
-                "owner": "ChenChiShui",
-                "repo": "FutureBridge-OPD",
-                "stars": 20
               }
             },
             {
@@ -1192,7 +1192,7 @@
                 "archived": false,
                 "id": 1326892824,
                 "language": "Python",
-                "last_commit": "2026-08-07T16:25:23Z",
+                "last_commit": "2026-08-22T08:57:40Z",
                 "owner": "Chihaya-Anon-chan",
                 "repo": "TRIAL",
                 "stars": 2
@@ -1292,7 +1292,7 @@
                 "last_commit": "2026-07-30T17:23:07Z",
                 "owner": "DeepExperience",
                 "repo": "VAD_Multimodal_OPD",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -1307,7 +1307,7 @@
                 "last_commit": "2026-07-28T15:31:47Z",
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 36
+                "stars": 39
               }
             },
             {
@@ -1322,7 +1322,7 @@
                 "last_commit": "2026-08-20T15:53:00Z",
                 "owner": "aniri15",
                 "repo": "OPD-V",
-                "stars": 20
+                "stars": 21
               }
             },
             {
@@ -1334,7 +1334,7 @@
                 "archived": false,
                 "id": 1256031450,
                 "language": "Python",
-                "last_commit": "2026-06-23T09:03:02Z",
+                "last_commit": "2026-08-22T07:28:42Z",
                 "owner": "tiankanghui",
                 "repo": "ViCuR",
                 "stars": 19
@@ -1434,7 +1434,7 @@
                 "last_commit": "2026-06-24T15:46:36Z",
                 "owner": "CostaliyA",
                 "repo": "Flow-OPD",
-                "stars": 282
+                "stars": 283
               }
             },
             {
@@ -1449,7 +1449,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 155
+                "stars": 158
               }
             },
             {
@@ -1520,11 +1520,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 1333034752,
-                "language": null,
-                "last_commit": "2026-08-17T01:57:46Z",
+                "language": "Python",
+                "last_commit": "2026-08-22T07:57:22Z",
                 "owner": "Bujiazi",
                 "repo": "HPSD",
-                "stars": 13
+                "stars": 16
               }
             },
             {
@@ -1613,7 +1613,7 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2505
+                "stars": 2506
               }
             },
             {
@@ -1658,7 +1658,7 @@
                 "last_commit": "2026-08-14T16:36:33Z",
                 "owner": "Simplified-Reasoning",
                 "repo": "Draft-OPD",
-                "stars": 63
+                "stars": 64
               }
             },
             {
@@ -1716,7 +1716,7 @@
                 "last_commit": "2026-08-20T18:23:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 944
+                "stars": 946
               }
             },
             {
@@ -1731,7 +1731,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 575
+                "stars": 577
               }
             },
             {
@@ -1819,7 +1819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:18:13.956Z",
+    "last_updated": "2026-08-22T09:01:39.148Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
