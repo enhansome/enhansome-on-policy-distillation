@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38593
+                "stars": 38603
               }
             },
             {
@@ -189,7 +189,22 @@
                 "last_commit": "2026-07-16T15:15:15Z",
                 "owner": "ShenzhiYang2000",
                 "repo": "OPRD",
-                "stars": 69
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DAPD: Dual-Anchored Policy Distillation",
+              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1321161662,
+                "language": "Python",
+                "last_commit": "2026-08-10T16:03:06Z",
+                "owner": "uanu2002",
+                "repo": "DAPD",
+                "stars": 59
               }
             },
             {
@@ -205,21 +220,6 @@
                 "owner": "WenjinHou",
                 "repo": "Uni-OPD",
                 "stars": 57
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DAPD: Dual-Anchored Policy Distillation",
-              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1321161662,
-                "language": "Python",
-                "last_commit": "2026-08-10T16:03:06Z",
-                "owner": "uanu2002",
-                "repo": "DAPD",
-                "stars": 55
               }
             },
             {
@@ -299,6 +299,21 @@
             },
             {
               "node_type": "item",
+              "title": "BRTS: On-Policy Distillation with Best-of-N Teacher Rollout Selection",
+              "description": "(2026) — Auxiliary teacher-context branch alongside standard OPD; selects best-of-N teacher rollouts by correctness then student-alignment. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1234207967,
+                "language": "Python",
+                "last_commit": "2026-05-13T03:02:43Z",
+                "owner": "BWGZK-keke",
+                "repo": "BRTS",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
               "title": "On the Position Bias of On-Policy Distillation",
               "description": "(2026) — Importance-Weighted OPD upweights each token by its cumulative student-teacher prefix discrepancy, correcting position bias where later rollout tokens drift off-teacher. (Code)",
               "children": [],
@@ -310,21 +325,6 @@
                 "owner": "YannX1e",
                 "repo": "Importance-Weighted-On-Policy-Distillation",
                 "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "BRTS: On-Policy Distillation with Best-of-N Teacher Rollout Selection",
-              "description": "(2026) — Auxiliary teacher-context branch alongside standard OPD; selects best-of-N teacher rollouts by correctness then student-alignment. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1234207967,
-                "language": "Python",
-                "last_commit": "2026-05-13T03:02:43Z",
-                "owner": "BWGZK-keke",
-                "repo": "BRTS",
-                "stars": 7
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-07-01T13:51:47Z",
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1070
+                "stars": 1073
               }
             },
             {
@@ -481,7 +481,7 @@
                 "last_commit": "2026-06-13T18:53:52Z",
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 623
+                "stars": 627
               }
             },
             {
@@ -496,7 +496,7 @@
                 "last_commit": "2026-08-21T03:13:30Z",
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 93
+                "stars": 94
               }
             },
             {
@@ -571,7 +571,7 @@
                 "last_commit": "2026-05-06T15:01:57Z",
                 "owner": "zzy1127",
                 "repo": "OPHSD-On-Policy-Harness-Self-Distillation",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -1015,7 +1015,7 @@
                 "last_commit": "2026-07-01T09:46:48Z",
                 "owner": "jinyangwu",
                 "repo": "OPID",
-                "stars": 115
+                "stars": 117
               }
             },
             {
@@ -1045,7 +1045,7 @@
                 "last_commit": "2026-08-17T18:39:28Z",
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -1140,6 +1140,21 @@
             },
             {
               "node_type": "item",
+              "title": "Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning",
+              "description": "(2026) — Normalizes hindsight-conditioned token gaps across rollout turns to reallocate dense supervision without changing trajectory-average weight. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1326892824,
+                "language": "Python",
+                "last_commit": "2026-08-22T08:57:40Z",
+                "owner": "Chihaya-Anon-chan",
+                "repo": "TRIAL",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Agentic Reinforcement Learning with Self-Distilled Reward Shaping",
               "description": "(2026) — Rescores student trajectories with a privileged skill-conditioned snapshot, assigning return-aware credit to agent decisions. (Code)",
               "children": [],
@@ -1151,6 +1166,21 @@
                 "owner": "gitrxh",
                 "repo": "ADRS-arxiv",
                 "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+              "description": "(2026) — Applies privileged distillation only at turns whose execution state matches the reference trajectory, replacing full-path guidance that misleads at uncovered states. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1317168128,
+                "language": "Python",
+                "last_commit": "2026-08-13T05:54:28Z",
+                "owner": "liujunzhuo",
+                "repo": "SMRC-SD",
+                "stars": 2
               }
             },
             {
@@ -1185,21 +1215,6 @@
             },
             {
               "node_type": "item",
-              "title": "Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning",
-              "description": "(2026) — Normalizes hindsight-conditioned token gaps across rollout turns to reallocate dense supervision without changing trajectory-average weight. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1326892824,
-                "language": "Python",
-                "last_commit": "2026-08-22T08:57:40Z",
-                "owner": "Chihaya-Anon-chan",
-                "repo": "TRIAL",
-                "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
               "title": "OVCSD: Outcome-Verified Comparative Self-Distillation for LLM Agents",
               "description": "(2026) — Distills only environment-verified teacher continuations branched from shared states of all-failed student rollouts, replacing unvalidated action-level teacher scores. (Code)",
               "children": [],
@@ -1210,21 +1225,6 @@
                 "last_commit": "2026-07-30T09:27:31Z",
                 "owner": "shane990928-xia",
                 "repo": "OVCSD",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-              "description": "(2026) — Applies privileged distillation only at turns whose execution state matches the reference trajectory, replacing full-path guidance that misleads at uncovered states. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1317168128,
-                "language": "Python",
-                "last_commit": "2026-08-13T05:54:28Z",
-                "owner": "liujunzhuo",
-                "repo": "SMRC-SD",
                 "stars": 1
               }
             },
@@ -1307,7 +1307,7 @@
                 "last_commit": "2026-07-28T15:31:47Z",
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 39
+                "stars": 41
               }
             },
             {
@@ -1319,7 +1319,7 @@
                 "archived": false,
                 "id": 1318823414,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:53:00Z",
+                "last_commit": "2026-08-22T22:46:21Z",
                 "owner": "aniri15",
                 "repo": "OPD-V",
                 "stars": 21
@@ -1434,7 +1434,7 @@
                 "last_commit": "2026-06-24T15:46:36Z",
                 "owner": "CostaliyA",
                 "repo": "Flow-OPD",
-                "stars": 283
+                "stars": 284
               }
             },
             {
@@ -1449,7 +1449,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 158
+                "stars": 173
               }
             },
             {
@@ -1469,21 +1469,6 @@
             },
             {
               "node_type": "item",
-              "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
-              "description": "(2026) — Draws the teacher's privileged signal from later, more-decoded steps of the student's own denoising trajectory, replacing the external reference label. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1231463858,
-                "language": "Python",
-                "last_commit": "2026-07-14T15:50:57Z",
-                "owner": "tuandattt",
-                "repo": "dOPSD",
-                "stars": 21
-              }
-            },
-            {
-              "node_type": "item",
               "title": "OPDLM: Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation",
               "description": "(2026) — Converts an autoregressive LM into a diffusion LM along the student's own reverse-diffusion rollouts, supervised by the frozen original model. (Code)",
               "children": [],
@@ -1494,7 +1479,37 @@
                 "last_commit": "2026-08-19T22:06:15Z",
                 "owner": "divelab",
                 "repo": "OPDLM",
-                "stars": 20
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
+              "description": "(2026) — Draws the teacher's privileged signal from later, more-decoded steps of the student's own denoising trajectory, replacing the external reference label. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1231463858,
+                "language": "Python",
+                "last_commit": "2026-07-14T15:50:57Z",
+                "owner": "tuandattt",
+                "repo": "dOPSD",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models",
+              "description": "(2026) — Anchors student video sub-trajectories to privileged teacher states for condition-matched hybrid-policy self-distillation. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1333034752,
+                "language": "Python",
+                "last_commit": "2026-08-22T09:52:51Z",
+                "owner": "Bujiazi",
+                "repo": "HPSD",
+                "stars": 18
               }
             },
             {
@@ -1510,21 +1525,6 @@
                 "owner": "xingzhejun",
                 "repo": "d-opsd-code",
                 "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models",
-              "description": "(2026) — Anchors student video sub-trajectories to privileged teacher states for condition-matched hybrid-policy self-distillation. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1333034752,
-                "language": "Python",
-                "last_commit": "2026-08-22T07:57:22Z",
-                "owner": "Bujiazi",
-                "repo": "HPSD",
-                "stars": 16
               }
             },
             {
@@ -1613,7 +1613,7 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2506
+                "stars": 2507
               }
             },
             {
@@ -1716,7 +1716,7 @@
                 "last_commit": "2026-08-20T18:23:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 946
+                "stars": 945
               }
             },
             {
@@ -1731,7 +1731,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 577
+                "stars": 579
               }
             },
             {
@@ -1819,7 +1819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:01:39.148Z",
+    "last_updated": "2026-08-23T09:01:18.848Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
