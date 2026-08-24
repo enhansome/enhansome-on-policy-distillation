@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MiniLLM: On-Policy Distillation of Large Language Models",
+              "description": "(2023) — Reverse-KL framing for generative LMs; the paper that named the field. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577753426,
+                "language": "Python",
+                "last_commit": "2026-07-25T06:15:21Z",
+                "owner": "microsoft",
+                "repo": "LMOps",
+                "stars": 4465
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Foundations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Speculative Knowledge Distillation",
               "description": "(2024) — Interleaved teacher/student sampling mitigates poor student rollout quality. (Code)",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38610
+                "stars": 38611
               }
             },
             {
@@ -129,7 +151,7 @@
                 "last_commit": "2026-05-28T15:30:35Z",
                 "owner": "RUCBM",
                 "repo": "G-OPD",
-                "stars": 289
+                "stars": 290
               }
             },
             {
@@ -466,7 +488,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 688
+                "stars": 689
               }
             },
             {
@@ -1000,7 +1022,7 @@
                 "last_commit": "2026-07-17T05:22:51Z",
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 246
+                "stars": 247
               }
             },
             {
@@ -1307,7 +1329,7 @@
                 "last_commit": "2026-07-28T15:31:47Z",
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 43
+                "stars": 44
               }
             },
             {
@@ -1409,6 +1431,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Step-Audio-R1 Technical Report",
+              "description": "(2025) — Modality-Grounded Reasoning Distillation produces audio reasoning grounded in acoustic features. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1093918952,
+                "language": "Python",
+                "last_commit": "2026-04-29T04:15:21Z",
+                "owner": "stepfun-ai",
+                "repo": "Step-Audio-R1",
+                "stars": 697
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speech and Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "π-Flow: Policy-Based Few-Step Generation via Imitation Distillation",
               "description": "(2025) — Imitation distillation aligns student flow-model trajectories with teacher under standard flow matching. (Code)",
               "children": [],
@@ -1449,7 +1493,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 188
+                "stars": 193
               }
             },
             {
@@ -1464,7 +1508,7 @@
                 "last_commit": "2026-07-30T03:49:21Z",
                 "owner": "LiJiaxing0213",
                 "repo": "DistillAlign",
-                "stars": 119
+                "stars": 120
               }
             },
             {
@@ -1658,7 +1702,7 @@
                 "last_commit": "2026-08-14T16:36:33Z",
                 "owner": "Simplified-Reasoning",
                 "repo": "Draft-OPD",
-                "stars": 65
+                "stars": 66
               }
             },
             {
@@ -1706,6 +1750,208 @@
           "children": [
             {
               "node_type": "item",
+              "title": "NeMo-RL",
+              "description": "Multi-teacher and cross-tokenizer OPD at scale docs, repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949546994,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:23:13Z",
+                "owner": "NVIDIA-NeMo",
+                "repo": "RL",
+                "stars": 1951
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KDFlow",
+              "description": "Off-policy, on-policy, and cross-tokenizer distillation via decoupled backends arXiv, repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168545491,
+                "language": "Python",
+                "last_commit": "2026-08-22T16:15:21Z",
+                "owner": "songmzhang",
+                "repo": "KDFlow",
+                "stars": 242
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "slime",
+              "description": "Unified RL stack supporting on-policy distillation and hindsight hints repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1004140701,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:14:52Z",
+                "owner": "THUDM",
+                "repo": "slime",
+                "stars": 8230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NexRL",
+              "description": "Dedicated on-policy distillation recipes repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1095011616,
+                "language": "Python",
+                "last_commit": "2026-07-30T06:52:23Z",
+                "owner": "nex-agi",
+                "repo": "NexRL",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SkyRL",
+              "description": "OPD examples and blog resources repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 970890722,
+                "language": "Python",
+                "last_commit": "2026-08-22T01:02:39Z",
+                "owner": "NovaSky-AI",
+                "repo": "SkyRL",
+                "stars": 2190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AReaL",
+              "description": "OPD and KDRL over student-sampled trajectories with teacher log-prob guidance docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937952934,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:49:05Z",
+                "owner": "areal-project",
+                "repo": "AReaL",
+                "stars": 5687
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rLLM",
+              "description": "Agent RL framework (UC Berkeley Sky) with first-class OPD: (DeepMath OPSD + ) and modules over verl or tinker backends docs, repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 922406522,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:46:08Z",
+                "owner": "rllm-org",
+                "repo": "rllm",
+                "stars": 5797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpecForge",
+              "description": "Speculative draft training with EAGLE-3 support and hybrid parallelism arXiv, repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 998697045,
+                "language": "Python",
+                "last_commit": "2026-08-24T04:11:33Z",
+                "owner": "sgl-project",
+                "repo": "SpecForge",
+                "stars": 1116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TorchSpec",
+              "description": "Torch-native speculative draft training with disaggregated inference/training; streams target hidden states via Mooncake store; Kimi-K2.5/MiniMax-M2.5/Qwen3-Coder-Next examples blog, repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1163082957,
+                "language": "Python",
+                "last_commit": "2026-08-20T07:28:55Z",
+                "owner": "lightseekorg",
+                "repo": "TorchSpec",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tinker Cookbook",
+              "description": "Thinking Machines' Tinker SDK recipes for off-policy KD, single/multi-teacher OPD, multi-turn tool use recipes, repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1019793048,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:32:00Z",
+                "owner": "thinking-machines-lab",
+                "repo": "tinker-cookbook",
+                "stars": 4048
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ROLL",
+              "description": "Alibaba's scalable RL library for LLMs/VLMs with an OPD pipeline repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991939049,
+                "language": "Python",
+                "last_commit": "2026-08-24T10:12:14Z",
+                "owner": "alibaba",
+                "repo": "ROLL",
+                "stars": 3371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EasyOPD",
+              "description": "Unified verl-based OPD with method-local supervision hooks for cross-tokenizer, self-distillation, and step-wise settings arXiv, repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1239467538,
+                "language": "Python",
+                "last_commit": "2026-07-13T03:04:29Z",
+                "owner": "lds-ustc",
+                "repo": "EasyOPD",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EasyDeL",
+              "description": "JAX/Flax framework whose GKDTrainer distills onto student-generated completions via a generalized Jensen-Shannon objective repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625621584,
+                "language": "Python",
+                "last_commit": "2026-08-22T16:19:34Z",
+                "owner": "erfanzar",
+                "repo": "EasyDeL",
+                "stars": 372
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Training Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Rethinking OPD",
               "description": "Official code for Rethinking OPD, with verl-based scripts and top-k teacher–student overlap diagnostics merged upstream.",
               "children": [],
@@ -1716,7 +1962,7 @@
                 "last_commit": "2026-08-20T18:23:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 946
+                "stars": 947
               }
             },
             {
@@ -1731,7 +1977,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 583
+                "stars": 586
               }
             },
             {
@@ -1819,7 +2065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:28:30.317Z",
+    "last_updated": "2026-08-24T14:19:00.786Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
