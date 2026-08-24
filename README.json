@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38603
+                "stars": 38610
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-05-28T15:30:35Z",
                 "owner": "RUCBM",
                 "repo": "G-OPD",
-                "stars": 288
+                "stars": 289
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-10T16:03:06Z",
                 "owner": "uanu2002",
                 "repo": "DAPD",
-                "stars": 59
+                "stars": 63
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-07-01T13:51:47Z",
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1073
+                "stars": 1074
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 687
+                "stars": 688
               }
             },
             {
@@ -481,7 +481,7 @@
                 "last_commit": "2026-06-13T18:53:52Z",
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 627
+                "stars": 632
               }
             },
             {
@@ -496,7 +496,7 @@
                 "last_commit": "2026-08-21T03:13:30Z",
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -571,7 +571,7 @@
                 "last_commit": "2026-05-06T15:01:57Z",
                 "owner": "zzy1127",
                 "repo": "OPHSD-On-Policy-Harness-Self-Distillation",
-                "stars": 23
+                "stars": 24
               }
             },
             {
@@ -728,7 +728,7 @@
                 "last_commit": "2026-08-14T06:30:36Z",
                 "owner": "bingreeky",
                 "repo": "LOPD",
-                "stars": 42
+                "stars": 44
               }
             },
             {
@@ -985,7 +985,7 @@
                 "last_commit": "2026-08-19T10:54:41Z",
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 346
+                "stars": 347
               }
             },
             {
@@ -1000,7 +1000,7 @@
                 "last_commit": "2026-07-17T05:22:51Z",
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 245
+                "stars": 246
               }
             },
             {
@@ -1045,7 +1045,7 @@
                 "last_commit": "2026-08-17T18:39:28Z",
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -1135,7 +1135,7 @@
                 "last_commit": "2026-08-05T05:24:59Z",
                 "owner": "quchangle1",
                 "repo": "TurnSight",
-                "stars": 7
+                "stars": 8
               }
             },
             {
@@ -1170,6 +1170,21 @@
             },
             {
               "node_type": "item",
+              "title": "MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents",
+              "description": "(2026) — Reconstructs compact-memory rollout states before teacher scoring to preserve valid supervision across rewritten agent contexts. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1330916268,
+                "language": "Python",
+                "last_commit": "2026-08-11T14:19:00Z",
+                "owner": "TPssp",
+                "repo": "MemOPD",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
               "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
               "description": "(2026) — Applies privileged distillation only at turns whose execution state matches the reference trajectory, replacing full-path guidance that misleads at uncovered states. (Code)",
               "children": [],
@@ -1195,21 +1210,6 @@
                 "last_commit": "2026-08-04T11:58:06Z",
                 "owner": "JiananXie",
                 "repo": "EviSD",
-                "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents",
-              "description": "(2026) — Reconstructs compact-memory rollout states before teacher scoring to preserve valid supervision across rewritten agent contexts. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1330916268,
-                "language": "Python",
-                "last_commit": "2026-08-11T14:19:00Z",
-                "owner": "TPssp",
-                "repo": "MemOPD",
                 "stars": 2
               }
             },
@@ -1307,7 +1307,7 @@
                 "last_commit": "2026-07-28T15:31:47Z",
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 41
+                "stars": 43
               }
             },
             {
@@ -1419,7 +1419,7 @@
                 "last_commit": "2026-07-14T01:08:53Z",
                 "owner": "Lakonik",
                 "repo": "LakonLab",
-                "stars": 463
+                "stars": 464
               }
             },
             {
@@ -1449,7 +1449,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 173
+                "stars": 188
               }
             },
             {
@@ -1509,7 +1509,7 @@
                 "last_commit": "2026-08-22T09:52:51Z",
                 "owner": "Bujiazi",
                 "repo": "HPSD",
-                "stars": 18
+                "stars": 19
               }
             },
             {
@@ -1613,7 +1613,7 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2507
+                "stars": 2509
               }
             },
             {
@@ -1658,7 +1658,7 @@
                 "last_commit": "2026-08-14T16:36:33Z",
                 "owner": "Simplified-Reasoning",
                 "repo": "Draft-OPD",
-                "stars": 64
+                "stars": 65
               }
             },
             {
@@ -1716,7 +1716,7 @@
                 "last_commit": "2026-08-20T18:23:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 945
+                "stars": 946
               }
             },
             {
@@ -1731,7 +1731,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 579
+                "stars": 583
               }
             },
             {
@@ -1746,7 +1746,7 @@
                 "last_commit": "2026-07-20T03:07:36Z",
                 "owner": "ali-vilab",
                 "repo": "DiffusionOPD",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -1761,7 +1761,7 @@
                 "last_commit": "2026-05-25T21:26:59Z",
                 "owner": "HJSang",
                 "repo": "OPSD_OnPolicyDistillation",
-                "stars": 95
+                "stars": 97
               }
             },
             {
@@ -1819,7 +1819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:01:18.848Z",
+    "last_updated": "2026-08-24T09:28:30.317Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
