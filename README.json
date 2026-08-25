@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4464
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38611
+                "stars": 38614
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4464
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-07-29T06:30:19Z",
                 "owner": "ZJU-REAL",
                 "repo": "Relay-OPD",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-07-01T13:51:47Z",
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1074
+                "stars": 1075
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-06-13T18:53:52Z",
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 632
+                "stars": 633
               }
             },
             {
@@ -518,7 +518,7 @@
                 "last_commit": "2026-08-21T03:13:30Z",
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 95
+                "stars": 94
               }
             },
             {
@@ -720,7 +720,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4464
               }
             },
             {
@@ -735,7 +735,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4464
               }
             },
             {
@@ -750,7 +750,7 @@
                 "last_commit": "2026-08-14T06:30:36Z",
                 "owner": "bingreeky",
                 "repo": "LOPD",
-                "stars": 44
+                "stars": 46
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "last_commit": "2026-07-17T05:22:51Z",
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 247
+                "stars": 249
               }
             },
             {
@@ -1304,6 +1304,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "V-Zero: Answer-Label-Free On-Policy Distillation for Fine-Grained Visual Reasoning",
+              "description": "(2026) — Gates dense token-level distillation of student trajectories using a contrastive regional-crop-versus-negative-view signal, requiring no answer labels. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1262015959,
+                "language": "Python",
+                "last_commit": "2026-07-28T15:31:47Z",
+                "owner": "eVI-group-SCU",
+                "repo": "V-Zero",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
               "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
               "description": "(2026) — Projects the teacher's correction onto the evidence-present-minus-removed direction, shifting the student's own logits instead of matching the privileged teacher. (Code)",
               "children": [],
@@ -1315,21 +1330,6 @@
                 "owner": "DeepExperience",
                 "repo": "VAD_Multimodal_OPD",
                 "stars": 45
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "V-Zero: Answer-Label-Free On-Policy Distillation for Fine-Grained Visual Reasoning",
-              "description": "(2026) — Gates dense token-level distillation of student trajectories using a contrastive regional-crop-versus-negative-view signal, requiring no answer labels. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1262015959,
-                "language": "Python",
-                "last_commit": "2026-07-28T15:31:47Z",
-                "owner": "eVI-group-SCU",
-                "repo": "V-Zero",
-                "stars": 44
               }
             },
             {
@@ -1493,7 +1493,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 193
+                "stars": 213
               }
             },
             {
@@ -1657,7 +1657,7 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2509
+                "stars": 2511
               }
             },
             {
@@ -1672,7 +1672,7 @@
                 "last_commit": "2026-08-09T16:28:02Z",
                 "owner": "hao-ai-lab",
                 "repo": "JetSpec",
-                "stars": 177
+                "stars": 178
               }
             },
             {
@@ -1702,7 +1702,7 @@
                 "last_commit": "2026-08-14T16:36:33Z",
                 "owner": "Simplified-Reasoning",
                 "repo": "Draft-OPD",
-                "stars": 66
+                "stars": 68
               }
             },
             {
@@ -1757,10 +1757,10 @@
                 "archived": false,
                 "id": 949546994,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:23:13Z",
+                "last_commit": "2026-08-25T06:10:25Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 1951
+                "stars": 1952
               }
             },
             {
@@ -1772,10 +1772,10 @@
                 "archived": false,
                 "id": 1168545491,
                 "language": "Python",
-                "last_commit": "2026-08-22T16:15:21Z",
+                "last_commit": "2026-08-24T14:35:52Z",
                 "owner": "songmzhang",
                 "repo": "KDFlow",
-                "stars": 242
+                "stars": 244
               }
             },
             {
@@ -1787,10 +1787,10 @@
                 "archived": false,
                 "id": 1004140701,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:14:52Z",
+                "last_commit": "2026-08-25T05:32:57Z",
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8230
+                "stars": 8236
               }
             },
             {
@@ -1817,10 +1817,10 @@
                 "archived": false,
                 "id": 970890722,
                 "language": "Python",
-                "last_commit": "2026-08-22T01:02:39Z",
+                "last_commit": "2026-08-24T20:44:14Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2190
+                "stars": 2192
               }
             },
             {
@@ -1832,10 +1832,10 @@
                 "archived": false,
                 "id": 937952934,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:49:05Z",
+                "last_commit": "2026-08-25T06:09:52Z",
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5687
+                "stars": 5689
               }
             },
             {
@@ -1850,7 +1850,7 @@
                 "last_commit": "2026-08-24T06:46:08Z",
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5797
+                "stars": 5798
               }
             },
             {
@@ -1862,7 +1862,7 @@
                 "archived": false,
                 "id": 998697045,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:11:33Z",
+                "last_commit": "2026-08-25T03:39:34Z",
                 "owner": "sgl-project",
                 "repo": "SpecForge",
                 "stars": 1116
@@ -1880,7 +1880,7 @@
                 "last_commit": "2026-08-20T07:28:55Z",
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
-                "stars": 229
+                "stars": 230
               }
             },
             {
@@ -1895,7 +1895,7 @@
                 "last_commit": "2026-08-24T06:32:00Z",
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4048
+                "stars": 4051
               }
             },
             {
@@ -1907,7 +1907,7 @@
                 "archived": false,
                 "id": 991939049,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:12:14Z",
+                "last_commit": "2026-08-25T01:34:29Z",
                 "owner": "alibaba",
                 "repo": "ROLL",
                 "stars": 3371
@@ -1962,7 +1962,7 @@
                 "last_commit": "2026-08-20T18:23:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 947
+                "stars": 951
               }
             },
             {
@@ -1977,7 +1977,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 586
+                "stars": 588
               }
             },
             {
@@ -2065,7 +2065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:00.786Z",
+    "last_updated": "2026-08-25T06:15:45.973Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
