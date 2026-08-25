@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38615
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-05-19T17:36:01Z",
                 "owner": "hhh675597",
                 "repo": "revisiting_opd",
-                "stars": 134
+                "stars": 135
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-10T16:03:06Z",
                 "owner": "uanu2002",
                 "repo": "DAPD",
-                "stars": 63
+                "stars": 64
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-07-01T13:51:47Z",
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1075
+                "stars": 1074
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "last_commit": "2026-08-19T10:54:41Z",
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 347
+                "stars": 348
               }
             },
             {
@@ -1067,7 +1067,7 @@
                 "last_commit": "2026-08-17T18:39:28Z",
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
-                "stars": 56
+                "stars": 57
               }
             },
             {
@@ -1082,7 +1082,7 @@
                 "last_commit": "2026-06-17T01:47:48Z",
                 "owner": "bingreeky",
                 "repo": "opd-evolver",
-                "stars": 42
+                "stars": 43
               }
             },
             {
@@ -1359,7 +1359,7 @@
                 "last_commit": "2026-08-22T07:28:42Z",
                 "owner": "tiankanghui",
                 "repo": "ViCuR",
-                "stars": 19
+                "stars": 20
               }
             },
             {
@@ -1493,7 +1493,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 213
+                "stars": 217
               }
             },
             {
@@ -1757,7 +1757,7 @@
                 "archived": false,
                 "id": 949546994,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:10:25Z",
+                "last_commit": "2026-08-25T09:13:09Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
                 "stars": 1952
@@ -1790,7 +1790,7 @@
                 "last_commit": "2026-08-25T05:32:57Z",
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8236
+                "stars": 8239
               }
             },
             {
@@ -1820,7 +1820,7 @@
                 "last_commit": "2026-08-24T20:44:14Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2192
+                "stars": 2193
               }
             },
             {
@@ -1832,10 +1832,10 @@
                 "archived": false,
                 "id": 937952934,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:09:52Z",
+                "last_commit": "2026-08-25T08:52:35Z",
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5689
+                "stars": 5692
               }
             },
             {
@@ -1850,7 +1850,7 @@
                 "last_commit": "2026-08-24T06:46:08Z",
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5798
+                "stars": 5800
               }
             },
             {
@@ -1892,10 +1892,10 @@
                 "archived": false,
                 "id": 1019793048,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:32:00Z",
+                "last_commit": "2026-08-25T06:26:38Z",
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4051
+                "stars": 4052
               }
             },
             {
@@ -1910,7 +1910,7 @@
                 "last_commit": "2026-08-25T01:34:29Z",
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3371
+                "stars": 3372
               }
             },
             {
@@ -1977,7 +1977,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 588
+                "stars": 587
               }
             },
             {
@@ -1992,7 +1992,7 @@
                 "last_commit": "2026-07-20T03:07:36Z",
                 "owner": "ali-vilab",
                 "repo": "DiffusionOPD",
-                "stars": 161
+                "stars": 162
               }
             },
             {
@@ -2065,7 +2065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:45.973Z",
+    "last_updated": "2026-08-25T09:18:19.306Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
