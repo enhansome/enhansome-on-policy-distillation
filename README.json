@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             }
           ],
@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38615
+                "stars": 38622
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-07-29T06:30:19Z",
                 "owner": "ZJU-REAL",
                 "repo": "Relay-OPD",
-                "stars": 46
+                "stars": 47
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-10T16:03:06Z",
                 "owner": "uanu2002",
                 "repo": "DAPD",
-                "stars": 64
+                "stars": 66
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2026-08-14T04:47:21Z",
                 "owner": "yzc-666",
                 "repo": "TIDE",
-                "stars": 13
+                "stars": 14
               }
             },
             {
@@ -366,21 +366,6 @@
             },
             {
               "node_type": "item",
-              "title": "Rock Tokens — Deciphering High-Loss Tokens in On-Policy Distillation",
-              "description": "(2026) — High-loss tokens (up to 18%) persist after apparent convergence; masking them streamlines alignment. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1212882934,
-                "language": "Python",
-                "last_commit": "2026-08-03T21:49:38Z",
-                "owner": "YuxuanJiang1",
-                "repo": "Rock-Token",
-                "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
               "title": "PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation",
               "description": "(2026) — Replaces on-policy distillation's unbounded log-ratio reward with a natively bounded Box–Cox power transformation, curbing high-variance gradients that post-hoc scaling cannot. (Code)",
               "children": [],
@@ -391,6 +376,21 @@
                 "last_commit": "2026-08-14T13:36:15Z",
                 "owner": "EIT-NLP",
                 "repo": "PowerOPD",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rock Tokens — Deciphering High-Loss Tokens in On-Policy Distillation",
+              "description": "(2026) — High-loss tokens (up to 18%) persist after apparent convergence; masking them streamlines alignment. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1212882934,
+                "language": "Python",
+                "last_commit": "2026-08-03T21:49:38Z",
+                "owner": "YuxuanJiang1",
+                "repo": "Rock-Token",
                 "stars": 2
               }
             },
@@ -473,7 +473,7 @@
                 "last_commit": "2026-07-01T13:51:47Z",
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1074
+                "stars": 1075
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 689
+                "stars": 690
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-06-13T18:53:52Z",
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 633
+                "stars": 637
               }
             },
             {
@@ -720,7 +720,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -735,7 +735,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -750,7 +750,7 @@
                 "last_commit": "2026-08-14T06:30:36Z",
                 "owner": "bingreeky",
                 "repo": "LOPD",
-                "stars": 46
+                "stars": 48
               }
             },
             {
@@ -882,7 +882,7 @@
                 "last_commit": "2026-03-20T10:50:45Z",
                 "owner": "Simplified-Reasoning",
                 "repo": "LUFFY",
-                "stars": 464
+                "stars": 466
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "last_commit": "2026-08-19T10:54:41Z",
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 348
+                "stars": 349
               }
             },
             {
@@ -1037,7 +1037,7 @@
                 "last_commit": "2026-07-01T09:46:48Z",
                 "owner": "jinyangwu",
                 "repo": "OPID",
-                "stars": 117
+                "stars": 118
               }
             },
             {
@@ -1097,7 +1097,7 @@
                 "last_commit": "2026-07-31T09:18:56Z",
                 "owner": "ChenChiShui",
                 "repo": "FutureBridge-OPD",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -1314,7 +1314,7 @@
                 "last_commit": "2026-07-28T15:31:47Z",
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 47
+                "stars": 50
               }
             },
             {
@@ -1344,7 +1344,7 @@
                 "last_commit": "2026-08-22T22:46:21Z",
                 "owner": "aniri15",
                 "repo": "OPD-V",
-                "stars": 21
+                "stars": 22
               }
             },
             {
@@ -1401,7 +1401,7 @@
                 "archived": false,
                 "id": 1315117544,
                 "language": "Python",
-                "last_commit": "2026-07-30T04:59:03Z",
+                "last_commit": "2026-08-25T11:02:21Z",
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
                 "stars": 6
@@ -1478,7 +1478,7 @@
                 "last_commit": "2026-06-24T15:46:36Z",
                 "owner": "CostaliyA",
                 "repo": "Flow-OPD",
-                "stars": 284
+                "stars": 290
               }
             },
             {
@@ -1493,7 +1493,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 217
+                "stars": 223
               }
             },
             {
@@ -1657,7 +1657,7 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2511
+                "stars": 2512
               }
             },
             {
@@ -1757,10 +1757,10 @@
                 "archived": false,
                 "id": 949546994,
                 "language": "Python",
-                "last_commit": "2026-08-25T09:13:09Z",
+                "last_commit": "2026-08-26T08:31:04Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 1952
+                "stars": 1960
               }
             },
             {
@@ -1787,10 +1787,10 @@
                 "archived": false,
                 "id": 1004140701,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:32:57Z",
+                "last_commit": "2026-08-26T08:14:40Z",
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8239
+                "stars": 8255
               }
             },
             {
@@ -1820,7 +1820,7 @@
                 "last_commit": "2026-08-24T20:44:14Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2193
+                "stars": 2198
               }
             },
             {
@@ -1832,10 +1832,10 @@
                 "archived": false,
                 "id": 937952934,
                 "language": "Python",
-                "last_commit": "2026-08-25T08:52:35Z",
+                "last_commit": "2026-08-26T07:46:40Z",
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5692
+                "stars": 5694
               }
             },
             {
@@ -1865,7 +1865,7 @@
                 "last_commit": "2026-08-25T03:39:34Z",
                 "owner": "sgl-project",
                 "repo": "SpecForge",
-                "stars": 1116
+                "stars": 1118
               }
             },
             {
@@ -1877,7 +1877,7 @@
                 "archived": false,
                 "id": 1163082957,
                 "language": "Python",
-                "last_commit": "2026-08-20T07:28:55Z",
+                "last_commit": "2026-08-26T08:38:06Z",
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
                 "stars": 230
@@ -1892,10 +1892,10 @@
                 "archived": false,
                 "id": 1019793048,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:26:38Z",
+                "last_commit": "2026-08-26T06:30:36Z",
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4052
+                "stars": 4055
               }
             },
             {
@@ -1907,10 +1907,10 @@
                 "archived": false,
                 "id": 991939049,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:34:29Z",
+                "last_commit": "2026-08-26T01:34:48Z",
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3372
+                "stars": 3373
               }
             },
             {
@@ -1940,7 +1940,7 @@
                 "last_commit": "2026-08-22T16:19:34Z",
                 "owner": "erfanzar",
                 "repo": "EasyDeL",
-                "stars": 372
+                "stars": 373
               }
             }
           ],
@@ -1962,7 +1962,7 @@
                 "last_commit": "2026-08-20T18:23:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 951
+                "stars": 958
               }
             },
             {
@@ -1977,7 +1977,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 587
+                "stars": 591
               }
             },
             {
@@ -1992,7 +1992,7 @@
                 "last_commit": "2026-07-20T03:07:36Z",
                 "owner": "ali-vilab",
                 "repo": "DiffusionOPD",
-                "stars": 162
+                "stars": 164
               }
             },
             {
@@ -2065,7 +2065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:18:19.306Z",
+    "last_updated": "2026-08-26T09:23:18.850Z",
     "original_repository": "chrisliu298/awesome-on-policy-distillation",
     "original_repository_id": 1189057629,
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
