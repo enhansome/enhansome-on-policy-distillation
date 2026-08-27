@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38622
+                "stars": 38630
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-05-08T01:35:05Z",
                 "owner": "Peregrine123",
                 "repo": "ROPD_official",
-                "stars": 80
+                "stars": 81
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-07-29T06:30:19Z",
                 "owner": "ZJU-REAL",
                 "repo": "Relay-OPD",
-                "stars": 47
+                "stars": 48
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-05-28T15:30:35Z",
                 "owner": "RUCBM",
                 "repo": "G-OPD",
-                "stars": 290
+                "stars": 291
               }
             },
             {
@@ -396,6 +396,21 @@
             },
             {
               "node_type": "item",
+              "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
+              "description": "(2026) — Reweights each student trajectory by a student-teacher log-ratio score over pivotal tokens, emphasizing likely-negative rollouts without observing the final answer. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273059801,
+                "language": "Python",
+                "last_commit": "2026-06-22T09:50:50Z",
+                "owner": "BDML-lab",
+                "repo": "ReNIO",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
               "title": "DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models",
               "description": "(2026) — Weights self-distillation tokens by backward multi-step aggregation of divergence gaps, restoring the order dependence vanilla OPSD's uniform coefficients discard. (Code)",
               "children": [],
@@ -422,21 +437,6 @@
                 "owner": "jjjyinuo",
                 "repo": "SA-OPD",
                 "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
-              "description": "(2026) — Reweights each student trajectory by a student-teacher log-ratio score over pivotal tokens, emphasizing likely-negative rollouts without observing the final answer. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1273059801,
-                "language": "Python",
-                "last_commit": "2026-06-22T09:50:50Z",
-                "owner": "BDML-lab",
-                "repo": "ReNIO",
-                "stars": 1
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-07-01T13:51:47Z",
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1075
+                "stars": 1076
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 690
+                "stars": 692
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-06-13T18:53:52Z",
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 637
+                "stars": 641
               }
             },
             {
@@ -518,7 +518,7 @@
                 "last_commit": "2026-08-21T03:13:30Z",
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -750,7 +750,7 @@
                 "last_commit": "2026-08-14T06:30:36Z",
                 "owner": "bingreeky",
                 "repo": "LOPD",
-                "stars": 48
+                "stars": 49
               }
             },
             {
@@ -1004,10 +1004,10 @@
                 "archived": false,
                 "id": 1238996909,
                 "language": "Python",
-                "last_commit": "2026-08-19T10:54:41Z",
+                "last_commit": "2026-08-27T02:35:19Z",
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 349
+                "stars": 352
               }
             },
             {
@@ -1022,7 +1022,7 @@
                 "last_commit": "2026-07-17T05:22:51Z",
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 249
+                "stars": 251
               }
             },
             {
@@ -1207,6 +1207,21 @@
             },
             {
               "node_type": "item",
+              "title": "OVCSD: Outcome-Verified Comparative Self-Distillation for LLM Agents",
+              "description": "(2026) — Distills only environment-verified teacher continuations branched from shared states of all-failed student rollouts, replacing unvalidated action-level teacher scores. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1317066430,
+                "language": null,
+                "last_commit": "2026-07-30T09:27:31Z",
+                "owner": "shane990928-xia",
+                "repo": "OVCSD",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
               "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
               "description": "(2026) — Applies privileged distillation only at turns whose execution state matches the reference trajectory, replacing full-path guidance that misleads at uncovered states. (Code)",
               "children": [],
@@ -1233,21 +1248,6 @@
                 "owner": "JiananXie",
                 "repo": "EviSD",
                 "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "OVCSD: Outcome-Verified Comparative Self-Distillation for LLM Agents",
-              "description": "(2026) — Distills only environment-verified teacher continuations branched from shared states of all-failed student rollouts, replacing unvalidated action-level teacher scores. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1317066430,
-                "language": null,
-                "last_commit": "2026-07-30T09:27:31Z",
-                "owner": "shane990928-xia",
-                "repo": "OVCSD",
-                "stars": 1
               }
             },
             {
@@ -1314,7 +1314,7 @@
                 "last_commit": "2026-07-28T15:31:47Z",
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 50
+                "stars": 55
               }
             },
             {
@@ -1329,7 +1329,7 @@
                 "last_commit": "2026-07-30T17:23:07Z",
                 "owner": "DeepExperience",
                 "repo": "VAD_Multimodal_OPD",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -1359,7 +1359,7 @@
                 "last_commit": "2026-08-22T07:28:42Z",
                 "owner": "tiankanghui",
                 "repo": "ViCuR",
-                "stars": 20
+                "stars": 21
               }
             },
             {
@@ -1478,7 +1478,7 @@
                 "last_commit": "2026-06-24T15:46:36Z",
                 "owner": "CostaliyA",
                 "repo": "Flow-OPD",
-                "stars": 290
+                "stars": 293
               }
             },
             {
@@ -1493,7 +1493,7 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 223
+                "stars": 233
               }
             },
             {
@@ -1553,7 +1553,7 @@
                 "last_commit": "2026-08-22T09:52:51Z",
                 "owner": "Bujiazi",
                 "repo": "HPSD",
-                "stars": 19
+                "stars": 20
               }
             },
             {
@@ -1672,7 +1672,7 @@
                 "last_commit": "2026-08-09T16:28:02Z",
                 "owner": "hao-ai-lab",
                 "repo": "JetSpec",
-                "stars": 178
+                "stars": 177
               }
             },
             {
@@ -1687,7 +1687,7 @@
                 "last_commit": "2024-12-03T06:34:57Z",
                 "owner": "LiuXiaoxuanPKU",
                 "repo": "OSD",
-                "stars": 68
+                "stars": 69
               }
             },
             {
@@ -1757,10 +1757,10 @@
                 "archived": false,
                 "id": 949546994,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:31:04Z",
+                "last_commit": "2026-08-27T12:12:18Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 1960
+                "stars": 1962
               }
             },
             {
@@ -1772,10 +1772,10 @@
                 "archived": false,
                 "id": 1168545491,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:35:52Z",
+                "last_commit": "2026-08-27T09:56:07Z",
                 "owner": "songmzhang",
                 "repo": "KDFlow",
-                "stars": 244
+                "stars": 245
               }
             },
             {
@@ -1787,10 +1787,10 @@
                 "archived": false,
                 "id": 1004140701,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:14:40Z",
+                "last_commit": "2026-08-27T07:21:39Z",
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8255
+                "stars": 8271
               }
             },
             {
@@ -1820,7 +1820,7 @@
                 "last_commit": "2026-08-24T20:44:14Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2198
+                "stars": 2203
               }
             },
             {
@@ -1832,10 +1832,10 @@
                 "archived": false,
                 "id": 937952934,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:46:40Z",
+                "last_commit": "2026-08-27T10:20:32Z",
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5694
+                "stars": 5699
               }
             },
             {
@@ -1850,7 +1850,7 @@
                 "last_commit": "2026-08-24T06:46:08Z",
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5800
+                "stars": 5804
               }
             },
             {
@@ -1862,10 +1862,10 @@
                 "archived": false,
                 "id": 998697045,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:39:34Z",
+                "last_commit": "2026-08-27T06:01:05Z",
                 "owner": "sgl-project",
                 "repo": "SpecForge",
-                "stars": 1118
+                "stars": 1123
               }
             },
             {
@@ -1877,10 +1877,10 @@
                 "archived": false,
                 "id": 1163082957,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:38:06Z",
+                "last_commit": "2026-08-26T20:51:15Z",
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
-                "stars": 230
+                "stars": 233
               }
             },
             {
@@ -1892,10 +1892,10 @@
                 "archived": false,
                 "id": 1019793048,
                 "language": "Python",
-                "last_commit": "2026-08-26T06:30:36Z",
+                "last_commit": "2026-08-27T09:25:56Z",
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4055
+                "stars": 4060
               }
             },
             {
@@ -1907,7 +1907,7 @@
                 "archived": false,
                 "id": 991939049,
                 "language": "Python",
-                "last_commit": "2026-08-26T01:34:48Z",
+                "last_commit": "2026-08-27T02:54:18Z",
                 "owner": "alibaba",
                 "repo": "ROLL",
                 "stars": 3373
@@ -1962,7 +1962,7 @@
                 "last_commit": "2026-08-20T18:23:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 958
+                "stars": 962
               }
             },
             {
@@ -1977,7 +1977,7 @@
                 "last_commit": "2026-05-10T05:46:29Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 591
+                "stars": 596
               }
             },
             {
@@ -1992,7 +1992,7 @@
                 "last_commit": "2026-07-20T03:07:36Z",
                 "owner": "ali-vilab",
                 "repo": "DiffusionOPD",
-                "stars": 164
+                "stars": 166
               }
             },
             {
@@ -2065,9 +2065,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:23:18.850Z",
-    "original_repository": "chrisliu298/awesome-on-policy-distillation",
-    "original_repository_id": 1189057629,
+    "last_updated": "2026-08-27T12:13:01.735Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1189057629,
+      "language": null,
+      "last_commit": "2026-08-15T04:27:47Z",
+      "owner": "chrisliu298",
+      "repo": "awesome-on-policy-distillation",
+      "stars": 756
+    },
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
     "enhanced_repository": "enhansome/enhansome-on-policy-distillation",
     "enhanced_repository_description": null,
