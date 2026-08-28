@@ -18,7 +18,8 @@
                 "owner": "microsoft",
                 "repo": "LMOps",
                 "stars": 4465
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38631
-              }
+                "stars": 38641
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "microsoft",
                 "repo": "LMOps",
                 "stars": 4465
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -69,8 +72,9 @@
                 "last_commit": "2026-05-08T01:35:05Z",
                 "owner": "Peregrine123",
                 "repo": "ROPD_official",
-                "stars": 81
-              }
+                "stars": 82
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "ZJU-REAL",
                 "repo": "Relay-OPD",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "louieworth",
                 "repo": "trd",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "Yu-Fangxu",
                 "repo": "W2S-OPD",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "wangbing1416",
                 "repo": "MOTAB",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "RUCBM",
                 "repo": "G-OPD",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "jongwooko",
                 "repo": "distillm",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -181,8 +191,25 @@
                 "last_commit": "2026-05-19T17:36:01Z",
                 "owner": "hhh675597",
                 "repo": "revisiting_opd",
-                "stars": 135
-              }
+                "stars": 136
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DAPD: Dual-Anchored Policy Distillation",
+              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1321161662,
+                "language": "Python",
+                "last_commit": "2026-08-10T16:03:06Z",
+                "owner": "uanu2002",
+                "repo": "DAPD",
+                "stars": 73
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -197,7 +224,8 @@
                 "owner": "jongwooko",
                 "repo": "distillm-2",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -212,22 +240,8 @@
                 "owner": "ShenzhiYang2000",
                 "repo": "OPRD",
                 "stars": 70
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DAPD: Dual-Anchored Policy Distillation",
-              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1321161662,
-                "language": "Python",
-                "last_commit": "2026-08-10T16:03:06Z",
-                "owner": "uanu2002",
-                "repo": "DAPD",
-                "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "WenjinHou",
                 "repo": "Uni-OPD",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "zwhong714",
                 "repo": "Hybrid-Policy-Distillation",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "YuYingLi0",
                 "repo": "FiRe-OPD",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "Visual-AI",
                 "repo": "SPoT",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "rishabh-1086",
                 "repo": "distIL",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "yzc-666",
                 "repo": "TIDE",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "BWGZK-keke",
                 "repo": "BRTS",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "YannX1e",
                 "repo": "Importance-Weighted-On-Policy-Distillation",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "Utaotao",
                 "repo": "Simple-OPD",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "EIT-NLP",
                 "repo": "PowerOPD",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "YuxuanJiang1",
                 "repo": "Rock-Token",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "BDML-lab",
                 "repo": "ReNIO",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -422,7 +448,8 @@
                 "owner": "DBtxy",
                 "repo": "DASH-OPSD",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -437,7 +464,8 @@
                 "owner": "jjjyinuo",
                 "repo": "SA-OPD",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -452,7 +480,8 @@
                 "owner": "lauvlalala",
                 "repo": "USD",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -473,8 +502,9 @@
                 "last_commit": "2026-07-01T13:51:47Z",
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1076
-              }
+                "stars": 1077
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
                 "stars": 692
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -503,8 +534,9 @@
                 "last_commit": "2026-06-13T18:53:52Z",
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 641
-              }
+                "stars": 645
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -519,7 +551,8 @@
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -534,7 +567,8 @@
                 "owner": "beanie00",
                 "repo": "self-distillation-analysis",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -549,7 +583,8 @@
                 "owner": "HJSang",
                 "repo": "CRISP_Reasoning_Compression",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -564,7 +599,8 @@
                 "owner": "lauyikfung",
                 "repo": "SDPG",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -579,7 +615,8 @@
                 "owner": "FloyedShen",
                 "repo": "AntiSD",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -594,7 +631,8 @@
                 "owner": "zzy1127",
                 "repo": "OPHSD-On-Policy-Harness-Self-Distillation",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -609,7 +647,8 @@
                 "owner": "duykhuongnguyen",
                 "repo": "AVSD",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -624,7 +663,8 @@
                 "owner": "Moenupa",
                 "repo": "SDPO-CL",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -639,7 +679,8 @@
                 "owner": "walawalagoose",
                 "repo": "SGSD",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -654,7 +695,8 @@
                 "owner": "cisnlp",
                 "repo": "COPSD",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -669,7 +711,8 @@
                 "owner": "NJUNLP",
                 "repo": "RP-OPSD",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -684,7 +727,8 @@
                 "owner": "KawhiC",
                 "repo": "BIRD",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -695,11 +739,12 @@
                 "archived": false,
                 "id": 1328494137,
                 "language": "Python",
-                "last_commit": "2026-08-09T06:09:47Z",
+                "last_commit": "2026-08-28T05:03:46Z",
                 "owner": "MBZUAI-reasoninglab",
                 "repo": "OP2SD",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -721,7 +766,8 @@
                 "owner": "microsoft",
                 "repo": "LMOps",
                 "stars": 4465
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -736,7 +782,8 @@
                 "owner": "microsoft",
                 "repo": "LMOps",
                 "stars": 4465
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -751,7 +798,8 @@
                 "owner": "bingreeky",
                 "repo": "LOPD",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -766,7 +814,8 @@
                 "owner": "lliutianc",
                 "repo": "hpse",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -781,7 +830,8 @@
                 "owner": "rrrsj",
                 "repo": "SPEE",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -809,7 +859,8 @@
                 "owner": "songmzhang",
                 "repo": "DSKDv2",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -824,7 +875,8 @@
                 "owner": "stellaevat",
                 "repo": "DSKD-KQ",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -846,7 +898,8 @@
                 "owner": "zhangmiaosen2000",
                 "repo": "Towards-On-Policy-SFT",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -861,7 +914,8 @@
                 "owner": "kmswin1",
                 "repo": "TSD-KD",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -882,8 +936,9 @@
                 "last_commit": "2026-03-20T10:50:45Z",
                 "owner": "Simplified-Reasoning",
                 "repo": "LUFFY",
-                "stars": 466
-              }
+                "stars": 467
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -898,7 +953,8 @@
                 "owner": "jwkirchenbauer",
                 "repo": "mtp-lm",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -913,7 +969,8 @@
                 "owner": "songmzhang",
                 "repo": "AlignDistil",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -928,7 +985,8 @@
                 "owner": "Corleno",
                 "repo": "KEPO",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -950,7 +1008,8 @@
                 "owner": "microsoft",
                 "repo": "rStar",
                 "stars": 1425
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -965,7 +1024,8 @@
                 "owner": "microsoft",
                 "repo": "rStar",
                 "stars": 1425
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -979,8 +1039,9 @@
                 "last_commit": "2024-05-08T05:59:37Z",
                 "owner": "uclaml",
                 "repo": "SPIN",
-                "stars": 1254
-              }
+                "stars": 1255
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -1007,8 +1068,9 @@
                 "last_commit": "2026-08-27T02:35:19Z",
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 353
-              }
+                "stars": 354
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1022,8 +1084,9 @@
                 "last_commit": "2026-07-17T05:22:51Z",
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 251
-              }
+                "stars": 255
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1037,8 +1100,9 @@
                 "last_commit": "2026-07-01T09:46:48Z",
                 "owner": "jinyangwu",
                 "repo": "OPID",
-                "stars": 118
-              }
+                "stars": 119
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1053,7 +1117,8 @@
                 "owner": "DeepExperience",
                 "repo": "HyperEyes",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1068,7 +1133,8 @@
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1083,7 +1149,8 @@
                 "owner": "bingreeky",
                 "repo": "opd-evolver",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1098,7 +1165,8 @@
                 "owner": "ChenChiShui",
                 "repo": "FutureBridge-OPD",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1113,7 +1181,8 @@
                 "owner": "BinbZheng1",
                 "repo": "GRSD",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1128,7 +1197,24 @@
                 "owner": "Wloner0809",
                 "repo": "CAST",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+              "description": "(2026) — Replays tool trajectories with execution hindsight, distilling turn-level credit into the unassisted agent. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1323192004,
+                "language": "Python",
+                "last_commit": "2026-08-05T05:24:59Z",
+                "owner": "quchangle1",
+                "repo": "TurnSight",
+                "stars": 9
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1143,22 +1229,8 @@
                 "owner": "yiy1x",
                 "repo": "OCSD",
                 "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
-              "description": "(2026) — Replays tool trajectories with execution hindsight, distilling turn-level credit into the unassisted agent. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1323192004,
-                "language": "Python",
-                "last_commit": "2026-08-05T05:24:59Z",
-                "owner": "quchangle1",
-                "repo": "TurnSight",
-                "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1173,7 +1245,8 @@
                 "owner": "Chihaya-Anon-chan",
                 "repo": "TRIAL",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1188,7 +1261,8 @@
                 "owner": "gitrxh",
                 "repo": "ADRS-arxiv",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1203,7 +1277,8 @@
                 "owner": "TPssp",
                 "repo": "MemOPD",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1218,7 +1293,8 @@
                 "owner": "shane990928-xia",
                 "repo": "OVCSD",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1233,7 +1309,8 @@
                 "owner": "liujunzhuo",
                 "repo": "SMRC-SD",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1248,7 +1325,8 @@
                 "owner": "JiananXie",
                 "repo": "EviSD",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1263,7 +1341,8 @@
                 "owner": "hkust-nlp",
                 "repo": "SSPO",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1278,7 +1357,8 @@
                 "owner": "Poly-AIvsAI",
                 "repo": "LLMDistillationACO",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1293,7 +1373,8 @@
                 "owner": "RUCAIBox",
                 "repo": "BOUND",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -1314,8 +1395,9 @@
                 "last_commit": "2026-07-28T15:31:47Z",
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 57
-              }
+                "stars": 59
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1330,7 +1412,8 @@
                 "owner": "DeepExperience",
                 "repo": "VAD_Multimodal_OPD",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1345,7 +1428,8 @@
                 "owner": "aniri15",
                 "repo": "OPD-V",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1360,7 +1444,8 @@
                 "owner": "tiankanghui",
                 "repo": "ViCuR",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1375,7 +1460,8 @@
                 "owner": "XszNeverSleep",
                 "repo": "PTD-PO",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1390,7 +1476,8 @@
                 "owner": "buptyqx",
                 "repo": "H-OPD",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1405,7 +1492,8 @@
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1420,7 +1508,8 @@
                 "owner": "OPPO-Mente-Lab",
                 "repo": "GNDPO",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -1442,7 +1531,8 @@
                 "owner": "stepfun-ai",
                 "repo": "Step-Audio-R1",
                 "stars": 697
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -1464,7 +1554,8 @@
                 "owner": "Lakonik",
                 "repo": "LakonLab",
                 "stars": 464
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1478,8 +1569,9 @@
                 "last_commit": "2026-06-24T15:46:36Z",
                 "owner": "CostaliyA",
                 "repo": "Flow-OPD",
-                "stars": 294
-              }
+                "stars": 295
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1493,8 +1585,9 @@
                 "last_commit": "2026-08-15T10:27:56Z",
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 235
-              }
+                "stars": 253
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1508,8 +1601,9 @@
                 "last_commit": "2026-07-30T03:49:21Z",
                 "owner": "LiJiaxing0213",
                 "repo": "DistillAlign",
-                "stars": 120
-              }
+                "stars": 121
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1524,7 +1618,8 @@
                 "owner": "divelab",
                 "repo": "OPDLM",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1539,7 +1634,8 @@
                 "owner": "tuandattt",
                 "repo": "dOPSD",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1554,7 +1650,8 @@
                 "owner": "Bujiazi",
                 "repo": "HPSD",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1569,7 +1666,8 @@
                 "owner": "xingzhejun",
                 "repo": "d-opsd-code",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1584,7 +1682,8 @@
                 "owner": "BHmingyang",
                 "repo": "TAD",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -1606,7 +1705,8 @@
                 "owner": "ZJLAB-AMMI",
                 "repo": "LLM4Teach",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1621,7 +1721,8 @@
                 "owner": "Refined-Policy-Distillation",
                 "repo": "RPD",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1636,7 +1737,8 @@
                 "owner": "forever-free1",
                 "repo": "FIRE-VLA",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -1657,8 +1759,9 @@
                 "last_commit": "2026-02-20T02:53:29Z",
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2512
-              }
+                "stars": 2514
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1672,8 +1775,9 @@
                 "last_commit": "2026-08-09T16:28:02Z",
                 "owner": "hao-ai-lab",
                 "repo": "JetSpec",
-                "stars": 177
-              }
+                "stars": 178
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1688,7 +1792,8 @@
                 "owner": "LiuXiaoxuanPKU",
                 "repo": "OSD",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1703,7 +1808,8 @@
                 "owner": "Simplified-Reasoning",
                 "repo": "Draft-OPD",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1718,7 +1824,8 @@
                 "owner": "HArmonizedSS",
                 "repo": "HASS",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1733,7 +1840,8 @@
                 "owner": "Bestpay-inc",
                 "repo": "Falcon",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": "Draft-model training for speculative decoding shares OPD's core loop: the draft (student) generates, the target (teacher) verifies, and the draft is updated to match. Included for breadth even though the goal is inference acceleration rather than student capability.",
@@ -1757,11 +1865,12 @@
                 "archived": false,
                 "id": 949546994,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:10:51Z",
+                "last_commit": "2026-08-28T20:05:55Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 1963
-              }
+                "stars": 1967
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1772,11 +1881,12 @@
                 "archived": false,
                 "id": 1168545491,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:56:07Z",
+                "last_commit": "2026-08-28T10:03:38Z",
                 "owner": "songmzhang",
                 "repo": "KDFlow",
-                "stars": 245
-              }
+                "stars": 246
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1787,11 +1897,12 @@
                 "archived": false,
                 "id": 1004140701,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:00:37Z",
+                "last_commit": "2026-08-28T02:18:27Z",
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8274
-              }
+                "stars": 8293
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1805,8 +1916,9 @@
                 "last_commit": "2026-07-30T06:52:23Z",
                 "owner": "nex-agi",
                 "repo": "NexRL",
-                "stars": 118
-              }
+                "stars": 119
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1820,8 +1932,9 @@
                 "last_commit": "2026-08-24T20:44:14Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2203
-              }
+                "stars": 2206
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1832,11 +1945,12 @@
                 "archived": false,
                 "id": 937952934,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:07:32Z",
+                "last_commit": "2026-08-28T18:51:33Z",
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5699
-              }
+                "stars": 5700
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1850,8 +1964,9 @@
                 "last_commit": "2026-08-24T06:46:08Z",
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5806
-              }
+                "stars": 5807
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1865,8 +1980,9 @@
                 "last_commit": "2026-08-27T06:01:05Z",
                 "owner": "sgl-project",
                 "repo": "SpecForge",
-                "stars": 1124
-              }
+                "stars": 1130
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1877,11 +1993,12 @@
                 "archived": false,
                 "id": 1163082957,
                 "language": "Python",
-                "last_commit": "2026-08-26T20:51:15Z",
+                "last_commit": "2026-08-27T22:13:21Z",
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
-                "stars": 234
-              }
+                "stars": 236
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1892,11 +2009,12 @@
                 "archived": false,
                 "id": 1019793048,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:25:56Z",
+                "last_commit": "2026-08-28T09:29:53Z",
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4060
-              }
+                "stars": 4061
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1907,11 +2025,12 @@
                 "archived": false,
                 "id": 991939049,
                 "language": "Python",
-                "last_commit": "2026-08-27T02:54:18Z",
+                "last_commit": "2026-08-28T03:50:42Z",
                 "owner": "alibaba",
                 "repo": "ROLL",
                 "stars": 3373
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1926,7 +2045,8 @@
                 "owner": "lds-ustc",
                 "repo": "EasyOPD",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1941,7 +2061,8 @@
                 "owner": "erfanzar",
                 "repo": "EasyDeL",
                 "stars": 373
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -1962,8 +2083,9 @@
                 "last_commit": "2026-08-20T18:23:50Z",
                 "owner": "thunlp",
                 "repo": "OPD",
-                "stars": 964
-              }
+                "stars": 969
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1974,11 +2096,12 @@
                 "archived": false,
                 "id": 1185545777,
                 "language": "Python",
-                "last_commit": "2026-05-10T05:46:29Z",
+                "last_commit": "2026-08-28T19:17:36Z",
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 597
-              }
+                "stars": 603
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -1992,8 +2115,9 @@
                 "last_commit": "2026-07-20T03:07:36Z",
                 "owner": "ali-vilab",
                 "repo": "DiffusionOPD",
-                "stars": 167
-              }
+                "stars": 170
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -2008,7 +2132,8 @@
                 "owner": "HJSang",
                 "repo": "OPSD_OnPolicyDistillation",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -2023,7 +2148,8 @@
                 "owner": "machine981",
                 "repo": "SCOPE",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -2038,7 +2164,8 @@
                 "owner": "SalesforceAIResearch",
                 "repo": "CaOPD",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -2053,7 +2180,8 @@
                 "owner": "Athe-kunal",
                 "repo": "nano-opd",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
             }
           ],
           "description": null,
@@ -2065,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:14:56.669Z",
+    "last_updated": "2026-08-28T20:21:21.736Z",
     "original_repository_info": {
       "archived": false,
       "id": 1189057629,
@@ -2073,7 +2201,7 @@
       "last_commit": "2026-08-15T04:27:47Z",
       "owner": "chrisliu298",
       "repo": "awesome-on-policy-distillation",
-      "stars": 756
+      "stars": 760
     },
     "original_repository_sha": "e4b5e7334ccd3437ccab8d4eef770ed02c4f9934",
     "enhanced_repository": "enhansome/enhansome-on-policy-distillation",
