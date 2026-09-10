@@ -21,7 +21,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4471,
+                "stars": 4473,
                 "topics": [
                   "agi",
                   "gpt",
@@ -57,11 +57,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T09:22:17Z",
-                "open_issues": 1990,
+                "last_commit": "2026-09-10T00:21:25Z",
+                "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38718,
+                "stars": 38722,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -86,7 +86,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4471,
+                "stars": 4473,
                 "topics": [
                   "agi",
                   "gpt",
@@ -294,7 +294,7 @@
                 "open_issues": 0,
                 "owner": "uanu2002",
                 "repo": "DAPD",
-                "stars": 80,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -336,7 +336,7 @@
                 "open_issues": 6,
                 "owner": "jongwooko",
                 "repo": "distillm-2",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -763,13 +763,34 @@
                 "open_issues": 10,
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": [
                   "distillation",
                   "llm",
                   "reasoning",
                   "rl"
                 ]
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
+              "title": "UniSD: Towards a Unified Self-Distillation Framework for Large Language Models",
+              "description": "(2026) — Unifies self-distillation across supervision reliability, representation alignment, and training stability. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation for \"Towards a Unified Self-Distillation Framework for Large Language Models\" (https://arxiv.org/abs/2605.06597).",
+                "homepage": null,
+                "id": 1233349595,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-13T18:53:52Z",
+                "open_issues": 1,
+                "owner": "Ahren09",
+                "repo": "UniSD",
+                "stars": 695,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
             },
@@ -796,27 +817,6 @@
             },
             {
               "node_type": "item",
-              "title": "UniSD: Towards a Unified Self-Distillation Framework for Large Language Models",
-              "description": "(2026) — Unifies self-distillation across supervision reliability, representation alignment, and training stability. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation for \"Towards a Unified Self-Distillation Framework for Large Language Models\" (https://arxiv.org/abs/2605.06597).",
-                "homepage": null,
-                "id": 1233349595,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-13T18:53:52Z",
-                "open_issues": 1,
-                "owner": "Ahren09",
-                "repo": "UniSD",
-                "stars": 693,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
               "title": "RLCSD: Reinforcement Learning with Contrastive On-Policy Self-Distillation",
               "description": "(2026) — Contrasts the privileged-hint self-teacher gap under correct versus wrong hints, cancelling style-token drift to concentrate distillation signal on task-bearing tokens. (Code)",
               "children": [],
@@ -831,7 +831,7 @@
                 "open_issues": 1,
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -944,7 +944,7 @@
                 "open_issues": 2,
                 "owner": "zzy1127",
                 "repo": "OPHSD-On-Policy-Harness-Self-Distillation",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1049,7 +1049,7 @@
                 "open_issues": 1,
                 "owner": "pppyb",
                 "repo": "SecOPD",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-30T13:58:58.173Z"
@@ -1146,7 +1146,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4471,
+                "stars": 4473,
                 "topics": [
                   "agi",
                   "gpt",
@@ -1179,7 +1179,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4471,
+                "stars": 4473,
                 "topics": [
                   "agi",
                   "gpt",
@@ -1358,7 +1358,7 @@
                 "open_issues": 4,
                 "owner": "zhangmiaosen2000",
                 "repo": "Towards-On-Policy-SFT",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1579,7 +1579,7 @@
                 "open_issues": 8,
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 360,
+                "stars": 361,
                 "topics": [
                   "agentic-ai",
                   "agentic-skill",
@@ -1606,7 +1606,7 @@
                 "open_issues": 3,
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1669,7 +1669,7 @@
                 "open_issues": 10,
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2062,7 +2062,7 @@
                 "open_issues": 2,
                 "owner": "aniri15",
                 "repo": "OPD-V",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2225,7 +2225,7 @@
                 "open_issues": 9,
                 "owner": "Lakonik",
                 "repo": "LakonLab",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "diffusion-models",
                   "distillation",
@@ -2256,7 +2256,7 @@
                 "open_issues": 0,
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 423,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2277,7 +2277,7 @@
                 "open_issues": 5,
                 "owner": "CostaliyA",
                 "repo": "Flow-OPD",
-                "stars": 303,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2305,6 +2305,27 @@
             },
             {
               "node_type": "item",
+              "title": "OPDLM: Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation",
+              "description": "(2026) — Converts an autoregressive LM into a diffusion LM along the student's own reverse-diffusion rollouts, supervised by the frozen original model. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1257886535,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-19T22:06:15Z",
+                "open_issues": 1,
+                "owner": "divelab",
+                "repo": "OPDLM",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
               "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
               "description": "(2026) — Draws the teacher's privileged signal from later, more-decoded steps of the student's own denoising trajectory, replacing the external reference label. (Code)",
               "children": [],
@@ -2326,38 +2347,17 @@
             },
             {
               "node_type": "item",
-              "title": "OPDLM: Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation",
-              "description": "(2026) — Converts an autoregressive LM into a diffusion LM along the student's own reverse-diffusion rollouts, supervised by the frozen original model. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1257886535,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-19T22:06:15Z",
-                "open_issues": 1,
-                "owner": "divelab",
-                "repo": "OPDLM",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
               "title": "HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models",
               "description": "(2026) — Anchors student video sub-trajectories to privileged teacher states for condition-matched hybrid-policy self-distillation. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": "Official Implementation of HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models",
-                "homepage": null,
+                "homepage": "https://bujiazi.github.io/hpsd.github.io/",
                 "id": 1333034752,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-22T09:52:51Z",
+                "last_commit": "2026-09-10T06:47:24Z",
                 "open_issues": 0,
                 "owner": "Bujiazi",
                 "repo": "HPSD",
@@ -2561,7 +2561,7 @@
                 "open_issues": 5,
                 "owner": "hao-ai-lab",
                 "repo": "JetSpec",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "efficient-llm-inference",
                   "fast-inference",
@@ -2680,11 +2680,11 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T12:56:57Z",
-                "open_issues": 1064,
+                "last_commit": "2026-09-10T10:41:33Z",
+                "open_issues": 1066,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 1998,
+                "stars": 2001,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2732,7 +2732,7 @@
                 "open_issues": 485,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8421,
+                "stars": 8435,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2770,11 +2770,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T05:59:37Z",
-                "open_issues": 468,
+                "last_commit": "2026-09-10T07:13:53Z",
+                "open_issues": 471,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2274,
+                "stars": 2285,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2791,11 +2791,11 @@
                 "id": 937952934,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T10:28:38Z",
-                "open_issues": 119,
+                "last_commit": "2026-09-10T12:42:33Z",
+                "open_issues": 126,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5741,
+                "stars": 5749,
                 "topics": [
                   "agent",
                   "llm",
@@ -2822,10 +2822,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T06:05:48Z",
-                "open_issues": 158,
+                "open_issues": 162,
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5819,
+                "stars": 5821,
                 "topics": [
                   "agent-framework",
                   "agentic-workflow",
@@ -2857,11 +2857,11 @@
                 "id": 998697045,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T09:37:43Z",
-                "open_issues": 168,
+                "last_commit": "2026-09-10T09:19:59Z",
+                "open_issues": 169,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
-                "stars": 1155,
+                "stars": 1160,
                 "topics": [
                   "eagle",
                   "eagle3",
@@ -2887,10 +2887,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T23:46:42Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
-                "stars": 244,
+                "stars": 246,
                 "topics": [
                   "dspark",
                   "eagle3",
@@ -2918,10 +2918,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T06:37:07Z",
-                "open_issues": 115,
+                "open_issues": 118,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4106,
+                "stars": 4114,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2938,11 +2938,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T01:29:35Z",
+                "last_commit": "2026-09-10T01:26:37Z",
                 "open_issues": 129,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3389,
+                "stars": 3391,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -3019,7 +3019,7 @@
                 "open_issues": 2,
                 "owner": "Thinking-Space",
                 "repo": "Rethinking-OPD",
-                "stars": 994,
+                "stars": 996,
                 "topics": [
                   "llms",
                   "mechanism",
@@ -3044,7 +3044,7 @@
                 "open_issues": 8,
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 623,
+                "stars": 625,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:08:30.620Z",
+    "last_updated": "2026-09-10T13:06:14.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
@@ -3184,7 +3184,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-on-policy-distillation",
-      "stars": 804,
+      "stars": 807,
       "topics": [
         "awesome",
         "awesome-list",
