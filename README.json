@@ -61,7 +61,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38741,
+                "stars": 38746,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -182,7 +182,7 @@
                 "open_issues": 2,
                 "owner": "Yu-Fangxu",
                 "repo": "W2S-OPD",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -231,7 +231,7 @@
                 "open_issues": 0,
                 "owner": "RUCBM",
                 "repo": "G-OPD",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -294,7 +294,7 @@
                 "open_issues": 0,
                 "owner": "uanu2002",
                 "repo": "DAPD",
-                "stars": 84,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -315,7 +315,7 @@
                 "open_issues": 3,
                 "owner": "ShenzhiYang2000",
                 "repo": "OPRD",
-                "stars": 73,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -763,7 +763,7 @@
                 "open_issues": 10,
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "distillation",
                   "llm",
@@ -789,7 +789,7 @@
                 "open_issues": 1,
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 703,
+                "stars": 707,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -810,7 +810,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 694,
+                "stars": 695,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1049,7 +1049,7 @@
                 "open_issues": 1,
                 "owner": "pppyb",
                 "repo": "SecOPD",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-30T13:58:58.173Z"
@@ -2211,6 +2211,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+              "description": "(2026) — Matches long-horizon teacher scores across self-forced video rollouts to prevent drift in a few-step world model. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "  Official implementation of EVOKE: Endless Interactive World with Bounded State and Long-Horizon Supervision. A three-step, CFG-free interactive world model. SOTA   on WBench.",
+                "homepage": null,
+                "id": 1332185853,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-12T15:13:36Z",
+                "open_issues": 0,
+                "owner": "AlayaLab",
+                "repo": "Evoke",
+                "stars": 473,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
               "title": "π-Flow: Policy-Based Few-Step Generation via Imitation Distillation",
               "description": "(2025) — Imitation distillation aligns student flow-model trajectories with teacher under standard flow matching. (Code)",
               "children": [],
@@ -2242,27 +2263,6 @@
             },
             {
               "node_type": "item",
-              "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
-              "description": "(2026) — Matches long-horizon teacher scores across self-forced video rollouts to prevent drift in a few-step world model. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "  Official implementation of EVOKE: Endless Interactive World with Bounded State and Long-Horizon Supervision. A three-step, CFG-free interactive world model. SOTA   on WBench.",
-                "homepage": null,
-                "id": 1332185853,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-12T11:04:51Z",
-                "open_issues": 0,
-                "owner": "AlayaLab",
-                "repo": "Evoke",
-                "stars": 466,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
               "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
               "description": "(2026) — Per-domain Flow-GRPO experts supervise student SDE rollouts via reverse-KL with Manifold Anchor Regularization. (Code)",
               "children": [],
@@ -2277,7 +2277,7 @@
                 "open_issues": 5,
                 "owner": "CostaliyA",
                 "repo": "Flow-OPD",
-                "stars": 305,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2561,7 +2561,7 @@
                 "open_issues": 5,
                 "owner": "hao-ai-lab",
                 "repo": "JetSpec",
-                "stars": 221,
+                "stars": 223,
                 "topics": [
                   "efficient-llm-inference",
                   "fast-inference",
@@ -2680,7 +2680,7 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T07:05:47Z",
+                "last_commit": "2026-09-13T07:44:40Z",
                 "open_issues": 1086,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
@@ -2729,10 +2729,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T11:54:49Z",
-                "open_issues": 490,
+                "open_issues": 491,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8445,
+                "stars": 8455,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2749,8 +2749,8 @@
                 "id": 1095011616,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T17:52:32Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-13T11:13:27Z",
+                "open_issues": 17,
                 "owner": "nex-agi",
                 "repo": "NexRL",
                 "stars": 119,
@@ -2771,7 +2771,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T05:14:05Z",
-                "open_issues": 456,
+                "open_issues": 457,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
                 "stars": 2295,
@@ -2792,10 +2792,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T05:20:06Z",
-                "open_issues": 130,
+                "open_issues": 132,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5750,
+                "stars": 5751,
                 "topics": [
                   "agent",
                   "llm",
@@ -2821,7 +2821,7 @@
                 "id": 922406522,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T04:51:48Z",
+                "last_commit": "2026-09-12T21:26:46Z",
                 "open_issues": 162,
                 "owner": "rllm-org",
                 "repo": "rllm",
@@ -2858,7 +2858,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-12T05:11:11Z",
-                "open_issues": 172,
+                "open_issues": 174,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
                 "stars": 1168,
@@ -2917,11 +2917,11 @@
                 "id": 1019793048,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T06:31:45Z",
-                "open_issues": 123,
+                "last_commit": "2026-09-13T06:41:31Z",
+                "open_issues": 125,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4116,
+                "stars": 4120,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2938,11 +2938,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T01:24:14Z",
+                "last_commit": "2026-09-13T01:31:51Z",
                 "open_issues": 130,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3393,
+                "stars": 3394,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -3019,7 +3019,7 @@
                 "open_issues": 2,
                 "owner": "Thinking-Space",
                 "repo": "Rethinking-OPD",
-                "stars": 1003,
+                "stars": 1007,
                 "topics": [
                   "llms",
                   "mechanism",
@@ -3044,7 +3044,7 @@
                 "open_issues": 8,
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 630,
+                "stars": 631,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3065,7 +3065,7 @@
                 "open_issues": 4,
                 "owner": "ali-vilab",
                 "repo": "DiffusionOPD",
-                "stars": 176,
+                "stars": 178,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:21:06.122Z",
+    "last_updated": "2026-09-13T13:27:07.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
@@ -3184,7 +3184,7 @@
       "open_issues": 2,
       "owner": "chrisliu298",
       "repo": "awesome-on-policy-distillation",
-      "stars": 813,
+      "stars": 815,
       "topics": [
         "awesome",
         "awesome-list",
