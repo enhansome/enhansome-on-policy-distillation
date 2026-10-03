@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "MiniLLM: On-Policy Distillation of Large Language Models",
-              "description": "(2023) — Reverse-KL framing for generative LMs; the paper that named the field. (Code)",
+              "description": "Reverse-KL framing for generative LMs; the paper that named the field. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -48,7 +48,7 @@
             {
               "node_type": "item",
               "title": "Speculative Knowledge Distillation",
-              "description": "(2024) — Interleaved teacher/student sampling mitigates poor student rollout quality. (Code)",
+              "description": "Interleaved teacher/student sampling mitigates poor student rollout quality. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -61,7 +61,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38861,
+                "stars": 38863,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -73,7 +73,7 @@
             {
               "node_type": "item",
               "title": "Black-Box On-Policy Distillation of Large Language Models",
-              "description": "(2025) — GAD: discriminator-based reward on student rollouts; no teacher logits required. (Code)",
+              "description": "GAD: discriminator-based reward on student rollouts; no teacher logits required. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -106,7 +106,7 @@
             {
               "node_type": "item",
               "title": "ROPD: Rubric-based On-policy Distillation",
-              "description": "(2026) — Black-box OPD using prompt-specific rubrics distilled from teacher-student contrasts to score rollouts. (Code)",
+              "description": "Black-box OPD using prompt-specific rubrics distilled from teacher-student contrasts to score rollouts. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,7 +127,7 @@
             {
               "node_type": "item",
               "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
-              "description": "(2026) — Lets the teacher repair failed prefixes before returning control, keeping supervision near the student's reachable trajectory. (Code)",
+              "description": "Lets the teacher repair failed prefixes before returning control, keeping supervision near the student's reachable trajectory. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -148,7 +148,7 @@
             {
               "node_type": "item",
               "title": "Trajectory-Refined Distillation",
-              "description": "(2026) — Teacher revises the student's failed rollout within on-policy support before distilling, correcting prefix failure at the trajectory rather than token level. (Code)",
+              "description": "Teacher revises the student's failed rollout within on-policy support before distilling, correcting prefix failure at the trajectory rather than token level. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -169,7 +169,7 @@
             {
               "node_type": "item",
               "title": "Weak-to-Strong On-Policy Distillation",
-              "description": "(2026) — Synthesizes a proxy teacher from two weak models' logit difference anchored on the student's base, lifting a student stronger than both. (Code)",
+              "description": "Synthesizes a proxy teacher from two weak models' logit difference anchored on the student's base, lifting a student stronger than both. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -190,7 +190,7 @@
             {
               "node_type": "item",
               "title": "Backtracking When It Strays: Mitigating Dual Exposure Biases in LLM Reasoning Distillation",
-              "description": "(2026) — Backtracks straying student rollouts to the last safe state for teacher correction, targeting the reversed exposure bias on-policy distillation introduces. (Code)",
+              "description": "Backtracks straying student rollouts to the last safe state for teacher correction, targeting the reversed exposure bias on-policy distillation introduces. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -218,7 +218,7 @@
             {
               "node_type": "item",
               "title": "ExOPD: Learning beyond Teacher via Generalized On-Policy Distillation with Reward Extrapolation",
-              "description": "(2026) — Casts OPD as dense KL-constrained RL; reward scaling enables teacher-surpassing behavior. (Code)",
+              "description": "Casts OPD as dense KL-constrained RL; reward scaling enables teacher-surpassing behavior. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -239,7 +239,7 @@
             {
               "node_type": "item",
               "title": "DistiLLM: Towards Streamlined Distillation for Large Language Models",
-              "description": "(2024) — Skew-KL divergence with adaptive off-policy use of student-generated outputs; foundational OPD objective formulation. (Code)",
+              "description": "Skew-KL divergence with adaptive off-policy use of student-generated outputs; foundational OPD objective formulation. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -260,7 +260,7 @@
             {
               "node_type": "item",
               "title": "Revisiting On-Policy Distillation — Empirical Failure Modes and Simple Fixes",
-              "description": "(2026) — Truncated reverse-KL with teacher top-K support matching; fixes imbalanced signals and tokenizer mismatch. (Code)",
+              "description": "Truncated reverse-KL with teacher top-K support matching; fixes imbalanced signals and tokenizer mismatch. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -281,7 +281,7 @@
             {
               "node_type": "item",
               "title": "DAPD: Dual-Anchored Policy Distillation",
-              "description": "(2026) — Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
+              "description": "Dual self-teacher anchors constrain privileged targets, preventing unreachable guidance from destabilizing student rollouts. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +302,7 @@
             {
               "node_type": "item",
               "title": "OPRD: On-Policy Representation Distillation",
-              "description": "(2026) — Supervises student rollouts by aligning intermediate hidden states with the teacher across layers, replacing high-variance output-space logit matching. (Code)",
+              "description": "Supervises student rollouts by aligning intermediate hidden states with the teacher across layers, replacing high-variance output-space logit matching. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -323,7 +323,7 @@
             {
               "node_type": "item",
               "title": "DistiLLM-2: A Contrastive Approach Boosts the Distillation of LLMs",
-              "description": "(2025) — Contrastive extension of skew-KL; student-generated outputs collected per epoch. (Code)",
+              "description": "Contrastive extension of skew-KL; student-generated outputs collected per epoch. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -344,7 +344,7 @@
             {
               "node_type": "item",
               "title": "Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe",
-              "description": "(2026) — Offline difficulty-aware and online correctness-aware data balancing with outcome-guided margin calibration. (Code)",
+              "description": "Offline difficulty-aware and online correctness-aware data balancing with outcome-guided margin calibration. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "On-policy Distillation with Verifiable Reward",
-              "description": "(2026) — ReLU-gates the sampled-token OPD reward by trajectory correctness, merging dense teacher guidance with verifiable rewards without extra hyperparameters. (Code)",
+              "description": "ReLU-gates the sampled-token OPD reward by trajectory correctness, merging dense teacher guidance with verifiable rewards without extra hyperparameters. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "HPD: Hybrid Policy Distillation for LLMs",
-              "description": "(2026) — Unified reweighted-log-likelihood framework combining forward/reverse KL with off-policy and on-policy sampling. (Code)",
+              "description": "Unified reweighted-log-likelihood framework combining forward/reverse KL with off-policy and on-policy sampling. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -407,7 +407,7 @@
             {
               "node_type": "item",
               "title": "FiRe-OPD: Filter, Then Reweight — Rethinking Optimization Granularity in On-Policy Distillation",
-              "description": "(2026) — Drops low teacher-likelihood trajectories, then soft-reweights remaining tokens by teacher confidence and student confusion, replacing hard token selection. (Code)",
+              "description": "Drops low teacher-likelihood trajectories, then soft-reweights remaining tokens by teacher confidence and student confusion, replacing hard token selection. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -428,7 +428,7 @@
             {
               "node_type": "item",
               "title": "Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention",
-              "description": "(2026) — Black-box oracle edits student failures into proximal rollouts for reward-based distillation that preserves prior knowledge. (Code)",
+              "description": "Black-box oracle edits student failures into proximal rollouts for reward-based distillation that preserves prior knowledge. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -449,7 +449,7 @@
             {
               "node_type": "item",
               "title": "Mismatch Matters: On-Policy Distillation Beyond Token Agreement",
-              "description": "(2026) — Routes directional mismatch through bounded excess suppression plus top-K deficit recovery to avoid degenerate agreement. (Code)",
+              "description": "Routes directional mismatch through bounded excess suppression plus top-K deficit recovery to avoid degenerate agreement. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -470,7 +470,7 @@
             {
               "node_type": "item",
               "title": "Reinforcement Learning from Rich Feedback with Distributional DAgger",
-              "description": "(2026) — Distills a feedback-conditioned teacher via forward cross-entropy on student-visited states, provably guaranteeing the monotonic policy improvement reverse-KL self-distillation lacks. (Code)",
+              "description": "Distills a feedback-conditioned teacher via forward cross-entropy on student-visited states, provably guaranteeing the monotonic policy improvement reverse-KL self-distillation lacks. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
             {
               "node_type": "item",
               "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
-              "description": "(2026) — Spreads a group-normalized teacher-verifier disagreement residual across tokens by their OPD advantages, correcting supervision that token-level teacher support misjudges. (Code)",
+              "description": "Spreads a group-normalized teacher-verifier disagreement residual across tokens by their OPD advantages, correcting supervision that token-level teacher support misjudges. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,7 +512,7 @@
             {
               "node_type": "item",
               "title": "BRTS: On-Policy Distillation with Best-of-N Teacher Rollout Selection",
-              "description": "(2026) — Auxiliary teacher-context branch alongside standard OPD; selects best-of-N teacher rollouts by correctness then student-alignment. (Code)",
+              "description": "Auxiliary teacher-context branch alongside standard OPD; selects best-of-N teacher rollouts by correctness then student-alignment. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -533,7 +533,7 @@
             {
               "node_type": "item",
               "title": "On the Position Bias of On-Policy Distillation",
-              "description": "(2026) — Importance-Weighted OPD upweights each token by its cumulative student-teacher prefix discrepancy, correcting position bias where later rollout tokens drift off-teacher. (Code)",
+              "description": "Importance-Weighted OPD upweights each token by its cumulative student-teacher prefix discrepancy, correcting position bias where later rollout tokens drift off-teacher. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -554,7 +554,7 @@
             {
               "node_type": "item",
               "title": "Simple-OPD: Demystifying Warm-up for On-policy Distillation",
-              "description": "(2026) — Teacher-generated reasoning warm-up initializes OPD for faster convergence with less out-of-domain degradation. (Code)",
+              "description": "Teacher-generated reasoning warm-up initializes OPD for faster convergence with less out-of-domain degradation. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -575,7 +575,7 @@
             {
               "node_type": "item",
               "title": "PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation",
-              "description": "(2026) — Replaces on-policy distillation's unbounded log-ratio reward with a natively bounded Box–Cox power transformation, curbing high-variance gradients that post-hoc scaling cannot. (Code)",
+              "description": "Replaces on-policy distillation's unbounded log-ratio reward with a natively bounded Box–Cox power transformation, curbing high-variance gradients that post-hoc scaling cannot. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -596,7 +596,7 @@
             {
               "node_type": "item",
               "title": "Tail-Aware Top-k On-Policy Distillation",
-              "description": "(2026) — Adds a tail token carrying the mass outside the teacher's top-k, stopping the entropy inflation top-k normalization induces. (Code)",
+              "description": "Adds a tail token carrying the mass outside the teacher's top-k, stopping the entropy inflation top-k normalization induces. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -617,7 +617,7 @@
             {
               "node_type": "item",
               "title": "Rock Tokens — Deciphering High-Loss Tokens in On-Policy Distillation",
-              "description": "(2026) — High-loss tokens (up to 18%) persist after apparent convergence; masking them streamlines alignment. (Code)",
+              "description": "High-loss tokens (up to 18%) persist after apparent convergence; masking them streamlines alignment. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -638,7 +638,7 @@
             {
               "node_type": "item",
               "title": "ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation",
-              "description": "(2026) — Reweights each student trajectory by a student-teacher log-ratio score over pivotal tokens, emphasizing likely-negative rollouts without observing the final answer. (Code)",
+              "description": "Reweights each student trajectory by a student-teacher log-ratio score over pivotal tokens, emphasizing likely-negative rollouts without observing the final answer. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -659,7 +659,7 @@
             {
               "node_type": "item",
               "title": "DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models",
-              "description": "(2026) — Weights self-distillation tokens by backward multi-step aggregation of divergence gaps, restoring the order dependence vanilla OPSD's uniform coefficients discard. (Code)",
+              "description": "Weights self-distillation tokens by backward multi-step aggregation of divergence gaps, restoring the order dependence vanilla OPSD's uniform coefficients discard. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -680,7 +680,7 @@
             {
               "node_type": "item",
               "title": "When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation",
-              "description": "(2026) — Filters teacher signals by input grounding plus distributional extremity, suppressing confident but spurious guidance. (Code)",
+              "description": "Filters teacher signals by input grounding plus distributional extremity, suppressing confident but spurious guidance. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -701,7 +701,7 @@
             {
               "node_type": "item",
               "title": "SPEAR: Distilling Domain-Adaptive Reasoning Skeletons via Sequential Symbolic Alignment in Reinforcement Learning",
-              "description": "(2026) — Aligns student explorations to teacher symbolic milestones by longest common subsequence, giving dense process rewards without a trained verifier. (Code)",
+              "description": "Aligns student explorations to teacher symbolic milestones by longest common subsequence, giving dense process rewards without a trained verifier. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -722,7 +722,7 @@
             {
               "node_type": "item",
               "title": "Matching Supervision to the Student's Learning Capacity: A Unified Framework for On-Policy Self-Distillation",
-              "description": "(2026) — Jointly adapts privileged exposure plus token weighting under a capacity budget to match evolving student learnability. (Code)",
+              "description": "Jointly adapts privileged exposure plus token weighting under a capacity budget to match evolving student learnability. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -750,7 +750,7 @@
             {
               "node_type": "item",
               "title": "SDPO: Reinforcement Learning via Self-Distillation",
-              "description": "(2026) — Converts textual feedback into dense self-teacher signals for RL-like training. (Code)",
+              "description": "Converts textual feedback into dense self-teacher signals for RL-like training. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -760,7 +760,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-01T13:51:47Z",
-                "open_issues": 290,
+                "open_issues": 11,
                 "owner": "lasgroup",
                 "repo": "SDPO",
                 "stars": 1108,
@@ -776,7 +776,7 @@
             {
               "node_type": "item",
               "title": "UniSD: Towards a Unified Self-Distillation Framework for Large Language Models",
-              "description": "(2026) — Unifies self-distillation across supervision reliability, representation alignment, and training stability. (Code)",
+              "description": "Unifies self-distillation across supervision reliability, representation alignment, and training stability. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -789,7 +789,7 @@
                 "open_issues": 1,
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 779,
+                "stars": 781,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -797,7 +797,7 @@
             {
               "node_type": "item",
               "title": "SDFT: Self-Distillation Enables Continual Learning",
-              "description": "(2026) — Demonstration-conditioned self-teaching for continual learning with less forgetting. (Code)",
+              "description": "Demonstration-conditioned self-teaching for continual learning with less forgetting. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -810,7 +810,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 711,
+                "stars": 712,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -818,7 +818,7 @@
             {
               "node_type": "item",
               "title": "RLCSD: Reinforcement Learning with Contrastive On-Policy Self-Distillation",
-              "description": "(2026) — Contrasts the privileged-hint self-teacher gap under correct versus wrong hints, cancelling style-token drift to concentrate distillation signal on task-bearing tokens. (Code)",
+              "description": "Contrasts the privileged-hint self-teacher gap under correct versus wrong hints, cancelling style-token drift to concentrate distillation signal on task-bearing tokens. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -847,7 +847,7 @@
             {
               "node_type": "item",
               "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
-              "description": "(2026) — Traces failures to suppression of epistemic verbalization; task coverage determines whether conciseness helps. (Code)",
+              "description": "Traces failures to suppression of epistemic verbalization; task coverage determines whether conciseness helps. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -868,7 +868,7 @@
             {
               "node_type": "item",
               "title": "OPSDC: On-Policy Self-Distillation for Reasoning Compression",
-              "description": "(2026) — Compresses verbose reasoning using concise privileged self-teachers. (Code)",
+              "description": "Compresses verbose reasoning using concise privileged self-teachers. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -889,7 +889,7 @@
             {
               "node_type": "item",
               "title": "SDPG: Self-Distilled Policy Gradient",
-              "description": "(2026) — Couples GRPO verifier rewards with exact full-vocabulary privileged self-distillation, casting its reverse-KL term as an equivalent centered log-ratio policy gradient. (Code)",
+              "description": "Couples GRPO verifier rewards with exact full-vocabulary privileged self-distillation, casting its reverse-KL term as an equivalent centered log-ratio policy gradient. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -910,7 +910,7 @@
             {
               "node_type": "item",
               "title": "AntiSD: Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information",
-              "description": "(2026) — Identifies the OPSD token reward as a PMI that suppresses deliberation tokens, then reverses its sign under an entropy-triggered gate. (Code)",
+              "description": "Identifies the OPSD token reward as a PMI that suppresses deliberation tokens, then reverses its sign under an entropy-triggered gate. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +931,7 @@
             {
               "node_type": "item",
               "title": "OPHSD: Training with Harnesses — On-Policy Harness Self-Distillation for Complex Reasoning",
-              "description": "(2026) — Generalizes self-distillation privileged context from a static variable (reference solution, environment trace) to a harness-driven workflow (draft-verify, plan-solve); harness is a removable training scaffold. (Code)",
+              "description": "Generalizes self-distillation privileged context from a static variable (reference solution, environment trace) to a harness-driven workflow (draft-verify, plan-solve); harness is a removable training scaffold. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -952,7 +952,7 @@
             {
               "node_type": "item",
               "title": "AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals",
-              "description": "(2026) — Multi-view privileged self-distillation that gates teacher-specific residuals so they can adjust update magnitude but cannot reverse the cross-view consensus direction. (Code)",
+              "description": "Multi-view privileged self-distillation that gates teacher-specific residuals so they can adjust update magnitude but cannot reverse the cross-view consensus direction. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -973,7 +973,7 @@
             {
               "node_type": "item",
               "title": "SGSD: Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
-              "description": "(2026) — Skill-conditioned OPSD whose retrieved-skill teachers are outcome-validated before distillation, extending privileged self-distillation to unreliable experience-derived context. (Code)",
+              "description": "Skill-conditioned OPSD whose retrieved-skill teachers are outcome-validated before distillation, extending privileged self-distillation to unreliable experience-derived context. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -994,7 +994,7 @@
             {
               "node_type": "item",
               "title": "Privileged Solutions or Context-Induced Teacher Behavior? Dissecting On-Policy Self-Distillation",
-              "description": "(2026) — Conditions the self-teacher on other-problem solutions to isolate context-induced behavior from target-specific privilege. (Code)",
+              "description": "Conditions the self-teacher on other-problem solutions to isolate context-induced behavior from target-specific privilege. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1015,7 +1015,7 @@
             {
               "node_type": "item",
               "title": "Denser ≠ Better: Limits of On-Policy Self-Distillation for Continual Post-Training",
-              "description": "(2026) — Empirical-theoretical critique showing dense on-policy self-distillation forgets more than GRPO during continual post-training, as teacher projection induces excess parameter drift. (Code)",
+              "description": "Empirical-theoretical critique showing dense on-policy self-distillation forgets more than GRPO during continual post-training, as teacher projection induces excess parameter drift. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1036,7 +1036,7 @@
             {
               "node_type": "item",
               "title": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
-              "description": "(2026) — Scores injected-input rollouts against the initialization model reading clean input, giving token-level defense signal where sequence-level preference training fails. (Code)",
+              "description": "Scores injected-input rollouts against the initialization model reading clean input, giving token-level defense signal where sequence-level preference training fails. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1057,7 +1057,7 @@
             {
               "node_type": "item",
               "title": "COPSD: Crosslingual On-Policy Self-Distillation for Multilingual Reasoning",
-              "description": "(2026) — Uses English translations and reference solutions as privileged teacher context for low-resource multilingual reasoning OPSD. (Code)",
+              "description": "Uses English translations and reference solutions as privileged teacher context for low-resource multilingual reasoning OPSD. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1084,7 +1084,7 @@
             {
               "node_type": "item",
               "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
-              "description": "(2026) — Routes multilingual token supervision by how much an English reference shifts the teacher view, targeting reasoning pivots rather than surface realization. (Code)",
+              "description": "Routes multilingual token supervision by how much an English reference shifts the teacher view, targeting reasoning pivots rather than surface realization. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1105,7 +1105,7 @@
             {
               "node_type": "item",
               "title": "BIRD: Bootstrapped Iterative Self-Reasoning Distillation for Compressed Reasoning",
-              "description": "(2026) — SFT-bootstraps the rollout distribution toward cleaner prefixes before on-policy reverse-KL self-distillation, fixing OPSD's cold-start prefix bottleneck. (Code)",
+              "description": "SFT-bootstraps the rollout distribution toward cleaner prefixes before on-policy reverse-KL self-distillation, fixing OPSD's cold-start prefix bottleneck. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1133,7 +1133,7 @@
             {
               "node_type": "item",
               "title": "OPCD: On-Policy Context Distillation for Language Models",
-              "description": "(2026) — Context-conditioned teacher on student rollouts; distills system prompts and experiential knowledge. (Code)",
+              "description": "Context-conditioned teacher on student rollouts; distills system prompts and experiential knowledge. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1166,7 +1166,7 @@
             {
               "node_type": "item",
               "title": "OEL: Online Experiential Learning for Language Models",
-              "description": "(2026) — Deployment loop using OPCD for consolidating interaction traces into weights. (Code)",
+              "description": "Deployment loop using OPCD for consolidating interaction traces into weights. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1199,7 +1199,7 @@
             {
               "node_type": "item",
               "title": "Latent On-Policy Self-Distillation",
-              "description": "(2026) — Learns privileged experience context as latent tokens to self-distill agent rollouts without designer-specified artifacts. (Code)",
+              "description": "Learns privileged experience context as latent tokens to self-distill agent rollouts without designer-specified artifacts. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1220,7 +1220,7 @@
             {
               "node_type": "item",
               "title": "EDGE: Experience-Distillation for Guided Exploration in Agentic Reinforcement Learning",
-              "description": "(2026) — Admits only experience-conditioned rollouts with positive marginal gain, then reverse-KL distills their behavior into the scaffold-free policy. (Code)",
+              "description": "Admits only experience-conditioned rollouts with positive marginal gain, then reverse-KL distills their behavior into the scaffold-free policy. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1241,7 +1241,7 @@
             {
               "node_type": "item",
               "title": "Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing",
-              "description": "(2026) — Injects privileged tokens into off-topic student rollouts to internalize composable knowledge edits. (Code)",
+              "description": "Injects privileged tokens into off-topic student rollouts to internalize composable knowledge edits. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1262,7 +1262,7 @@
             {
               "node_type": "item",
               "title": "Self-Improving Large Language Models via Progressive Experience Evolution",
-              "description": "(2026) — Evolves reusable experience from student trajectories, then distills an experience-conditioned self-teacher into the unassisted policy. (Code)",
+              "description": "Evolves reusable experience from student trajectories, then distills an experience-conditioned self-teacher into the unassisted policy. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1296,7 +1296,7 @@
             {
               "node_type": "item",
               "title": "DSKD: A Dual-Space Framework for General KD",
-              "description": "(2025) — Unifies output spaces; supports on- and off-policy KD between any two LLMs. (Code)",
+              "description": "Unifies output spaces; supports on- and off-policy KD between any two LLMs. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1317,7 +1317,7 @@
             {
               "node_type": "item",
               "title": "Dual-Space Knowledge Distillation with Key-Query Matching for Large Language Models with Vocabulary Mismatch",
-              "description": "(2026) — Aligns hidden states in dual vocabulary spaces through key-query matching, supporting distillation between mismatched tokenizers. (Code)",
+              "description": "Aligns hidden states in dual vocabulary spaces through key-query matching, supporting distillation between mismatched tokenizers. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1345,7 +1345,7 @@
             {
               "node_type": "item",
               "title": "DDT: Towards On-Policy SFT via Distribution Discriminant Theory",
-              "description": "(2026) — In-Distribution Finetuning and Hinted Decoding realign training data to the student's distribution. (Code)",
+              "description": "In-Distribution Finetuning and Hinted Decoding realign training data to the student's distribution. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1366,7 +1366,7 @@
             {
               "node_type": "item",
               "title": "TSD-KD: Explain in Your Own Words",
-              "description": "(2026) — Student proposes candidates, teacher reranks, selective token distillation. (Code)",
+              "description": "Student proposes candidates, teacher reranks, selective token distillation. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1394,7 +1394,7 @@
             {
               "node_type": "item",
               "title": "LUFFY: Learning to Reason under Off-Policy Guidance",
-              "description": "(2025) — Mixed-policy GRPO combining on-policy rollouts with off-policy teacher traces via regularized importance sampling. (Code)",
+              "description": "Mixed-policy GRPO combining on-policy rollouts with off-policy teacher traces via regularized importance sampling. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1415,7 +1415,7 @@
             {
               "node_type": "item",
               "title": "Multi-Token Prediction via Self-Distillation",
-              "description": "(2026) — Online self-distillation for multi-token prediction and faster inference. (Code)",
+              "description": "Online self-distillation for multi-token prediction and faster inference. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1436,7 +1436,7 @@
             {
               "node_type": "item",
               "title": "AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation",
-              "description": "(2025) — Casts RLHF as token-level distillation by injecting DPO rewards. (Code)",
+              "description": "Casts RLHF as token-level distillation by injecting DPO rewards. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1457,7 +1457,7 @@
             {
               "node_type": "item",
               "title": "KEPO: Knowledge-Enhanced Preference Optimization for Reinforcement Learning with Reasoning",
-              "description": "(2026) — Quality-gated OPD on high-quality trajectories plus knowledge-enhanced exploration via teacher hints. (Code)",
+              "description": "Quality-gated OPD on high-quality trajectories plus knowledge-enhanced exploration via teacher hints. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1485,7 +1485,7 @@
             {
               "node_type": "item",
               "title": "rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking",
-              "description": "(2025) — MCTS-guided self-evolution; policy and PRM co-improve via code-augmented reasoning. (Code)",
+              "description": "MCTS-guided self-evolution; policy and PRM co-improve via code-augmented reasoning. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1498,7 +1498,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1431,
+                "stars": 1430,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1506,7 +1506,7 @@
             {
               "node_type": "item",
               "title": "rStar2-Agent: Agentic Reasoning Technical Report",
-              "description": "(2025) — GRPO with Resample-on-Correct rollouts plus multi-stage SFT→RL recipe for 14B agentic reasoner. (Code)",
+              "description": "GRPO with Resample-on-Correct rollouts plus multi-stage SFT→RL recipe for 14B agentic reasoner. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1519,7 +1519,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1431,
+                "stars": 1430,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1527,7 +1527,7 @@
             {
               "node_type": "item",
               "title": "SPIN: Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
-              "description": "(2024) — Self-play distinguishing own generations from human references. (Code)",
+              "description": "Self-play distinguishing own generations from human references. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1566,7 +1566,7 @@
             {
               "node_type": "item",
               "title": "SDAR: Self-Distilled Agentic Reinforcement Learning",
-              "description": "(2026) — Sigmoid-gated OPSD auxiliary on top of GRPO for multi-turn agents; amplifies positive-gap, attenuates negative-gap tokens. (Code)",
+              "description": "Sigmoid-gated OPSD auxiliary on top of GRPO for multi-turn agents; amplifies positive-gap, attenuates negative-gap tokens. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1593,7 +1593,7 @@
             {
               "node_type": "item",
               "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-              "description": "(2026) — Converts the policy's own trajectories into hindsight skills whose probability shifts on sampled actions form a self-evolving token-level distillation signal. (Code)",
+              "description": "Converts the policy's own trajectories into hindsight skills whose probability shifts on sampled actions form a self-evolving token-level distillation signal. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1614,7 +1614,7 @@
             {
               "node_type": "item",
               "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
-              "description": "(2026) — Extracts hierarchical episode- and step-level hindsight skills from agent rollouts, routing them critical-first to score responses into token-level self-distillation advantages. (Code)",
+              "description": "Extracts hierarchical episode- and step-level hindsight skills from agent rollouts, routing them critical-first to score responses into token-level self-distillation advantages. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1635,7 +1635,7 @@
             {
               "node_type": "item",
               "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-              "description": "(2026) — Aggregates privileged self-teacher gaps into recursive turn-level credit, propagating sparse outcomes through long agent trajectories. (Code)",
+              "description": "Aggregates privileged self-teacher gaps into recursive turn-level credit, propagating sparse outcomes through long agent trajectories. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1648,7 +1648,7 @@
                 "open_issues": 10,
                 "owner": "ZethWang",
                 "repo": "AgentOPSD",
-                "stars": 82,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1656,7 +1656,7 @@
             {
               "node_type": "item",
               "title": "HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents",
-              "description": "(2026) — Parallel multimodal search agent that applies OPD only to failed rollouts to salvage correct intermediate tool calls from GRPO's uniform negative advantage. (Code)",
+              "description": "Parallel multimodal search agent that applies OPD only to failed rollouts to salvage correct intermediate tool calls from GRPO's uniform negative advantage. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1677,7 +1677,7 @@
             {
               "node_type": "item",
               "title": "OPD-Evolver: Cultivating a Holistic Agent Evolver via On-Policy Distillation",
-              "description": "(2026) — Distills a hindsight-privileged self-teacher into a self-evolving memory agent across the full experience lifecycle rather than execution alone. (Code)",
+              "description": "Distills a hindsight-privileged self-teacher into a self-evolving memory agent across the full experience lifecycle rather than execution alone. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1698,7 +1698,7 @@
             {
               "node_type": "item",
               "title": "Look Ahead Before You Distill: Future Trajectory Validation of Teacher Guidance for Agentic On-Policy Distillation",
-              "description": "(2026) — Validates teacher interventions through student continuations, rejecting locally plausible guidance that harms downstream agent outcomes. (Code)",
+              "description": "Validates teacher interventions through student continuations, rejecting locally plausible guidance that harms downstream agent outcomes. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1719,7 +1719,7 @@
             {
               "node_type": "item",
               "title": "GRSD: Group-Reflective Self-Distillation for Agentic Reinforcement Learning",
-              "description": "(2026) — Contrasts the policy's own reflections on successful versus failed group rollouts into guidance conditioning a self-teacher's turn-level credit. (Code)",
+              "description": "Contrasts the policy's own reflections on successful versus failed group rollouts into guidance conditioning a self-teacher's turn-level credit. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1740,7 +1740,7 @@
             {
               "node_type": "item",
               "title": "CAST: Game Solvers as Turn-Level Teachers for LLM Agents",
-              "description": "(2026) — Converts solver values into turn-level advantages on student game rollouts, providing dense guidance without teacher logits. (Code)",
+              "description": "Converts solver values into turn-level advantages on student game rollouts, providing dense guidance without teacher logits. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1761,7 +1761,7 @@
             {
               "node_type": "item",
               "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
-              "description": "(2026) — Replays tool trajectories with execution hindsight, distilling turn-level credit into the unassisted agent. (Code)",
+              "description": "Replays tool trajectories with execution hindsight, distilling turn-level credit into the unassisted agent. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1790,7 +1790,7 @@
             {
               "node_type": "item",
               "title": "OCSD: Agentic Reinforcement Learning with Observation-Calibrated Self-Distillation",
-              "description": "(2026) — Contrasts full and observation-ablated replay views to isolate an observation residual that modulates token-level agent updates, removing the replay-scaffold confound. (Code)",
+              "description": "Contrasts full and observation-ablated replay views to isolate an observation residual that modulates token-level agent updates, removing the replay-scaffold confound. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1811,7 +1811,7 @@
             {
               "node_type": "item",
               "title": "Agentic Reinforcement Learning with Self-Distilled Reward Shaping",
-              "description": "(2026) — Rescores student trajectories with a privileged skill-conditioned snapshot, assigning return-aware credit to agent decisions. (Code)",
+              "description": "Rescores student trajectories with a privileged skill-conditioned snapshot, assigning return-aware credit to agent decisions. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1832,7 +1832,7 @@
             {
               "node_type": "item",
               "title": "Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning",
-              "description": "(2026) — Normalizes hindsight-conditioned token gaps across rollout turns to reallocate dense supervision without changing trajectory-average weight. (Code)",
+              "description": "Normalizes hindsight-conditioned token gaps across rollout turns to reallocate dense supervision without changing trajectory-average weight. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1853,7 +1853,7 @@
             {
               "node_type": "item",
               "title": "MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents",
-              "description": "(2026) — Reconstructs compact-memory rollout states before teacher scoring to preserve valid supervision across rewritten agent contexts. (Code)",
+              "description": "Reconstructs compact-memory rollout states before teacher scoring to preserve valid supervision across rewritten agent contexts. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1874,7 +1874,7 @@
             {
               "node_type": "item",
               "title": "OVCSD: Outcome-Verified Comparative Self-Distillation for LLM Agents",
-              "description": "(2026) — Distills only environment-verified teacher continuations branched from shared states of all-failed student rollouts, replacing unvalidated action-level teacher scores. (Code)",
+              "description": "Distills only environment-verified teacher continuations branched from shared states of all-failed student rollouts, replacing unvalidated action-level teacher scores. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1895,7 +1895,7 @@
             {
               "node_type": "item",
               "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-              "description": "(2026) — Applies privileged distillation only at turns whose execution state matches the reference trajectory, replacing full-path guidance that misleads at uncovered states. (Code)",
+              "description": "Applies privileged distillation only at turns whose execution state matches the reference trajectory, replacing full-path guidance that misleads at uncovered states. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1916,7 +1916,7 @@
             {
               "node_type": "item",
               "title": "EviSD: Evidence-Conditioned Self-Distillation for Search-Augmented Agents",
-              "description": "(2026) — Rescores student search actions with an evidence-conditioned self-teacher, bounding corrections to preserve on-policy exploration. (Code)",
+              "description": "Rescores student search actions with an evidence-conditioned self-teacher, bounding corrections to preserve on-policy exploration. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1937,7 +1937,7 @@
             {
               "node_type": "item",
               "title": "Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents",
-              "description": "(2026) — Converts privileged self-teacher disagreement into step-level advantages on failed search trajectories, preserving reward direction. (Code)",
+              "description": "Converts privileged self-teacher disagreement into step-level advantages on failed search trajectories, preserving reward direction. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1958,7 +1958,7 @@
             {
               "node_type": "item",
               "title": "Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations",
-              "description": "(2026) — Distills teacher action recommendations during live cyber interactions, giving lightweight agents dense guidance in sparse-reward environments. (Code)",
+              "description": "Distills teacher action recommendations during live cyber interactions, giving lightweight agents dense guidance in sparse-reward environments. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1979,7 +1979,7 @@
             {
               "node_type": "item",
               "title": "BOUND: Brief-Guided Corrective Preference Distillation at Search-Control Boundaries",
-              "description": "(2026) — Builds brief-guided corrective preferences at student-induced search states to target drift without runtime teacher context. (Code)",
+              "description": "Builds brief-guided corrective preferences at student-induced search states to target drift without runtime teacher context. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2000,7 +2000,7 @@
             {
               "node_type": "item",
               "title": "Trust Is Not Enough: Influence Calibration for On-Policy Self-Distillation in Agentic RL",
-              "description": "(2026) — Weights self-teacher tokens by their first-order influence on the RL surrogate, replacing teacher-trust allocation that ignores the policy objective. (Code)",
+              "description": "Weights self-teacher tokens by their first-order influence on the RL surrogate, replacing teacher-trust allocation that ignores the policy objective. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2028,7 +2028,7 @@
             {
               "node_type": "item",
               "title": "V-Zero: Answer-Label-Free On-Policy Distillation for Fine-Grained Visual Reasoning",
-              "description": "(2026) — Gates dense token-level distillation of student trajectories using a contrastive regional-crop-versus-negative-view signal, requiring no answer labels. (Code)",
+              "description": "Gates dense token-level distillation of student trajectories using a contrastive regional-crop-versus-negative-view signal, requiring no answer labels. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2049,7 +2049,7 @@
             {
               "node_type": "item",
               "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
-              "description": "(2026) — Projects the teacher's correction onto the evidence-present-minus-removed direction, shifting the student's own logits instead of matching the privileged teacher. (Code)",
+              "description": "Projects the teacher's correction onto the evidence-present-minus-removed direction, shifting the student's own logits instead of matching the privileged teacher. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2070,7 +2070,7 @@
             {
               "node_type": "item",
               "title": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
-              "description": "(2026) — Selects on-policy tokens via a trust region between zoom-in and masked-image teachers, treating modality balance itself as the privileged signal. (Code)",
+              "description": "Selects on-policy tokens via a trust region between zoom-in and masked-image teachers, treating modality balance itself as the privileged signal. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2091,7 +2091,7 @@
             {
               "node_type": "item",
               "title": "ViCuR: Visual Cues as Recoverable Privilege for Multimodal On-Policy Distillation",
-              "description": "(2026) — Multimodal OPD where a visual-cue-privileged teacher supervises student rollouts, using cues recoverable from the image to avoid answer-leakage shortcuts. (Code)",
+              "description": "Multimodal OPD where a visual-cue-privileged teacher supervises student rollouts, using cues recoverable from the image to avoid answer-leakage shortcuts. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2112,7 +2112,7 @@
             {
               "node_type": "item",
               "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
-              "description": "(2026) — Grounds AI-generated image detection in on-policy self-distillation that reweights each token by the privileged teacher's corrective value. (Code)",
+              "description": "Grounds AI-generated image detection in on-policy self-distillation that reweights each token by the privileged teacher's corrective value. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2133,7 +2133,7 @@
             {
               "node_type": "item",
               "title": "H-OPD: Confidence-Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation",
-              "description": "(2026) — Confidence-aware heterogeneous multi-teacher OPD arbitrating vision-language and text-only teachers per token along the student trajectory, replacing static per-sample teacher routing. (Code)",
+              "description": "Confidence-aware heterogeneous multi-teacher OPD arbitrating vision-language and text-only teachers per token along the student trajectory, replacing static per-sample teacher routing. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2156,7 +2156,7 @@
             {
               "node_type": "item",
               "title": "Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization",
-              "description": "(2026) — Distills failed multimodal RLVR rollouts toward a frozen reference conditioned on answer-free privileged hints, providing dense guidance without answer-revealing shortcuts. (Code)",
+              "description": "Distills failed multimodal RLVR rollouts toward a frozen reference conditioned on answer-free privileged hints, providing dense guidance without answer-revealing shortcuts. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2177,7 +2177,7 @@
             {
               "node_type": "item",
               "title": "GNDPO: Stabilizing On-Policy Distillation for MLLM Reasoning with Global Normalization",
-              "description": "(2026) — Normalizes token-level reverse-KL distillation rewards into batch-relative advantages, suppressing gradient spikes from out-of-distribution teacher-student logit mismatches. (Code)",
+              "description": "Normalizes token-level reverse-KL distillation rewards into batch-relative advantages, suppressing gradient spikes from out-of-distribution teacher-student logit mismatches. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2205,7 +2205,7 @@
             {
               "node_type": "item",
               "title": "Step-Audio-R1 Technical Report",
-              "description": "(2025) — Modality-Grounded Reasoning Distillation produces audio reasoning grounded in acoustic features. (Code)",
+              "description": "Modality-Grounded Reasoning Distillation produces audio reasoning grounded in acoustic features. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2233,7 +2233,7 @@
             {
               "node_type": "item",
               "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
-              "description": "(2026) — Matches long-horizon teacher scores across self-forced video rollouts to prevent drift in a few-step world model. (Code)",
+              "description": "Matches long-horizon teacher scores across self-forced video rollouts to prevent drift in a few-step world model. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2246,7 +2246,7 @@
                 "open_issues": 0,
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 773,
+                "stars": 782,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2254,7 +2254,7 @@
             {
               "node_type": "item",
               "title": "π-Flow: Policy-Based Few-Step Generation via Imitation Distillation",
-              "description": "(2025) — Imitation distillation aligns student flow-model trajectories with teacher under standard flow matching. (Code)",
+              "description": "Imitation distillation aligns student flow-model trajectories with teacher under standard flow matching. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2285,7 +2285,7 @@
             {
               "node_type": "item",
               "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
-              "description": "(2026) — Per-domain Flow-GRPO experts supervise student SDE rollouts via reverse-KL with Manifold Anchor Regularization. (Code)",
+              "description": "Per-domain Flow-GRPO experts supervise student SDE rollouts via reverse-KL with Manifold Anchor Regularization. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2306,7 +2306,7 @@
             {
               "node_type": "item",
               "title": "DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation",
-              "description": "(2026) — Combines DMD on autoregressive video rollouts with consistency distillation to preserve teacher-mode coverage. (Code)",
+              "description": "Combines DMD on autoregressive video rollouts with consistency distillation to preserve teacher-mode coverage. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2327,7 +2327,7 @@
             {
               "node_type": "item",
               "title": "OPDLM: Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation",
-              "description": "(2026) — Converts an autoregressive LM into a diffusion LM along the student's own reverse-diffusion rollouts, supervised by the frozen original model. (Code)",
+              "description": "Converts an autoregressive LM into a diffusion LM along the student's own reverse-diffusion rollouts, supervised by the frozen original model. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2348,7 +2348,7 @@
             {
               "node_type": "item",
               "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
-              "description": "(2026) — Draws the teacher's privileged signal from later, more-decoded steps of the student's own denoising trajectory, replacing the external reference label. (Code)",
+              "description": "Draws the teacher's privileged signal from later, more-decoded steps of the student's own denoising trajectory, replacing the external reference label. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2369,7 +2369,7 @@
             {
               "node_type": "item",
               "title": "HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models",
-              "description": "(2026) — Anchors student video sub-trajectories to privileged teacher states for condition-matched hybrid-policy self-distillation. (Code)",
+              "description": "Anchors student video sub-trajectories to privileged teacher states for condition-matched hybrid-policy self-distillation. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2390,7 +2390,7 @@
             {
               "node_type": "item",
               "title": "Learning from the Self-future: On-Policy Self-Distillation for dLLMs",
-              "description": "(2026) — First on-policy self-distillation tailored to diffusion LLMs, conditioning the self-teacher on self-generated answers as suffix context rather than autoregressive prefixes. (Code)",
+              "description": "First on-policy self-distillation tailored to diffusion LLMs, conditioning the self-teacher on self-generated answers as suffix context rather than autoregressive prefixes. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2411,7 +2411,7 @@
             {
               "node_type": "item",
               "title": "TAD: Temporal-Aware Trajectory Self-Distillation for Fast and Accurate Diffusion LLM",
-              "description": "(2026) — Partitions masked positions by remaining decoding steps into near (CE) and distant (KL) subsets. (Code)",
+              "description": "Partitions masked positions by remaining decoding steps into near (CE) and distant (KL) subsets. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2432,7 +2432,7 @@
             {
               "node_type": "item",
               "title": "SelFusion: Self-distillation for Diffusion Language Models",
-              "description": "(2026) — Distills bidirectionally between the same model's easy and hard masking passes, choosing direction per token by correctness. (Code)",
+              "description": "Distills bidirectionally between the same model's easy and hard masking passes, choosing direction per token by correctness. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2460,7 +2460,7 @@
             {
               "node_type": "item",
               "title": "LLM4Teach: Large Language Model as a Policy Teacher for Training RL Agents",
-              "description": "(2023) — LLM teacher distills into small RL agent that surpasses teacher through environment interaction. (Code)",
+              "description": "LLM teacher distills into small RL agent that surpasses teacher through environment interaction. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2489,7 +2489,7 @@
             {
               "node_type": "item",
               "title": "RPD: Refined Policy Distillation — From VLA Generalists to RL Experts",
-              "description": "(2025) — Teacher VLA actions guide student during RL exploration; combines RL with behavioral cloning. (Code)",
+              "description": "Teacher VLA actions guide student during RL exploration; combines RL with behavioral cloning. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2510,7 +2510,7 @@
             {
               "node_type": "item",
               "title": "FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving",
-              "description": "(2026) — Routes failed driving rollouts to a hidden-future self-teacher for answer-token supervision. (Code)",
+              "description": "Routes failed driving rollouts to a hidden-future self-teacher for answer-token supervision. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2544,7 +2544,7 @@
             {
               "node_type": "item",
               "title": "EAGLE-3: Scaling up Inference Acceleration via Training-Time Test",
-              "description": "(2025) — Direct token prediction with multi-layer feature fusion under on-policy training-time test; up to 6.5×. (Code)",
+              "description": "Direct token prediction with multi-layer feature fusion under on-policy training-time test; up to 6.5×. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2569,7 +2569,7 @@
             {
               "node_type": "item",
               "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
-              "description": "(2026) — Trains a causal parallel draft head over the frozen target's hidden states, producing branch-conditioned speculative trees that resolve tree drafting's causality-efficiency dilemma. (Code)",
+              "description": "Trains a causal parallel draft head over the frozen target's hidden states, producing branch-conditioned speculative trees that resolve tree drafting's causality-efficiency dilemma. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2595,7 +2595,7 @@
             {
               "node_type": "item",
               "title": "Draft-OPD: On-Policy Distillation for Speculative Draft Models",
-              "description": "(2026) — Draft-model OPD that replays drafting from verification-exposed error positions, training on target feedback over both accepted and rejected proposals. (Code)",
+              "description": "Draft-model OPD that replays drafting from verification-exposed error positions, training on target feedback over both accepted and rejected proposals. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2616,7 +2616,7 @@
             {
               "node_type": "item",
               "title": "Online Speculative Decoding",
-              "description": "(2023) — Continuously updates draft on observed queries via KD; 1.42×-2.17× latency gains. (Code)",
+              "description": "Continuously updates draft on observed queries via KD; 1.42×-2.17× latency gains. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2637,7 +2637,7 @@
             {
               "node_type": "item",
               "title": "HASS: Learning Harmonized Representations for Speculative Sampling",
-              "description": "(2024) — Harmonized objective and context distillation fixes train-decoding inconsistency. (Code)",
+              "description": "Harmonized objective and context distillation fixes train-decoding inconsistency. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2658,7 +2658,7 @@
             {
               "node_type": "item",
               "title": "Falcon: Faster and Parallel Inference through Enhanced Semi-Autoregressive Drafting",
-              "description": "(2024) — Coupled Sequential Glancing Distillation strengthens inter-token dependencies in semi-AR drafters. (Code)",
+              "description": "Coupled Sequential Glancing Distillation strengthens inter-token dependencies in semi-AR drafters. (Code)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2701,8 +2701,8 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:10:03Z",
-                "open_issues": 1206,
+                "last_commit": "2026-10-03T04:57:10Z",
+                "open_issues": 1225,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
                 "stars": 2044,
@@ -2750,10 +2750,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T11:53:24Z",
-                "open_issues": 525,
+                "open_issues": 526,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8586,
+                "stars": 8588,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2791,11 +2791,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:55:46Z",
-                "open_issues": 520,
+                "last_commit": "2026-10-02T17:21:10Z",
+                "open_issues": 522,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2368,
+                "stars": 2370,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2813,7 +2813,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T21:31:04Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "areal-project",
                 "repo": "AReaL",
                 "stars": 5805,
@@ -2879,7 +2879,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T01:11:42Z",
-                "open_issues": 185,
+                "open_issues": 187,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
                 "stars": 1197,
@@ -2911,7 +2911,7 @@
                 "open_issues": 1,
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
-                "stars": 252,
+                "stars": 253,
                 "topics": [
                   "dspark",
                   "eagle3",
@@ -2938,11 +2938,11 @@
                 "id": 1019793048,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:30:27Z",
+                "last_commit": "2026-10-02T19:44:32Z",
                 "open_issues": 131,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4166,
+                "stars": 4168,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2959,7 +2959,7 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T01:35:22Z",
+                "last_commit": "2026-10-03T01:31:34Z",
                 "open_issues": 135,
                 "owner": "alibaba",
                 "repo": "ROLL",
@@ -3040,7 +3040,7 @@
                 "open_issues": 0,
                 "owner": "Thinking-Space",
                 "repo": "Rethinking-OPD",
-                "stars": 1031,
+                "stars": 1032,
                 "topics": [
                   "llms",
                   "mechanism",
@@ -3174,7 +3174,7 @@
                 "id": 1231290259,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-07-24T00:07:06Z",
+                "last_commit": "2026-10-02T23:43:25Z",
                 "open_issues": 0,
                 "owner": "Athe-kunal",
                 "repo": "nano-opd",
@@ -3193,7 +3193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:58:03.596Z",
+    "last_updated": "2026-10-03T04:58:20.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
@@ -3202,10 +3202,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-30T03:47:45Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "chrisliu298",
       "repo": "awesome-on-policy-distillation",
-      "stars": 863,
+      "stars": 865,
       "topics": [
         "awesome",
         "awesome-list",
