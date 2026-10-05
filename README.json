@@ -61,7 +61,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38871,
+                "stars": 38872,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -140,7 +140,7 @@
                 "open_issues": 0,
                 "owner": "ZJU-REAL",
                 "repo": "Relay-OPD",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -294,7 +294,7 @@
                 "open_issues": 0,
                 "owner": "uanu2002",
                 "repo": "DAPD",
-                "stars": 93,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -789,7 +789,7 @@
                 "open_issues": 1,
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 788,
+                "stars": 789,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -831,7 +831,7 @@
                 "open_issues": 1,
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 110,
+                "stars": 112,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -972,27 +972,6 @@
             },
             {
               "node_type": "item",
-              "title": "SGSD: Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
-              "description": "Skill-conditioned OPSD whose retrieved-skill teachers are outcome-validated before distillation, extending privileged self-distillation to unreliable experience-derived context. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[EMNLP 2026] SGSD: Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
-                "homepage": null,
-                "id": 1251500279,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-21T09:06:04Z",
-                "open_issues": 1,
-                "owner": "walawalagoose",
-                "repo": "SGSD",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
               "title": "Privileged Solutions or Context-Induced Teacher Behavior? Dissecting On-Policy Self-Distillation",
               "description": "Conditions the self-teacher on other-problem solutions to isolate context-induced behavior from target-specific privilege. (Code)",
               "children": [],
@@ -1007,6 +986,27 @@
                 "open_issues": 0,
                 "owner": "MBZUAI-reasoninglab",
                 "repo": "OP2SD",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SGSD: Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
+              "description": "Skill-conditioned OPSD whose retrieved-skill teachers are outcome-validated before distillation, extending privileged self-distillation to unreliable experience-derived context. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[EMNLP 2026] SGSD: Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
+                "homepage": null,
+                "id": 1251500279,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-21T09:06:04Z",
+                "open_issues": 1,
+                "owner": "walawalagoose",
+                "repo": "SGSD",
                 "stars": 14,
                 "topics": []
               },
@@ -1466,7 +1466,7 @@
                 "id": 1097943192,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2026-03-26T08:32:54Z",
+                "last_commit": "2026-10-05T05:53:54Z",
                 "open_issues": 0,
                 "owner": "Corleno",
                 "repo": "KEPO",
@@ -1540,7 +1540,7 @@
                 "open_issues": 24,
                 "owner": "uclaml",
                 "repo": "SPIN",
-                "stars": 1254,
+                "stars": 1253,
                 "topics": [
                   "deep-learning",
                   "fine-tuning",
@@ -1579,7 +1579,7 @@
                 "open_issues": 8,
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 399,
+                "stars": 400,
                 "topics": [
                   "agentic-ai",
                   "agentic-skill",
@@ -1803,7 +1803,7 @@
                 "open_issues": 0,
                 "owner": "yiy1x",
                 "repo": "OCSD",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2041,7 +2041,7 @@
                 "open_issues": 1,
                 "owner": "eVI-group-SCU",
                 "repo": "V-Zero",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2246,7 +2246,7 @@
                 "open_issues": 0,
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 793,
+                "stars": 809,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2319,7 +2319,7 @@
                 "open_issues": 1,
                 "owner": "LiJiaxing0213",
                 "repo": "DistillAlign",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2582,7 +2582,7 @@
                 "open_issues": 5,
                 "owner": "hao-ai-lab",
                 "repo": "JetSpec",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "efficient-llm-inference",
                   "fast-inference",
@@ -2701,8 +2701,8 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T13:59:53Z",
-                "open_issues": 1236,
+                "last_commit": "2026-10-05T17:04:38Z",
+                "open_issues": 1266,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
                 "stars": 2045,
@@ -2749,11 +2749,11 @@
                 "id": 1004140701,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T11:53:24Z",
-                "open_issues": 529,
+                "last_commit": "2026-10-05T07:29:25Z",
+                "open_issues": 531,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8591,
+                "stars": 8596,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2791,11 +2791,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T07:33:54Z",
-                "open_issues": 520,
+                "last_commit": "2026-10-04T20:13:24Z",
+                "open_issues": 525,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2376,
+                "stars": 2377,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2879,7 +2879,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T01:11:42Z",
-                "open_issues": 193,
+                "open_issues": 196,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
                 "stars": 1199,
@@ -2942,7 +2942,7 @@
                 "open_issues": 131,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4171,
+                "stars": 4174,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2959,11 +2959,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T02:10:33Z",
+                "last_commit": "2026-10-05T01:45:12Z",
                 "open_issues": 136,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3416,
+                "stars": 3414,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -3065,7 +3065,7 @@
                 "open_issues": 7,
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 669,
+                "stars": 672,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3174,7 +3174,7 @@
                 "id": 1231290259,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-02T23:43:25Z",
+                "last_commit": "2026-10-04T16:19:21Z",
                 "open_issues": 0,
                 "owner": "Athe-kunal",
                 "repo": "nano-opd",
@@ -3193,7 +3193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:21:10.855Z",
+    "last_updated": "2026-10-05T17:23:14.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
@@ -3205,7 +3205,7 @@
       "open_issues": 6,
       "owner": "chrisliu298",
       "repo": "awesome-on-policy-distillation",
-      "stars": 865,
+      "stars": 866,
       "topics": [
         "awesome",
         "awesome-list",
