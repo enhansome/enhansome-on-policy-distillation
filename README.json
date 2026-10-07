@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4476,
+                "stars": 4477,
                 "topics": [
                   "agi",
                   "gpt",
@@ -61,7 +61,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38876,
+                "stars": 38880,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -86,7 +86,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4476,
+                "stars": 4477,
                 "topics": [
                   "agi",
                   "gpt",
@@ -168,6 +168,27 @@
             },
             {
               "node_type": "item",
+              "title": "Weak-to-Strong On-Policy Distillation",
+              "description": "Synthesizes a proxy teacher from two weak models' logit difference anchored on the student's base, lifting a student stronger than both. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Weak-to-Strong On-Policy Distillation",
+                "homepage": null,
+                "id": 1310495687,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-08-09T19:37:55Z",
+                "open_issues": 2,
+                "owner": "Yu-Fangxu",
+                "repo": "W2S-OPD",
+                "stars": 34,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
               "title": "SAKI: Maximal-Coupling-Routed Teacher Supervision for On-Policy Distillation",
               "description": "Routes token supervision through maximal-coupling accept and correction events of a KL-constrained teacher-guided rollout. (Code)",
               "children": [],
@@ -186,27 +207,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Weak-to-Strong On-Policy Distillation",
-              "description": "Synthesizes a proxy teacher from two weak models' logit difference anchored on the student's base, lifting a student stronger than both. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Weak-to-Strong On-Policy Distillation",
-                "homepage": null,
-                "id": 1310495687,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-08-09T19:37:55Z",
-                "open_issues": 2,
-                "owner": "Yu-Fangxu",
-                "repo": "W2S-OPD",
-                "stars": 33,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -387,7 +387,7 @@
                 "open_issues": 1,
                 "owner": "RUCBM",
                 "repo": "G-OPD",
-                "stars": 296,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -534,7 +534,7 @@
                 "open_issues": 2,
                 "owner": "LeapLabTHU",
                 "repo": "OPDVR",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-30T13:58:58.173Z"
@@ -751,6 +751,27 @@
             },
             {
               "node_type": "item",
+              "title": "Tail-Aware Top-k On-Policy Distillation",
+              "description": "Adds a tail token carrying the mass outside the teacher's top-k, stopping the entropy inflation top-k normalization induces. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1332318243,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-20T04:02:33Z",
+                "open_issues": 0,
+                "owner": "ml-stat-Sustech",
+                "repo": "TA-OPD",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-30T13:58:58.173Z"
+            },
+            {
+              "node_type": "item",
               "title": "PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation",
               "description": "Replaces on-policy distillation's unbounded log-ratio reward with a natively bounded Box–Cox power transformation, curbing high-variance gradients that post-hoc scaling cannot. (Code)",
               "children": [],
@@ -769,27 +790,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Tail-Aware Top-k On-Policy Distillation",
-              "description": "Adds a tail token carrying the mass outside the teacher's top-k, stopping the entropy inflation top-k normalization induces. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1332318243,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-20T04:02:33Z",
-                "open_issues": 0,
-                "owner": "HuipengHuang",
-                "repo": "TA-OPD",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-30T13:58:58.173Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1045,7 @@
                 "open_issues": 11,
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1110,
+                "stars": 1113,
                 "topics": [
                   "distillation",
                   "llm",
@@ -1071,7 +1071,7 @@
                 "open_issues": 1,
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 794,
+                "stars": 798,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1268,7 +1268,7 @@
                 "open_issues": 0,
                 "owner": "MBZUAI-reasoninglab",
                 "repo": "OP2SD",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1428,6 +1428,27 @@
             },
             {
               "node_type": "item",
+              "title": "Learning from Repaired Reasoning: Root-Cause-Guided On-Policy Distillation",
+              "description": "Repairs the student's own failed reasoning at its root cause and uses the repair as privileged guidance. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RC-OPD checkpoints and evaluation results. ",
+                "homepage": "https://huggingface.co/starrylay/RC-OPD",
+                "id": 1401960892,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-07T13:42:43Z",
+                "open_issues": 0,
+                "owner": "Starrylay",
+                "repo": "RC-OPD",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:08:17.524Z"
+            },
+            {
+              "node_type": "item",
               "title": "BIRD: Bootstrapped Iterative Self-Reasoning Distillation for Compressed Reasoning",
               "description": "SFT-bootstraps the rollout distribution toward cleaner prefixes before on-policy reverse-KL self-distillation, fixing OPSD's cold-start prefix bottleneck. (Code)",
               "children": [],
@@ -1467,27 +1488,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Learning from Repaired Reasoning: Root-Cause-Guided On-Policy Distillation",
-              "description": "Repairs the student's own failed reasoning at its root cause and uses the repair as privileged guidance. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "RC-OPD checkpoints and evaluation results. Code release after review.",
-                "homepage": "https://huggingface.co/starrylay/RC-OPD",
-                "id": 1401960892,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:10:04Z",
-                "open_issues": 0,
-                "owner": "Starrylay",
-                "repo": "RC-OPD",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:08:17.524Z"
             }
           ],
           "description": null,
@@ -1512,7 +1512,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4476,
+                "stars": 4477,
                 "topics": [
                   "agi",
                   "gpt",
@@ -1545,7 +1545,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4476,
+                "stars": 4477,
                 "topics": [
                   "agi",
                   "gpt",
@@ -1878,7 +1878,7 @@
                 "open_issues": 4,
                 "owner": "zhangmiaosen2000",
                 "repo": "Towards-On-Policy-SFT",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2117,7 +2117,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T09:23:56Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
                 "stars": 403,
@@ -2147,7 +2147,7 @@
                 "open_issues": 3,
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2252,7 +2252,7 @@
                 "open_issues": 0,
                 "owner": "hanyi2021",
                 "repo": "GC_OPD",
-                "stars": 32,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
@@ -2456,6 +2456,27 @@
             },
             {
               "node_type": "item",
+              "title": "ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents",
+              "description": "Converts real-time GUI-transition feedback into privileged guidance and step value scores for online computer-use self-distillation. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Online Self-Distillation from Real-Time Feedback for Computer-Use Agents",
+                "homepage": null,
+                "id": 1397405702,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-01T09:23:31Z",
+                "open_issues": 0,
+                "owner": "ZJU-REAL",
+                "repo": "ComputerSD",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:08:17.524Z"
+            },
+            {
+              "node_type": "item",
               "title": "OVCSD: Outcome-Verified Comparative Self-Distillation for LLM Agents",
               "description": "Distills only environment-verified teacher continuations branched from shared states of all-failed student rollouts, replacing unvalidated action-level teacher scores. (Code)",
               "children": [],
@@ -2474,27 +2495,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents",
-              "description": "Converts real-time GUI-transition feedback into privileged guidance and step value scores for online computer-use self-distillation. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Online Self-Distillation from Real-Time Feedback for Computer-Use Agents",
-                "homepage": null,
-                "id": 1397405702,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-01T09:23:31Z",
-                "open_issues": 0,
-                "owner": "ZJU-REAL",
-                "repo": "ComputerSD",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:08:17.524Z"
             },
             {
               "node_type": "item",
@@ -2809,11 +2809,11 @@
                 "id": 1398381847,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T14:49:36Z",
+                "last_commit": "2026-10-07T15:26:16Z",
                 "open_issues": 1,
                 "owner": "sirkosophia",
                 "repo": "Where-OPD",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
@@ -3089,7 +3089,7 @@
                 "open_issues": 0,
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 819,
+                "stars": 830,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3110,7 +3110,7 @@
                 "open_issues": 9,
                 "owner": "Lakonik",
                 "repo": "LakonLab",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "diffusion-models",
                   "distillation",
@@ -3463,7 +3463,7 @@
                 "open_issues": 101,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2546,
+                "stars": 2548,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -3607,8 +3607,8 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T14:34:10Z",
-                "open_issues": 1272,
+                "last_commit": "2026-10-07T15:18:03Z",
+                "open_issues": 1289,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
                 "stars": 2048,
@@ -3655,11 +3655,11 @@
                 "id": 1004140701,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T14:44:44Z",
-                "open_issues": 531,
+                "last_commit": "2026-10-07T13:42:50Z",
+                "open_issues": 532,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8598,
+                "stars": 8599,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3697,11 +3697,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T06:33:18Z",
-                "open_issues": 527,
+                "last_commit": "2026-10-07T05:12:16Z",
+                "open_issues": 528,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2379,
+                "stars": 2386,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3722,7 +3722,7 @@
                 "open_issues": 140,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5813,
+                "stars": 5815,
                 "topics": [
                   "agent",
                   "llm",
@@ -3748,11 +3748,11 @@
                 "id": 922406522,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T02:46:40Z",
-                "open_issues": 170,
+                "last_commit": "2026-10-07T05:03:51Z",
+                "open_issues": 169,
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5859,
+                "stars": 5860,
                 "topics": [
                   "agent-framework",
                   "agentic-workflow",
@@ -3784,8 +3784,8 @@
                 "id": 998697045,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T09:25:49Z",
-                "open_issues": 203,
+                "last_commit": "2026-10-07T10:07:11Z",
+                "open_issues": 202,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
                 "stars": 1200,
@@ -3848,7 +3848,7 @@
                 "open_issues": 131,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4179,
+                "stars": 4178,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3865,7 +3865,7 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T01:34:56Z",
+                "last_commit": "2026-10-07T13:01:32Z",
                 "open_issues": 136,
                 "owner": "alibaba",
                 "repo": "ROLL",
@@ -4099,7 +4099,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:25:55.067Z",
+    "last_updated": "2026-10-07T15:45:16.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
@@ -4111,7 +4111,7 @@
       "open_issues": 6,
       "owner": "chrisliu298",
       "repo": "awesome-on-policy-distillation",
-      "stars": 866,
+      "stars": 868,
       "topics": [
         "awesome",
         "awesome-list",
