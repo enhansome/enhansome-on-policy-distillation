@@ -58,10 +58,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T14:34:09Z",
-                "open_issues": 1998,
+                "open_issues": 2004,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38887,
+                "stars": 38895,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -119,7 +119,7 @@
                 "open_issues": 4,
                 "owner": "Peregrine123",
                 "repo": "ROPD_official",
-                "stars": 87,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -140,7 +140,7 @@
                 "open_issues": 0,
                 "owner": "ZJU-REAL",
                 "repo": "Relay-OPD",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -203,7 +203,7 @@
                 "open_issues": 0,
                 "owner": "Miteto-sudo",
                 "repo": "SAKI",
-                "stars": 34,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
@@ -429,7 +429,7 @@
                 "open_issues": 6,
                 "owner": "hhh675597",
                 "repo": "revisiting_opd",
-                "stars": 141,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -940,6 +940,27 @@
             },
             {
               "node_type": "item",
+              "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+              "description": "Trains a model to sample a frozen teacher's sequence-level power distribution in one pass via student-proposed sequential Monte Carlo. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1370194316,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-14T18:07:14Z",
+                "open_issues": 1,
+                "owner": "ArminAzizi98",
+                "repo": "OPPD",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:08:17.524Z"
+            },
+            {
+              "node_type": "item",
               "title": "SPEAR: Distilling Domain-Adaptive Reasoning Skeletons via Sequential Symbolic Alignment in Reinforcement Learning",
               "description": "Aligns student explorations to teacher symbolic milestones by longest common subsequence, giving dense process rewards without a trained verifier. (Code)",
               "children": [],
@@ -958,27 +979,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-30T13:58:58.173Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
-              "description": "Trains a model to sample a frozen teacher's sequence-level power distribution in one pass via student-proposed sequential Monte Carlo. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1370194316,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-14T18:07:14Z",
-                "open_issues": 1,
-                "owner": "ArminAzizi98",
-                "repo": "OPPD",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:08:17.524Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1045,7 @@
                 "open_issues": 11,
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1116,
+                "stars": 1117,
                 "topics": [
                   "distillation",
                   "llm",
@@ -1071,7 +1071,7 @@
                 "open_issues": 1,
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 812,
+                "stars": 816,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1113,7 +1113,7 @@
                 "open_issues": 1,
                 "owner": "THU-BPM",
                 "repo": "RLCSD",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -1159,7 +1159,7 @@
                 "id": 1175049141,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-10T10:12:49Z",
+                "last_commit": "2026-10-11T14:44:52Z",
                 "open_issues": 5,
                 "owner": "HJSang",
                 "repo": "CRISP_Reasoning_Compression",
@@ -1275,6 +1275,27 @@
             },
             {
               "node_type": "item",
+              "title": "Denser ≠ Better: Limits of On-Policy Self-Distillation for Continual Post-Training",
+              "description": "Empirical-theoretical critique showing dense on-policy self-distillation forgets more than GRPO during continual post-training, as teacher projection induces excess parameter drift. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dense token-level supervision accelerates specialization, but can hurt continual learning.",
+                "homepage": "https://moenupa.github.io/SDPO-CL",
+                "id": 1238629194,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-09T08:53:47Z",
+                "open_issues": 0,
+                "owner": "Moenupa",
+                "repo": "SDPO-CL",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
               "title": "SGSD: Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
               "description": "Skill-conditioned OPSD whose retrieved-skill teachers are outcome-validated before distillation, extending privileged self-distillation to unreliable experience-derived context. (Code)",
               "children": [],
@@ -1290,27 +1311,6 @@
                 "owner": "walawalagoose",
                 "repo": "SGSD",
                 "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Denser ≠ Better: Limits of On-Policy Self-Distillation for Continual Post-Training",
-              "description": "Empirical-theoretical critique showing dense on-policy self-distillation forgets more than GRPO during continual post-training, as teacher projection induces excess parameter drift. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dense token-level supervision accelerates specialization, but can hurt continual learning.",
-                "homepage": "https://moenupa.github.io/SDPO-CL",
-                "id": 1238629194,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-09T08:53:47Z",
-                "open_issues": 0,
-                "owner": "Moenupa",
-                "repo": "SDPO-CL",
-                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1578,7 +1578,7 @@
                 "open_issues": 1,
                 "owner": "bingreeky",
                 "repo": "LOPD",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1711,7 +1711,7 @@
                 "open_issues": 0,
                 "owner": "Thinking-Space",
                 "repo": "One-Shot-OPD",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
@@ -2036,7 +2036,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-12T08:26:02Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "rStar",
                 "stars": 1430,
@@ -2057,7 +2057,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-12T08:26:02Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "microsoft",
                 "repo": "rStar",
                 "stars": 1430,
@@ -2175,6 +2175,27 @@
             },
             {
               "node_type": "item",
+              "title": "Graph-Conditioned On-Policy Agent Distillation from Off-the-Shelf Teachers",
+              "description": "Enriches an off-the-shelf teacher's scoring context with a graph of past executions keyed by shared states. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1394736438,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-30T15:16:17Z",
+                "open_issues": 2,
+                "owner": "hanyi2021",
+                "repo": "GC_OPD",
+                "stars": 103,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:08:17.524Z"
+            },
+            {
+              "node_type": "item",
               "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
               "description": "Aggregates privileged self-teacher gaps into recursive turn-level credit, propagating sparse outcomes through long agent trajectories. (Code)",
               "children": [],
@@ -2193,27 +2214,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Graph-Conditioned On-Policy Agent Distillation from Off-the-Shelf Teachers",
-              "description": "Enriches an off-the-shelf teacher's scoring context with a graph of past executions keyed by shared states. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1394736438,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-30T15:16:17Z",
-                "open_issues": 0,
-                "owner": "hanyi2021",
-                "repo": "GC_OPD",
-                "stars": 82,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:08:17.524Z"
             },
             {
               "node_type": "item",
@@ -2252,7 +2252,7 @@
                 "open_issues": 0,
                 "owner": "bingreeky",
                 "repo": "opd-evolver",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2508,7 +2508,7 @@
                 "id": 1317168128,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T09:33:19Z",
+                "last_commit": "2026-10-11T07:54:13Z",
                 "open_issues": 6,
                 "owner": "liujunzhuo",
                 "repo": "SMRC-SD",
@@ -3615,11 +3615,11 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T13:31:40Z",
-                "open_issues": 1316,
+                "last_commit": "2026-10-11T14:18:51Z",
+                "open_issues": 1314,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 2055,
+                "stars": 2058,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3664,10 +3664,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T14:33:22Z",
-                "open_issues": 532,
+                "open_issues": 536,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8625,
+                "stars": 8632,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3706,10 +3706,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T01:26:55Z",
-                "open_issues": 528,
+                "open_issues": 530,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2400,
+                "stars": 2402,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3726,11 +3726,11 @@
                 "id": 937952934,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T07:08:40Z",
-                "open_issues": 135,
+                "last_commit": "2026-10-11T14:10:51Z",
+                "open_issues": 136,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5826,
+                "stars": 5829,
                 "topics": [
                   "agent",
                   "llm",
@@ -3757,10 +3757,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T01:22:22Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5867,
+                "stars": 5869,
                 "topics": [
                   "agent-framework",
                   "agentic-workflow",
@@ -3793,10 +3793,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-10T00:23:46Z",
-                "open_issues": 207,
+                "open_issues": 209,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
-                "stars": 1208,
+                "stars": 1210,
                 "topics": [
                   "eagle",
                   "eagle3",
@@ -3825,7 +3825,7 @@
                 "open_issues": 1,
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
-                "stars": 256,
+                "stars": 257,
                 "topics": [
                   "dspark",
                   "eagle3",
@@ -3853,10 +3853,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T06:31:51Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4184,
+                "stars": 4185,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3873,11 +3873,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T01:38:32Z",
+                "last_commit": "2026-10-11T01:42:24Z",
                 "open_issues": 136,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3417,
+                "stars": 3419,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -3920,10 +3920,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-26T21:46:18Z",
-                "open_issues": 15,
+                "open_issues": 21,
                 "owner": "erfanzar",
                 "repo": "EasyDeL",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "easydel",
                   "jax"
@@ -3954,7 +3954,7 @@
                 "open_issues": 0,
                 "owner": "Thinking-Space",
                 "repo": "Rethinking-OPD",
-                "stars": 1038,
+                "stars": 1037,
                 "topics": [
                   "llms",
                   "mechanism",
@@ -4107,7 +4107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:42:25.131Z",
+    "last_updated": "2026-10-11T15:03:30.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
