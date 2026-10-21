@@ -57,11 +57,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2008,
+                "last_commit": "2026-10-21T07:52:25Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38979,
+                "stars": 38996,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -203,7 +203,7 @@
                 "open_issues": 0,
                 "owner": "Miteto-sudo",
                 "repo": "SAKI",
-                "stars": 29,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
@@ -1071,7 +1071,7 @@
                 "open_issues": 1,
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 845,
+                "stars": 846,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1711,7 +1711,7 @@
                 "open_issues": 0,
                 "owner": "Thinking-Space",
                 "repo": "One-Shot-OPD",
-                "stars": 95,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 10,
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "agentic-ai",
                   "agentic-skill",
@@ -2147,7 +2147,7 @@
                 "open_issues": 2,
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 297,
+                "stars": 298,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2593,7 +2593,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T21:29:38Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "balibata",
                 "repo": "PR-OPD",
                 "stars": 1,
@@ -2750,7 +2750,7 @@
                 "open_issues": 0,
                 "owner": "DeepExperience",
                 "repo": "VAD_Multimodal_OPD",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2771,7 +2771,7 @@
                 "open_issues": 1,
                 "owner": "aniri15",
                 "repo": "OPD-V",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2842,7 +2842,7 @@
                 "open_issues": 2,
                 "owner": "EricTan7",
                 "repo": "VeritasPP",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2982,7 +2982,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[UnderReview'27] On-Policy Visual Evidence Distillation",
+                "description": "[UnderReview'26] On-Policy Visual Evidence Distillation",
                 "homepage": "https://sylvain-wei.github.io/ReVuE/",
                 "id": 1394305634,
                 "language": "Python",
@@ -3097,7 +3097,7 @@
                 "open_issues": 0,
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 866,
+                "stars": 867,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3233,7 +3233,7 @@
                 "open_issues": 0,
                 "owner": "Bujiazi",
                 "repo": "HPSD",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3366,7 +3366,7 @@
                 "open_issues": 3,
                 "owner": "ZJLAB-AMMI",
                 "repo": "LLM4Teach",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "agents",
                   "decison-making",
@@ -3471,7 +3471,7 @@
                 "open_issues": 102,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2555,
+                "stars": 2557,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -3615,8 +3615,8 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T13:46:26Z",
-                "open_issues": 1320,
+                "last_commit": "2026-10-21T14:05:10Z",
+                "open_issues": 1318,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
                 "stars": 2076,
@@ -3636,7 +3636,7 @@
                 "id": 1168545491,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T02:59:23Z",
+                "last_commit": "2026-10-21T09:36:28Z",
                 "open_issues": 0,
                 "owner": "songmzhang",
                 "repo": "KDFlow",
@@ -3664,10 +3664,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T08:56:38Z",
-                "open_issues": 543,
+                "open_issues": 544,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8697,
+                "stars": 8707,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3684,11 +3684,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T05:42:53Z",
-                "open_issues": 554,
+                "last_commit": "2026-10-20T17:38:46Z",
+                "open_issues": 558,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2438,
+                "stars": 2441,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3705,11 +3705,11 @@
                 "id": 937952934,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T10:36:09Z",
-                "open_issues": 136,
+                "last_commit": "2026-10-21T13:56:19Z",
+                "open_issues": 141,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5857,
+                "stars": 5864,
                 "topics": [
                   "agent",
                   "llm",
@@ -3739,7 +3739,7 @@
                 "open_issues": 174,
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5890,
+                "stars": 5894,
                 "topics": [
                   "agent-framework",
                   "agentic-workflow",
@@ -3771,8 +3771,8 @@
                 "id": 998697045,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T07:08:59Z",
-                "open_issues": 222,
+                "last_commit": "2026-10-21T09:01:34Z",
+                "open_issues": 225,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
                 "stars": 1229,
@@ -3804,7 +3804,7 @@
                 "open_issues": 1,
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
-                "stars": 262,
+                "stars": 264,
                 "topics": [
                   "dspark",
                   "eagle3",
@@ -3835,7 +3835,7 @@
                 "open_issues": 150,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4206,
+                "stars": 4207,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3852,11 +3852,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T01:27:56Z",
-                "open_issues": 139,
+                "last_commit": "2026-10-21T01:29:55Z",
+                "open_issues": 140,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3432,
+                "stars": 3433,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -3898,8 +3898,8 @@
                 "id": 625621584,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T07:03:57Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-20T18:27:08Z",
+                "open_issues": 23,
                 "owner": "erfanzar",
                 "repo": "EasyDeL",
                 "stars": 376,
@@ -3933,7 +3933,7 @@
                 "open_issues": 0,
                 "owner": "Thinking-Space",
                 "repo": "Rethinking-OPD",
-                "stars": 1051,
+                "stars": 1053,
                 "topics": [
                   "llms",
                   "mechanism",
@@ -4086,7 +4086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:49:58.104Z",
+    "last_updated": "2026-10-21T14:06:03.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
