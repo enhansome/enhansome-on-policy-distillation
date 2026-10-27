@@ -11,7 +11,7 @@
               "description": "Reverse-KL framing for generative LMs; the paper that named the field. (Code)",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
                 "homepage": "https://aka.ms/GeneralAI",
                 "id": 577753426,
@@ -57,11 +57,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T00:43:54Z",
+                "last_commit": "2026-10-26T20:10:08Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39036,
+                "stars": 39042,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -76,7 +76,7 @@
               "description": "GAD: discriminator-based reward on student rollouts; no teacher logits required. (Code)",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
                 "homepage": "https://aka.ms/GeneralAI",
                 "id": 577753426,
@@ -140,7 +140,7 @@
                 "open_issues": 4,
                 "owner": "Peregrine123",
                 "repo": "ROPD_official",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -387,7 +387,7 @@
                 "open_issues": 1,
                 "owner": "RUCBM",
                 "repo": "G-OPD",
-                "stars": 300,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -429,7 +429,7 @@
                 "open_issues": 6,
                 "owner": "hhh675597",
                 "repo": "revisiting_opd",
-                "stars": 143,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -688,6 +688,27 @@
             },
             {
               "node_type": "item",
+              "title": "Gains and Collapse in On-Policy Distillation: A Reinforcement Learning Perspective",
+              "description": "Explains OPD collapse into long repetitive outputs as reward hacking of the teacher's implicit reward model. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repo for Paper \"Gains and Collapse in On-Policy Distillation: A Reinforcement Learning Perspective\"",
+                "homepage": null,
+                "id": 1397141696,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-06T05:11:51Z",
+                "open_issues": 1,
+                "owner": "HancCui",
+                "repo": "opd_hacking",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:08:17.524Z"
+            },
+            {
+              "node_type": "item",
               "title": "BRTS: On-Policy Distillation with Best-of-N Teacher Rollout Selection",
               "description": "Auxiliary teacher-context branch alongside standard OPD; selects best-of-N teacher rollouts by correctness then student-alignment. (Code)",
               "children": [],
@@ -727,27 +748,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Gains and Collapse in On-Policy Distillation: A Reinforcement Learning Perspective",
-              "description": "Explains OPD collapse into long repetitive outputs as reward hacking of the teacher's implicit reward model. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Repo for Paper \"Gains and Collapse in On-Policy Distillation: A Reinforcement Learning Perspective\"",
-                "homepage": null,
-                "id": 1397141696,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-06T05:11:51Z",
-                "open_issues": 1,
-                "owner": "HancCui",
-                "repo": "opd_hacking",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:08:17.524Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1045,7 @@
                 "open_issues": 12,
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1131,
+                "stars": 1133,
                 "topics": [
                   "distillation",
                   "llm",
@@ -1071,7 +1071,7 @@
                 "open_issues": 1,
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 862,
+                "stars": 863,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1226,7 +1226,7 @@
                 "open_issues": 2,
                 "owner": "zzy1127",
                 "repo": "OPHSD-On-Policy-Harness-Self-Distillation",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -1296,6 +1296,27 @@
             },
             {
               "node_type": "item",
+              "title": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
+              "description": "Scores injected-input rollouts against the initialization model reading clean input, giving token-level defense signal where sequence-level preference training fails. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[EMNLP'26 Main] SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
+                "homepage": null,
+                "id": 1331372327,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-25T03:21:48Z",
+                "open_issues": 1,
+                "owner": "pppyb",
+                "repo": "SecOPD",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-30T13:58:58.173Z"
+            },
+            {
+              "node_type": "item",
               "title": "SGSD: Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
               "description": "Skill-conditioned OPSD whose retrieved-skill teachers are outcome-validated before distillation, extending privileged self-distillation to unreliable experience-derived context. (Code)",
               "children": [],
@@ -1314,27 +1335,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
-              "description": "Scores injected-input rollouts against the initialization model reading clean input, giving token-level defense signal where sequence-level preference training fails. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[EMNLP'26 Main] SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
-                "homepage": null,
-                "id": 1331372327,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-25T03:21:48Z",
-                "open_issues": 1,
-                "owner": "pppyb",
-                "repo": "SecOPD",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-30T13:58:58.173Z"
             },
             {
               "node_type": "item",
@@ -1502,7 +1502,7 @@
               "description": "Context-conditioned teacher on student rollouts; distills system prompts and experiential knowledge. (Code)",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
                 "homepage": "https://aka.ms/GeneralAI",
                 "id": 577753426,
@@ -1535,7 +1535,7 @@
               "description": "Deployment loop using OPCD for consolidating interaction traces into weights. (Code)",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
                 "homepage": "https://aka.ms/GeneralAI",
                 "id": 577753426,
@@ -2036,10 +2036,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-12T08:26:02Z",
-                "open_issues": 39,
+                "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1433,
+                "stars": 1434,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2057,10 +2057,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-12T08:26:02Z",
-                "open_issues": 39,
+                "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "rStar",
-                "stars": 1433,
+                "stars": 1434,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 10,
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "agentic-ai",
                   "agentic-skill",
@@ -2147,7 +2147,7 @@
                 "open_issues": 2,
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 303,
+                "stars": 304,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2252,7 +2252,7 @@
                 "open_issues": 0,
                 "owner": "bingreeky",
                 "repo": "opd-evolver",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3097,7 +3097,7 @@
                 "open_issues": 0,
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 837,
+                "stars": 843,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3115,7 +3115,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-14T01:08:53Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "Lakonik",
                 "repo": "LakonLab",
                 "stars": 477,
@@ -3471,7 +3471,7 @@
                 "open_issues": 104,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2562,
+                "stars": 2563,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -3615,11 +3615,11 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T15:19:22Z",
-                "open_issues": 1353,
+                "last_commit": "2026-10-27T14:53:30Z",
+                "open_issues": 1351,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 2085,
+                "stars": 2088,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3663,11 +3663,11 @@
                 "id": 1004140701,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T05:59:34Z",
-                "open_issues": 548,
+                "last_commit": "2026-10-27T03:45:40Z",
+                "open_issues": 549,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8736,
+                "stars": 8746,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3684,11 +3684,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T05:12:51Z",
-                "open_issues": 564,
+                "last_commit": "2026-10-27T04:40:19Z",
+                "open_issues": 571,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2452,
+                "stars": 2461,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3705,11 +3705,11 @@
                 "id": 937952934,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T13:22:47Z",
-                "open_issues": 144,
+                "last_commit": "2026-10-27T13:10:59Z",
+                "open_issues": 142,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5872,
+                "stars": 5878,
                 "topics": [
                   "agent",
                   "llm",
@@ -3736,10 +3736,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T19:02:56Z",
-                "open_issues": 173,
+                "open_issues": 172,
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5898,
+                "stars": 5899,
                 "topics": [
                   "agent-framework",
                   "agentic-workflow",
@@ -3771,11 +3771,11 @@
                 "id": 998697045,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T13:32:38Z",
-                "open_issues": 226,
+                "last_commit": "2026-10-27T09:53:29Z",
+                "open_issues": 225,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
-                "stars": 1242,
+                "stars": 1243,
                 "topics": [
                   "eagle",
                   "eagle3",
@@ -3800,8 +3800,8 @@
                 "id": 1163082957,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T13:06:33Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-27T08:57:29Z",
+                "open_issues": 2,
                 "owner": "lightseekorg",
                 "repo": "TorchSpec",
                 "stars": 265,
@@ -3832,10 +3832,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-26T04:47:58Z",
-                "open_issues": 139,
+                "open_issues": 138,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4216,
+                "stars": 4219,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3852,11 +3852,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T01:33:46Z",
+                "last_commit": "2026-10-27T01:33:27Z",
                 "open_issues": 141,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3439,
+                "stars": 3440,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -3898,8 +3898,8 @@
                 "id": 625621584,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T23:45:25Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-26T18:22:22Z",
+                "open_issues": 24,
                 "owner": "erfanzar",
                 "repo": "EasyDeL",
                 "stars": 376,
@@ -3958,7 +3958,7 @@
                 "open_issues": 8,
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 687,
+                "stars": 689,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -4086,7 +4086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T15:27:01.672Z",
+    "last_updated": "2026-10-27T14:53:26.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
@@ -4095,7 +4095,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-06T07:59:16Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "chrisliu298",
       "repo": "awesome-on-policy-distillation",
       "stars": 898,
