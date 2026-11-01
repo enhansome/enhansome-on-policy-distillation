@@ -61,7 +61,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39069,
+                "stars": 39080,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -210,27 +210,6 @@
             },
             {
               "node_type": "item",
-              "title": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
-              "description": "Amplifies the student's verifier-driven policy gradient along a weak teacher's RL-induced shift, letting the student surpass its supervisor. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation (More updates coming soon more soon!)",
-                "homepage": null,
-                "id": 1318151236,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-07-31T08:58:55Z",
-                "open_issues": 1,
-                "owner": "raymin0223",
-                "repo": "on_policy_reverse_distillation",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:08:17.524Z"
-            },
-            {
-              "node_type": "item",
               "title": "MOPD-Router: Rethinking Teacher Routing in Multi-Teacher On-Policy Distillation",
               "description": "Routes supervision across the whole teacher pool per token without domain labels, scoring teachers by expressed specialization. (Code)",
               "children": [],
@@ -245,6 +224,27 @@
                 "open_issues": 0,
                 "owner": "TURLEing",
                 "repo": "MOPD-Router",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:08:17.524Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
+              "description": "Amplifies the student's verifier-driven policy gradient along a weak teacher's RL-induced shift, letting the student surpass its supervisor. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
+                "homepage": null,
+                "id": 1318151236,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-01T15:18:55Z",
+                "open_issues": 1,
+                "owner": "raymin0223",
+                "repo": "on_policy_reverse_distillation",
                 "stars": 7,
                 "topics": []
               },
@@ -534,7 +534,7 @@
                 "open_issues": 2,
                 "owner": "LeapLabTHU",
                 "repo": "OPDVR",
-                "stars": 34,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-30T13:58:58.173Z"
@@ -730,6 +730,27 @@
             },
             {
               "node_type": "item",
+              "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+              "description": "Extrapolates the teacher's RL-induced residual in representation space at every layer, avoiding noisy output-space reward extrapolation. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1392805132,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-28T13:42:05Z",
+                "open_issues": 1,
+                "owner": "xixixixixxxx",
+                "repo": "RIDE",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T11:08:17.524Z"
+            },
+            {
+              "node_type": "item",
               "title": "BRTS: On-Policy Distillation with Best-of-N Teacher Rollout Selection",
               "description": "Auxiliary teacher-context branch alongside standard OPD; selects best-of-N teacher rollouts by correctness then student-alignment. (Code)",
               "children": [],
@@ -748,27 +769,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
-            },
-            {
-              "node_type": "item",
-              "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
-              "description": "Extrapolates the teacher's RL-induced residual in representation space at every layer, avoiding noisy output-space reward extrapolation. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1392805132,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-09-28T13:42:05Z",
-                "open_issues": 1,
-                "owner": "xixixixixxxx",
-                "repo": "RIDE",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-10-06T11:08:17.524Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1045,7 @@
                 "open_issues": 12,
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": [
                   "distillation",
                   "llm",
@@ -1071,7 +1071,7 @@
                 "open_issues": 1,
                 "owner": "Ahren09",
                 "repo": "UniSD",
-                "stars": 881,
+                "stars": 887,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2147,7 +2147,7 @@
                 "open_issues": 2,
                 "owner": "jinyangwu",
                 "repo": "SEED",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2294,7 +2294,7 @@
                 "open_issues": 0,
                 "owner": "BinbZheng1",
                 "repo": "GRSD",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3097,7 +3097,7 @@
                 "open_issues": 0,
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 860,
+                "stars": 866,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3471,7 +3471,7 @@
                 "open_issues": 103,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2566,
+                "stars": 2567,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -3496,7 +3496,7 @@
                 "open_issues": 6,
                 "owner": "hao-ai-lab",
                 "repo": "JetSpec",
-                "stars": 250,
+                "stars": 253,
                 "topics": [
                   "efficient-llm-inference",
                   "fast-inference",
@@ -3543,7 +3543,7 @@
                 "open_issues": 6,
                 "owner": "LiuXiaoxuanPKU",
                 "repo": "OSD",
-                "stars": 69,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3615,11 +3615,11 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T14:42:45Z",
-                "open_issues": 1353,
+                "last_commit": "2026-11-01T10:01:17Z",
+                "open_issues": 1354,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 2095,
+                "stars": 2096,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3664,10 +3664,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T03:45:40Z",
-                "open_issues": 557,
+                "open_issues": 559,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8770,
+                "stars": 8774,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3684,11 +3684,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T00:31:24Z",
+                "last_commit": "2026-11-01T06:23:07Z",
                 "open_issues": 573,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2480,
+                "stars": 2482,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3705,11 +3705,11 @@
                 "id": 937952934,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T13:52:04Z",
-                "open_issues": 151,
+                "last_commit": "2026-10-31T23:03:02Z",
+                "open_issues": 150,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5888,
+                "stars": 5889,
                 "topics": [
                   "agent",
                   "llm",
@@ -3771,11 +3771,11 @@
                 "id": 998697045,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T14:00:19Z",
-                "open_issues": 242,
+                "last_commit": "2026-11-01T12:13:06Z",
+                "open_issues": 250,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
-                "stars": 1251,
+                "stars": 1252,
                 "topics": [
                   "eagle",
                   "eagle3",
@@ -3832,10 +3832,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T23:10:52Z",
-                "open_issues": 140,
+                "open_issues": 141,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4231,
+                "stars": 4232,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3852,7 +3852,7 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T01:12:36Z",
+                "last_commit": "2026-11-01T01:12:49Z",
                 "open_issues": 143,
                 "owner": "alibaba",
                 "repo": "ROLL",
@@ -3898,8 +3898,8 @@
                 "id": 625621584,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T02:34:09Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-31T22:13:33Z",
+                "open_issues": 23,
                 "owner": "erfanzar",
                 "repo": "EasyDeL",
                 "stars": 377,
@@ -3933,7 +3933,7 @@
                 "open_issues": 0,
                 "owner": "Thinking-Space",
                 "repo": "Rethinking-OPD",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": [
                   "llms",
                   "mechanism",
@@ -3958,7 +3958,7 @@
                 "open_issues": 8,
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 697,
+                "stars": 698,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -4086,7 +4086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:43:35.623Z",
+    "last_updated": "2026-11-01T15:26:30.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
