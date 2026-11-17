@@ -57,11 +57,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T16:31:35Z",
+                "last_commit": "2026-11-17T14:26:16Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39192,
+                "stars": 39207,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -140,7 +140,7 @@
                 "open_issues": 4,
                 "owner": "Peregrine123",
                 "repo": "ROPD_official",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -221,10 +221,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-14T05:34:51Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "TURLEing",
                 "repo": "MOPD-Router",
-                "stars": 10,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
@@ -1045,7 +1045,7 @@
                 "open_issues": 11,
                 "owner": "lasgroup",
                 "repo": "SDPO",
-                "stars": 1148,
+                "stars": 1149,
                 "topics": [
                   "distillation",
                   "llm",
@@ -1092,7 +1092,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 735,
+                "stars": 736,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -2120,7 +2120,7 @@
                 "open_issues": 11,
                 "owner": "ZJU-REAL",
                 "repo": "SDAR",
-                "stars": 381,
+                "stars": 382,
                 "topics": [
                   "agentic-ai",
                   "agentic-skill",
@@ -2828,6 +2828,27 @@
             },
             {
               "node_type": "item",
+              "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
+              "description": "Grounds AI-generated image detection in on-policy self-distillation that reweights each token by the privileged teacher's corrective value. (Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1315117544,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-25T11:02:21Z",
+                "open_issues": 2,
+                "owner": "EricTan7",
+                "repo": "VeritasPP",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:21:21.736Z"
+            },
+            {
+              "node_type": "item",
               "title": "OPD-Aha: From Linguistic Momentum to Visual Reflection in Multimodal On-Policy Distillation",
               "description": "Rebuilds the multimodal distillation target from the teacher's isolated visual preference, contrasting real image against a visual null. (Code)",
               "children": [],
@@ -2846,27 +2867,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-06T11:08:17.524Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
-              "description": "Grounds AI-generated image detection in on-policy self-distillation that reweights each token by the privileged teacher's corrective value. (Code)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1315117544,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-08-25T11:02:21Z",
-                "open_issues": 2,
-                "owner": "EricTan7",
-                "repo": "VeritasPP",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:21:21.736Z"
             },
             {
               "node_type": "item",
@@ -3097,7 +3097,7 @@
                 "open_issues": 0,
                 "owner": "AlayaLab",
                 "repo": "Evoke",
-                "stars": 964,
+                "stars": 969,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3118,7 +3118,7 @@
                 "open_issues": 10,
                 "owner": "Lakonik",
                 "repo": "LakonLab",
-                "stars": 496,
+                "stars": 499,
                 "topics": [
                   "diffusion-models",
                   "distillation",
@@ -3149,7 +3149,7 @@
                 "open_issues": 5,
                 "owner": "CostaliyA",
                 "repo": "Flow-OPD",
-                "stars": 313,
+                "stars": 312,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3191,7 +3191,7 @@
                 "open_issues": 1,
                 "owner": "divelab",
                 "repo": "OPDLM",
-                "stars": 27,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3471,7 +3471,7 @@
                 "open_issues": 104,
                 "owner": "SafeAILab",
                 "repo": "EAGLE",
-                "stars": 2578,
+                "stars": 2579,
                 "topics": [
                   "large-language-models",
                   "llm-inference",
@@ -3522,7 +3522,7 @@
                 "open_issues": 3,
                 "owner": "Simplified-Reasoning",
                 "repo": "Draft-OPD",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3615,11 +3615,11 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T18:53:00Z",
-                "open_issues": 1443,
+                "last_commit": "2026-11-17T17:47:33Z",
+                "open_issues": 1448,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 2135,
+                "stars": 2137,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3664,10 +3664,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T23:42:16Z",
-                "open_issues": 574,
+                "open_issues": 577,
                 "owner": "THUDM",
                 "repo": "slime",
-                "stars": 8831,
+                "stars": 8839,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3684,11 +3684,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T18:18:32Z",
-                "open_issues": 650,
+                "last_commit": "2026-11-17T17:51:34Z",
+                "open_issues": 654,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2532,
+                "stars": 2533,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3705,11 +3705,11 @@
                 "id": 937952934,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T16:41:53Z",
-                "open_issues": 176,
+                "last_commit": "2026-11-17T16:07:05Z",
+                "open_issues": 181,
                 "owner": "areal-project",
                 "repo": "AReaL",
-                "stars": 5913,
+                "stars": 5914,
                 "topics": [
                   "agent",
                   "llm",
@@ -3736,10 +3736,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T19:02:56Z",
-                "open_issues": 206,
+                "open_issues": 207,
                 "owner": "rllm-org",
                 "repo": "rllm",
-                "stars": 5920,
+                "stars": 5923,
                 "topics": [
                   "agent-framework",
                   "agentic-workflow",
@@ -3771,11 +3771,11 @@
                 "id": 998697045,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T09:36:11Z",
-                "open_issues": 271,
+                "last_commit": "2026-11-17T12:02:43Z",
+                "open_issues": 269,
                 "owner": "sgl-project",
                 "repo": "SpecForge",
-                "stars": 1288,
+                "stars": 1289,
                 "topics": [
                   "eagle",
                   "eagle3",
@@ -3831,11 +3831,11 @@
                 "id": 1019793048,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T18:00:15Z",
-                "open_issues": 164,
+                "last_commit": "2026-11-17T01:09:49Z",
+                "open_issues": 165,
                 "owner": "thinking-machines-lab",
                 "repo": "tinker-cookbook",
-                "stars": 4261,
+                "stars": 4268,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3852,11 +3852,11 @@
                 "id": 991939049,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T01:15:12Z",
+                "last_commit": "2026-11-17T01:13:54Z",
                 "open_issues": 147,
                 "owner": "alibaba",
                 "repo": "ROLL",
-                "stars": 3455,
+                "stars": 3454,
                 "topics": [
                   "agentic",
                   "rlhf",
@@ -3881,7 +3881,7 @@
                 "open_issues": 3,
                 "owner": "lds-ustc",
                 "repo": "EasyOPD",
-                "stars": 84,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3898,7 +3898,7 @@
                 "id": 625621584,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T15:01:09Z",
+                "last_commit": "2026-11-17T00:17:55Z",
                 "open_issues": 24,
                 "owner": "erfanzar",
                 "repo": "EasyDeL",
@@ -3958,7 +3958,7 @@
                 "open_issues": 9,
                 "owner": "siyan-zhao",
                 "repo": "OPSD",
-                "stars": 718,
+                "stars": 719,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -3979,7 +3979,7 @@
                 "open_issues": 4,
                 "owner": "ali-vilab",
                 "repo": "DiffusionOPD",
-                "stars": 196,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:21.736Z"
@@ -4086,7 +4086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T18:53:03.157Z",
+    "last_updated": "2026-11-17T17:51:58.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models",
@@ -4098,7 +4098,7 @@
       "open_issues": 9,
       "owner": "chrisliu298",
       "repo": "awesome-on-policy-distillation",
-      "stars": 919,
+      "stars": 920,
       "topics": [
         "awesome",
         "awesome-list",
